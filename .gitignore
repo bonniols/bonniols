@@ -2,6 +2,15 @@ _site/
 _tmp/
 .DS_Store
 node_modules/
+
+# Yarn Berry — ignore cache/unplugged/state; keep releases, plugins, patches, sdks, versions
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
 .vscode/
 *git/
 package-lock.json
