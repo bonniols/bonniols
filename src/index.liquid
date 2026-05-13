@@ -1,0 +1,14 @@
+---
+title: Home
+layout: layouts/base.liquid
+---
+<div class="container mx-auto max-w-2xl px-4 py-12">
+  <h1 class="text-3xl font-bold mb-6">Projects</h1>
+  <ul class="space-y-3">
+    {% for project in collections.projectsSorted %}
+    <li>
+      <a class="text-lg text-blue-700 underline hover:text-blue-900" href="{{ project.url }}">{{ project.data.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
