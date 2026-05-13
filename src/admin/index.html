@@ -10,9 +10,57 @@
 <body>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
     <script>
-      // Same stylesheet as the live site (see layouts/base.liquid). Styles Decap’s
-      // preview iframe when it renders entry fields; full-page preview_path URLs already include it.
-      CMS.registerPreviewStyle("/assets/css/main.css");
+      (function () {
+        // Same stylesheet as the live site (layouts/base.liquid).
+        CMS.registerPreviewStyle("/assets/css/main.css");
+
+        // Match layouts/project.liquid for the projects collection preview pane.
+        if (typeof createClass === "undefined" || typeof h === "undefined") {
+          console.warn("Decap preview helpers missing; custom project layout preview skipped.");
+          return;
+        }
+
+        var ProjectPreview = createClass({
+          displayName: "ProjectPreview",
+          render: function () {
+            var title = this.props.entry.getIn(["data", "title"]);
+            return h(
+              "div",
+              { className: "bg-white text-black" },
+              h(
+                "article",
+                { className: "container mx-auto max-w-3xl px-4 py-12" },
+                h(
+                  "p",
+                  { className: "mb-4" },
+                  h(
+                    "a",
+                    {
+                      href: "#",
+                      className: "text-blue-700 underline hover:text-blue-900",
+                      onClick: function (e) {
+                        e.preventDefault();
+                      },
+                    },
+                    "← Home",
+                  ),
+                ),
+                h("h1", { className: "text-3xl font-bold mb-6" }, title || "Untitled"),
+                h(
+                  "div",
+                  {
+                    className:
+                      "space-y-4 leading-relaxed text-neutral-800 [&_a]:text-blue-700 [&_a]:underline",
+                  },
+                  this.props.widgetFor("body"),
+                ),
+              ),
+            );
+          },
+        });
+
+        CMS.registerPreviewTemplate("projects", ProjectPreview);
+      })();
     </script>
     <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </body>

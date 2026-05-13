@@ -1,1 +1,13 @@
 @import 'tailwindcss';
+
+@layer base {
+    h1 {
+        @apply text-2xl font-bold;
+    }
+}
+
+@layer components {
+    .frame-content {
+        @apply p-6;
+    }
+}
