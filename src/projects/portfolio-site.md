@@ -1,6 +1,6 @@
 ---
 title: Portfolio site
-order: 1
+order: 3
 ---
 This project was a full **redesign** of a personal portfolio, focusing on performance and clear typography.
 
