@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   branch: v1
 
+locale: "fr"
+
 # Production site (no trailing slash). Needed for the editor preview iframe and
 # “view live” links on published entries. Use your Netlify URL or custom domain.
 site_url: https://sylvainbonniol.netlify.app
@@ -21,7 +23,6 @@ collections:
     format: frontmatter
     slug: "{{slug}}"
     identifier_field: title
-    # Matches Eleventy permalink /projects/{{ page.fileSlug }}/
     preview_path: "projects/{{slug}}/"
     editor:
       preview: true
