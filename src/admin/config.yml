@@ -8,10 +8,17 @@ locale: "fr"
 # “view live” links on published entries. Use your Netlify URL or custom domain.
 site_url: https://sylvainbonniol.netlify.app
 
-media_folder: src/assets/img
-public_folder: /assets/img
+# media_folder: src/assets/img
+# public_folder: /assets/img
 
 local_backend: true
+
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dgygqmduf
+    api_key: 568594127542439
+    multiple: true
 
 collections:
   - name: projects
