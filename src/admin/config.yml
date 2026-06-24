@@ -49,3 +49,8 @@ collections:
       - label: Body
         name: body
         widget: markdown
+      - label: Gallery
+        name: gallery
+        widget: image
+        allow_multiple: true
+        required: false

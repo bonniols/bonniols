@@ -6,3 +6,22 @@ layout: layouts/base.liquid
   <h1 class="text-3xl font-bold mb-6">{{ title }}</h1>
   <div class="space-y-4 leading-relaxed text-neutral-800 [&_a]:text-blue-700 [&_a]:underline">{{ content }}</div>
 </article>
+{% if gallery and gallery.size > 0 %}
+  <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 my-8">
+    {% for item in gallery %}
+      <figure class="group relative">
+        <img
+          src="{{ item }}"
+          alt="{{ item.caption | default: '' }}"
+          loading="lazy"
+          class="w-full h-auto"
+        >
+        {% if item.caption %}
+          <figcaption class="absolute inset-x-0 bottom-0 bg-black/70 text-white text-sm p-2 opacity-0 group-hover:opacity-100 transition-opacity">
+            {{ item.caption }}
+          </figcaption>
+        {% endif %}
+      </figure>
+    {% endfor %}
+  </div>
+{% endif %}
