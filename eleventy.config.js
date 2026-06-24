@@ -1,6 +1,7 @@
+import 'dotenv/config';
+
 import fs from 'fs';
 import path from 'path';
-
 import cssnano from 'cssnano';
 import postcss from 'postcss';
 import tailwindcss from '@tailwindcss/postcss';
