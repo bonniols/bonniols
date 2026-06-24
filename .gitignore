@@ -1,5 +1,5 @@
 _site/
-_tmp/
+_docs/
 .DS_Store
 node_modules/
 
