@@ -1,4 +1,4 @@
-# Bonniols
+# Sylvain Bonniol
 
 Personal portfolio site: a static project list with individual project pages, editable through a web-based admin UI.
 
@@ -39,15 +39,15 @@ The site is a **static site** built at deploy time. There is no application serv
 
 ### Content model
 
-| Type | Location | Notes |
-|------|----------|-------|
-| Home page | `src/index.liquid` | Lists all projects, sorted by `order` then title |
-| Project pages | `src/projects/*.md` | Markdown with front matter; URL `/projects/<slug>/` |
-| Shared project defaults | `src/projects/projects.json` | Layout, tags, permalink pattern |
-| Layouts | `src/_includes/layouts/` | Liquid templates (`base.liquid`, `project.liquid`) |
-| Styles | `src/assets/css/main.css` | Tailwind entry point |
-| Images | [Cloudinary](https://cloudinary.com/) (`bonniols/` folder) | Uploaded via Decap CMS; stored as `https://res.cloudinary.com/...` URLs in Markdown |
-| Admin UI | `src/admin/` | Decap CMS frontend + `config.yml` |
+| Type                    | Location                                                   | Notes                                                                               |
+| ----------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Home page               | `src/index.liquid`                                         | Lists all projects, sorted by `order` then title                                    |
+| Project pages           | `src/projects/*.md`                                        | Markdown with front matter; URL `/projects/<slug>/`                                 |
+| Shared project defaults | `src/projects/projects.json`                               | Layout, tags, permalink pattern                                                     |
+| Layouts                 | `src/_includes/layouts/`                                   | Liquid templates (`base.liquid`, `project.liquid`)                                  |
+| Styles                  | `src/assets/css/main.css`                                  | Tailwind entry point                                                                |
+| Images                  | [Cloudinary](https://cloudinary.com/) (`bonniols/` folder) | Uploaded via Decap CMS; stored as `https://res.cloudinary.com/...` URLs in Markdown |
+| Admin UI                | `src/admin/`                                               | Decap CMS frontend + `config.yml`                                                   |
 
 Projects are tagged `projects` and collected into `collections.projectsSorted`, which sorts by the numeric `order` field (lower first), then alphabetically by title.
 
@@ -55,18 +55,18 @@ Projects are tagged `projects` and collected into `collections.projectsSorted`, 
 
 ## Libraries & tools
 
-| Package | Role |
-|---------|------|
-| [@11ty/eleventy](https://www.11ty.dev/) | Static site generator |
-| [Liquid](https://shopify.github.io/liquid/) | Template engine (via Eleventy) |
-| [Tailwind CSS](https://tailwindcss.com/) v4 | Utility-first CSS |
-| [@tailwindcss/postcss](https://tailwindcss.com/docs/installation/using-postcss) | Tailwind PostCSS plugin |
-| [PostCSS](https://postcss.org/) | CSS processing pipeline |
-| [cssnano](https://cssnano.co/) | CSS minification |
-| [Decap CMS](https://decapcms.org/) (v3) | Git-based content admin at `/admin/` |
-| [Netlify Identity](https://docs.netlify.com/security/secure-access-to-sites/identity/) | Authentication for the admin in production |
+| Package                                                                                      | Role                                                                    |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [@11ty/eleventy](https://www.11ty.dev/)                                                      | Static site generator                                                   |
+| [Liquid](https://shopify.github.io/liquid/)                                                  | Template engine (via Eleventy)                                          |
+| [Tailwind CSS](https://tailwindcss.com/) v4                                                  | Utility-first CSS                                                       |
+| [@tailwindcss/postcss](https://tailwindcss.com/docs/installation/using-postcss)              | Tailwind PostCSS plugin                                                 |
+| [PostCSS](https://postcss.org/)                                                              | CSS processing pipeline                                                 |
+| [cssnano](https://cssnano.co/)                                                               | CSS minification                                                        |
+| [Decap CMS](https://decapcms.org/) (v3)                                                      | Git-based content admin at `/admin/`                                    |
+| [Netlify Identity](https://docs.netlify.com/security/secure-access-to-sites/identity/)       | Authentication for the admin in production                              |
 | [Netlify Git Gateway](https://docs.netlify.com/security/secure-access-to-sites/git-gateway/) | Lets Decap commit content to the repo without direct GitHub credentials |
-| [Cloudinary](https://cloudinary.com/) | Media library for Decap CMS image uploads and picker |
+| [Cloudinary](https://cloudinary.com/)                                                        | Media library for Decap CMS image uploads and picker                    |
 
 Decap CMS and Netlify Identity are loaded from CDN in `src/admin/index.html`; they are not npm dependencies. Cloudinary is configured as Decap’s `media_library` in `src/admin/config.yml`.
 
@@ -134,12 +134,12 @@ Output is written to `_site/`.
 
 The site is deployed on **Netlify**, connected to the GitHub repository `OIIOIIOI/bonniols`.
 
-| Setting | Value |
-|---------|-------|
-| Build command | `npm run build` |
-| Publish directory | `_site` |
-| Deploy branch | `v1` (used by Decap CMS Git Gateway) |
-| Production URL | [https://sylvainbonniol.netlify.app](https://sylvainbonniol.netlify.app) |
+| Setting           | Value                                                                    |
+| ----------------- | ------------------------------------------------------------------------ |
+| Build command     | `npm run build`                                                          |
+| Publish directory | `_site`                                                                  |
+| Deploy branch     | `v1` (used by Decap CMS Git Gateway)                                     |
+| Production URL    | [https://sylvainbonniol.netlify.app](https://sylvainbonniol.netlify.app) |
 
 Configuration lives in `netlify.toml`:
 
@@ -157,10 +157,10 @@ Pushing to the connected branch triggers a Netlify build. Content edited through
 
 Content is managed with **Decap CMS** at `/admin/`.
 
-| Environment | Admin URL |
-|-------------|-----------|
-| Production | [https://sylvainbonniol.netlify.app/admin/](https://sylvainbonniol.netlify.app/admin/) |
-| Local | [http://localhost:8080/admin/](http://localhost:8080/admin/) |
+| Environment | Admin URL                                                                              |
+| ----------- | -------------------------------------------------------------------------------------- |
+| Production  | [https://sylvainbonniol.netlify.app/admin/](https://sylvainbonniol.netlify.app/admin/) |
+| Local       | [http://localhost:8080/admin/](http://localhost:8080/admin/)                           |
 
 The CMS is configured in `src/admin/config.yml` (French locale, `git-gateway` backend, branch `v1`).
 
@@ -239,11 +239,11 @@ For full setup steps (Netlify, Decap, Cloudinary wiring), see [`docs/handoff-wir
 
 The **Projects** collection exposes:
 
-| Field | Purpose |
-|-------|---------|
-| Title | Display name and page heading |
+| Field | Purpose                                        |
+| ----- | ---------------------------------------------- |
+| Title | Display name and page heading                  |
 | Order | Sort position on the home page (lower = first) |
-| Body | Markdown content for the project page |
+| Body  | Markdown content for the project page          |
 
 New projects create a Markdown file in `src/projects/`. The URL slug is derived from the title. Images uploaded in the editor are hosted on Cloudinary and referenced by URL in the Markdown body.
 
