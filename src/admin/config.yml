@@ -6,7 +6,7 @@ locale: "fr"
 
 # Production site (no trailing slash). Needed for the editor preview iframe and
 # “view live” links on published entries. Use your Netlify URL or custom domain.
-site_url: https://sylvainbonniol.netlify.app
+site_url: https://bonniols.netlify.app
 
 # media_folder: src/assets/img
 # public_folder: /assets/img
@@ -16,8 +16,8 @@ local_backend: true
 media_library:
   name: cloudinary
   config:
-    cloud_name: dgygqmduf
-    api_key: 568594127542439
+    cloud_name: yxpagolc
+    api_key: 825673371332129
     multiple: true
 
 collections:
