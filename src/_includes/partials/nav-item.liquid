@@ -30,7 +30,7 @@
       </button>
       <ul
         class="absolute min-w-[12rem] py-1 bg-white shadow-lg border border-neutral-100 rounded-md opacity-0 invisible transition-all z-10
-          {% if depth == 0 %}top-full left-0 group-hover:opacity-100 group-hover:visible group-focus-within:opacity-100 group-focus-within:visible{% else %}left-full top-0 group-hover/sub:opacity-100 group-hover/sub:visible group-focus-within/sub:opacity-100 group-focus-within/sub:visible{% endif %}"
+          {% if depth == 0 %}top-full right-0 group-hover:opacity-100 group-hover:visible group-focus-within:opacity-100 group-focus-within:visible{% else %}top-0 right-0 group-hover/sub:opacity-100 group-hover/sub:visible group-focus-within/sub:opacity-100 group-focus-within/sub:visible{% endif %}"
         role="menu"
       >
         {% for child in item.children %}
