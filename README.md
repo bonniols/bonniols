@@ -37,6 +37,13 @@ The site is a **static site** built at deploy time. There is no application serv
 3. **cssnano** minifies the compiled CSS.
 4. **Netlify** runs `npm run build` and publishes the `_site/` folder.
 
+### Key config files
+
+| File | Brick | What it does |
+|------|-------|--------------|
+| `eleventy.config.js` | **Build** | Eleventy entry point: `src` → `_site`, Liquid templates, `projectsSorted` collection (order → title), Tailwind compile + minify before each build, passthrough for `admin/config.yml` and `assets/img`. |
+| `src/admin/config.yml` | **Admin** | Decap CMS: Git Gateway on branch `v1`, French UI, Cloudinary media picker, **Projects** collection schema (fields → `src/projects/*.md`). Copied to `/admin/config.yml` at build. |
+
 ### Content model
 
 | Type                    | Location                                                   | Notes                                                                               |
@@ -76,7 +83,7 @@ Decap CMS and Netlify Identity are loaded from CDN in `src/admin/index.html`; th
 
 ```
 bonniols/
-├── eleventy.config.js      # Eleventy config, Tailwind build hook, passthrough copies
+├── eleventy.config.js      # Build: Eleventy + Tailwind + collections
 ├── netlify.toml            # Netlify build settings
 ├── package.json
 ├── src/
@@ -86,7 +93,7 @@ bonniols/
 │   ├── assets/img/         # Legacy/local passthrough (images use Cloudinary)
 │   ├── admin/
 │   │   ├── index.html      # Decap CMS shell + preview templates
-│   │   └── config.yml      # CMS collections, backend, locale
+│   │   └── config.yml      # Admin: Decap backend, fields, Cloudinary
 │   └── projects/           # Project Markdown files
 └── _site/                  # Build output (gitignored)
 ```
@@ -162,7 +169,7 @@ Content is managed with **Decap CMS** at `/admin/`.
 | Production  | [https://sylvainbonniol.netlify.app/admin/](https://sylvainbonniol.netlify.app/admin/) |
 | Local       | [http://localhost:8080/admin/](http://localhost:8080/admin/)                           |
 
-The CMS is configured in `src/admin/config.yml` (French locale, `git-gateway` backend, branch `v1`).
+Decap is driven by `src/admin/config.yml`: **git-gateway** + branch `v1` in production; `local_backend: true` for local edits; `site_url` for preview/live links; Cloudinary for uploads; **Projets** collection maps to `src/projects/`.
 
 ### Production admin (Netlify)
 

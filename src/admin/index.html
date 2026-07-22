@@ -2,67 +2,138 @@
 <html>
 
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Content Manager</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Content Manager</title>
 </head>
 
 <body>
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    <script>
-      (function () {
-        // Same stylesheet as the live site (layouts/base.liquid).
-        CMS.registerPreviewStyle("/assets/css/main.css");
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script>
+    (function () {
+      // Same stylesheet as the live site (layouts/base.liquid).
+      CMS.registerPreviewStyle("/assets/css/main.css");
+      CMS.registerPreviewStyle("html, body { min-height: 100%; margin: 0; }", { raw: true });
 
-        // Match layouts/project.liquid for the projects collection preview pane.
-        if (typeof createClass === "undefined" || typeof h === "undefined") {
-          console.warn("Decap preview helpers missing; custom project layout preview skipped.");
-          return;
+      // Match layouts/project.liquid for the projects collection preview pane.
+      if (typeof createClass === "undefined" || typeof h === "undefined") {
+        console.warn("Decap preview helpers missing; custom project layout preview skipped.");
+        return;
+      }
+
+      function galleryUrls(entry) {
+        var gallery = entry.getIn(["data", "gallery"]);
+        if (!gallery) return [];
+
+        if (typeof gallery.toJS === "function") {
+          return gallery.toJS().filter(Boolean);
         }
 
-        var ProjectPreview = createClass({
-          displayName: "ProjectPreview",
-          render: function () {
-            var title = this.props.entry.getIn(["data", "title"]);
-            return h(
-              "div",
-              { className: "bg-white text-black" },
+        return Array.isArray(gallery) ? gallery.filter(Boolean) : [gallery];
+      }
+
+      function gallerySrc(getAsset, url) {
+        if (!url) return "";
+
+        var asset = getAsset(url);
+        return asset ? asset.toString() : url;
+      }
+
+      function applyPageBackground(doc, color) {
+        if (!doc) return;
+
+        doc.documentElement.style.backgroundColor = color;
+        doc.body.style.minHeight = "100%";
+      }
+
+      function clearPageBackground(doc) {
+        if (!doc) return;
+
+        doc.documentElement.style.backgroundColor = "";
+        doc.body.style.minHeight = "";
+      }
+
+      var ProjectPreview = createClass({
+        displayName: "ProjectPreview",
+        componentDidMount: function () {
+          applyPageBackground(
+            this.props.document,
+            this.props.entry.getIn(["data", "background_color"]) || "#FFFFFF",
+          );
+        },
+        componentDidUpdate: function () {
+          applyPageBackground(
+            this.props.document,
+            this.props.entry.getIn(["data", "background_color"]) || "#FFFFFF",
+          );
+        },
+        componentWillUnmount: function () {
+          clearPageBackground(this.props.document);
+        },
+        render: function () {
+          var title = this.props.entry.getIn(["data", "title"]);
+          var urls = galleryUrls(this.props.entry);
+
+          return h(
+            "div",
+            { className: "text-black" },
+            h(
+              "article",
+              { className: "container mx-auto max-w-3xl px-4 py-12" },
               h(
-                "article",
-                { className: "container mx-auto max-w-3xl px-4 py-12" },
+                "p",
+                { className: "mb-4" },
                 h(
-                  "p",
-                  { className: "mb-4" },
-                  h(
-                    "a",
-                    {
-                      href: "#",
-                      className: "text-blue-700 underline hover:text-blue-900",
-                      onClick: function (e) {
-                        e.preventDefault();
-                      },
-                    },
-                    "← Home",
-                  ),
-                ),
-                h("h1", { className: "text-3xl font-bold mb-6" }, title || "Untitled"),
-                h(
-                  "div",
+                  "a",
                   {
-                    className:
-                      "space-y-4 leading-relaxed text-neutral-800 [&_a]:text-blue-700 [&_a]:underline",
+                    href: "#",
+                    className: "text-blue-700 underline hover:text-blue-900",
+                    onClick: function (e) {
+                      e.preventDefault();
+                    },
                   },
-                  this.props.widgetFor("body"),
+                  "← Home",
                 ),
               ),
-            );
-          },
-        });
+              h("h1", { className: "text-3xl font-bold mb-6" }, title || "Untitled"),
+              h(
+                "div",
+                {
+                  className:
+                    "space-y-4 leading-relaxed text-neutral-800 [&_a]:text-blue-700 [&_a]:underline",
+                },
+                this.props.widgetFor("body"),
+              ),
+            ),
+            urls.length > 0
+              ? h(
+                "div",
+                {
+                  className:
+                    "mx-auto max-w-5xl px-4 grid grid-cols-2 sm:grid-cols-4 gap-4 my-8",
+                },
+                urls.map(function (url, index) {
+                  return h(
+                    "figure",
+                    { key: index, className: "group relative" },
+                    h("img", {
+                      src: gallerySrc(this.props.getAsset, url),
+                      alt: "",
+                      loading: "lazy",
+                      className: "w-full h-auto",
+                    }),
+                  );
+                }, this),
+              )
+              : null,
+          );
+        },
+      });
 
-        CMS.registerPreviewTemplate("projects", ProjectPreview);
-      })();
-    </script>
-    <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+      CMS.registerPreviewTemplate("projects", ProjectPreview);
+    })();
+  </script>
+  <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </body>
 
 </html>

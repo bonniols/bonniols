@@ -22,8 +22,8 @@ media_library:
 
 collections:
   - name: projects
-    label: Projects
-    label_singular: Project
+    label: Projets
+    label_singular: Projet
     folder: src/projects
     create: true
     extension: md
@@ -37,20 +37,71 @@ collections:
       - title
       - order
     fields:
-      - label: Title
-        name: title
+      - name: title
+        label: Titre
         widget: string
-      - label: Order
-        name: order
+      - name: order
+        label: Ordre
         widget: number
         value_type: int
         default: 0
         required: false
-      - label: Body
-        name: body
+      - name: show_in_nav
+        label: Afficher dans le menu
+        widget: boolean
+        default: true
+        required: false
+      - name: background_color
+        label: Couleur de fond
+        widget: color
+        default: "#FFFFFF"
+        required: false
+      - name: body
+        label: Texte
         widget: markdown
-      - label: Gallery
-        name: gallery
+      - name: gallery
+        label: Images
         widget: image
         allow_multiple: true
         required: false
+
+  - name: navigation
+    label: Navigation
+    label_singular: Lien de menu
+    folder: src/nav
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{slug}}"
+    identifier_field: eleventyNavigation.title
+    fields:
+      - name: eleventyNavigation
+        label: Entrée de menu
+        widget: object
+        fields:
+          - name: key
+            label: Clé
+            widget: string
+            hint: "Identifiant unique (ex. projects, instagram). Utilisé comme parent pour les sous-menus."
+          - name: title
+            label: Libellé
+            widget: string
+          - name: url
+            label: URL
+            widget: string
+            required: false
+            hint: "Lien externe : URL complète (https://…). Lien interne : chemin du site (/, /projects/mon-projet/). Laisser vide pour un parent sans lien."
+          - name: parent
+            label: Parent
+            widget: string
+            required: false
+            hint: "Clé du parent (ex. projects). Laisser vide pour un élément de premier niveau."
+          - name: order
+            label: Ordre
+            widget: number
+            value_type: int
+            default: 0
+      - name: permalink
+        label: Permalink
+        widget: hidden
+        default: false

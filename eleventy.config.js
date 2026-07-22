@@ -5,8 +5,10 @@ import path from 'path';
 import cssnano from 'cssnano';
 import postcss from 'postcss';
 import tailwindcss from '@tailwindcss/postcss';
+import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
 
 export default function (eleventyConfig) {
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addCollection('projectsSorted', (collectionApi) => {
     const orderValue = (item) => {
       const n = Number(item.data.order);
@@ -24,6 +26,7 @@ export default function (eleventyConfig) {
   // Decap / Netlify CMS loads /admin/config.yml (path is project-root-relative)
   eleventyConfig.addPassthroughCopy('src/admin/config.yml');
   eleventyConfig.addPassthroughCopy('src/assets/img');
+  eleventyConfig.addPassthroughCopy('src/assets/js');
 
   //compile tailwind before eleventy processes the files
   eleventyConfig.on('eleventy.before', async () => {

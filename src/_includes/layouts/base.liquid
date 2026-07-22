@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html lang="en" class="bg-white text-black">
+<html lang="en" class="min-h-full text-black" style="background-color: {{ background_color | default: '#ffffff' }}">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{% if title %}{{ title }}{% else %}Projects{% endif %}</title>
   <link rel="stylesheet" href="/assets/css/main.css" />
 </head>
-<body>
+<body class="min-h-full">
+  {% include 'partials/nav' %}
   {{ content }}
+  <script src="/assets/js/nav.js" defer></script>
 </body>
 </html>

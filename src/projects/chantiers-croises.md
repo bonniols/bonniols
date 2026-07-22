@@ -1,6 +1,8 @@
 ---
 title: Chantiers croisés
 order: 2
+show_in_nav: true
+background_color: "#cee4ae"
 ---
 
 Une campagne photographique à Saint-Lupien, 2014-2016.

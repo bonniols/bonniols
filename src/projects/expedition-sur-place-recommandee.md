@@ -1,6 +1,8 @@
 ---
 title: Expédition sur place recommandée
 order: 3
+show_in_nav: true
+background_color: "#f3caca"
 gallery:
   - https://res.cloudinary.com/dgygqmduf/image/upload/v1782292201/bonniols/2006_07_Meriadeck__002_recto-2_njmybo.jpg
   - https://res.cloudinary.com/dgygqmduf/image/upload/v1782292201/bonniols/2006_07_Meriadeck_001_recto_wrzy5b.jpg

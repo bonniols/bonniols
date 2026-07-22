@@ -1,0 +1,86 @@
+{% comment %}
+  Recursive nav item. Params: item, variant ('desktop' | 'mobile'), depth (number), page.
+{% endcomment %}
+{% assign childDepth = depth | plus: 1 %}
+{% assign hasChildren = false %}
+{% if item.children and item.children.size > 0 %}
+  {% assign hasChildren = true %}
+{% endif %}
+{% assign isExternal = false %}
+{% if item.url and item.url contains '://' %}
+  {% assign isExternal = true %}
+{% endif %}
+{% assign isActive = false %}
+{% if item.url and page.url == item.url %}
+  {% assign isActive = true %}
+{% endif %}
+
+{% if variant == 'desktop' %}
+  <li class="{% if depth == 0 %}relative group{% else %}relative group/sub{% endif %}">
+    {% if hasChildren %}
+      <button
+        type="button"
+        class="flex items-center gap-1 px-3 py-2 text-sm font-medium rounded-md hover:bg-neutral-100 focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400"
+        aria-haspopup="true"
+      >
+        {{ item.title }}
+        <svg class="h-4 w-4 opacity-60" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+          <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
+        </svg>
+      </button>
+      <ul
+        class="absolute min-w-[12rem] py-1 bg-white shadow-lg border border-neutral-100 rounded-md opacity-0 invisible transition-all z-10
+          {% if depth == 0 %}top-full left-0 group-hover:opacity-100 group-hover:visible group-focus-within:opacity-100 group-focus-within:visible{% else %}left-full top-0 group-hover/sub:opacity-100 group-hover/sub:visible group-focus-within/sub:opacity-100 group-focus-within/sub:visible{% endif %}"
+        role="menu"
+      >
+        {% for child in item.children %}
+          {% render 'partials/nav-item', item: child, variant: variant, depth: childDepth, page: page %}
+        {% endfor %}
+      </ul>
+    {% elsif item.url %}
+      <a
+        href="{{ item.url }}"
+        class="block px-3 py-2 text-sm font-medium rounded-md hover:bg-neutral-100 focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400{% if isActive %} bg-neutral-100 font-semibold{% endif %}"
+        {% if isExternal %}target="_blank" rel="noopener noreferrer"{% endif %}
+        {% if isActive %}aria-current="page"{% endif %}
+        role="menuitem"
+      >
+        {{ item.title }}
+      </a>
+    {% else %}
+      <span class="block px-3 py-2 text-sm font-medium text-neutral-500">{{ item.title }}</span>
+    {% endif %}
+  </li>
+{% else %}
+  <li>
+    {% if hasChildren %}
+      <button
+        type="button"
+        class="flex w-full items-center justify-between py-2 text-sm font-medium hover:text-neutral-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400 rounded-md"
+        aria-expanded="true"
+        data-nav-accordion
+      >
+        {{ item.title }}
+        <svg class="h-4 w-4 shrink-0 rotate-90 transition-transform opacity-60" data-nav-accordion-icon viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+          <path fill-rule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd" />
+        </svg>
+      </button>
+      <ul class="pl-3 ml-2 border-l border-neutral-200" data-nav-accordion-panel>
+        {% for child in item.children %}
+          {% render 'partials/nav-item', item: child, variant: variant, depth: childDepth, page: page %}
+        {% endfor %}
+      </ul>
+    {% elsif item.url %}
+      <a
+        href="{{ item.url }}"
+        class="block py-2 text-sm font-medium hover:text-neutral-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400 rounded-md{% if isActive %} font-semibold text-neutral-900{% endif %}"
+        {% if isExternal %}target="_blank" rel="noopener noreferrer"{% endif %}
+        {% if isActive %}aria-current="page"{% endif %}
+      >
+        {{ item.title }}
+      </a>
+    {% else %}
+      <span class="block py-2 text-sm font-medium text-neutral-500">{{ item.title }}</span>
+    {% endif %}
+  </li>
+{% endif %}
