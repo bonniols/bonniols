@@ -1,6 +1,7 @@
 {
     "scripts": {
         "build": "npx eleventy",
+        "cache:cloudinary": "node scripts/cache-cloudinary.js",
         "serve": "npx eleventy --serve",
         "format": "prettier --write \"**/*.{js,liquid,css}\"",
         "format:check": "prettier --check \"**/*.{js,liquid,css}\""
