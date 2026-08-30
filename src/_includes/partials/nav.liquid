@@ -28,36 +28,34 @@
             aria-expanded="false"
             aria-controls="nav-drawer"
             aria-label="Ouvrir le menu"
-            data-nav-toggle
+            data-nav-open
         >
             <svg
-                class="h-6 w-6"
+                xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                aria-hidden="true"
+                fill="currentColor"
+                class="size-6"
             >
-                <path stroke-linecap="round" d="M4 7h16M4 12h16M4 17h16" />
+                <path fill-rule="evenodd" d="M3 6.75A.75.75 0 0 1 3.75 6h16.5a.75.75 0 0 1 0 1.5H3.75A.75.75 0 0 1 3 6.75ZM3 12a.75.75 0 0 1 .75-.75h16.5a.75.75 0 0 1 0 1.5H3.75A.75.75 0 0 1 3 12Zm0 5.25a.75.75 0 0 1 .75-.75h16.5a.75.75 0 0 1 0 1.5H3.75a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd" />
             </svg>
         </button>
     </div>
 </header>
 
-<div
-    class="pointer-events-none fixed inset-0 z-40 bg-black/50 opacity-0 transition-opacity duration-300 md:hidden"
-    aria-hidden="true"
-    data-nav-backdrop
-></div>
-
 <nav
     id="nav-drawer"
-    class="fixed inset-y-0 right-0 z-50 flex w-full max-w-xs translate-x-full flex-col bg-white shadow-xl transition-transform duration-300 md:hidden"
+    class="fixed inset-y-0 right-0 z-50 flex w-full translate-x-full flex-col bg-white shadow-xl transition-transform duration-300 md:hidden"
     aria-label="Navigation mobile"
     aria-hidden="true"
     data-nav-drawer
 >
-    <div class="flex items-center justify-end p-4">
+    <div class="flex items-center justify-between p-4">
+        <a
+            href="/"
+            class="font-serif text-lg font-semibold focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400"
+        >
+            Sylvain Bonniol
+        </a>
         <button
             type="button"
             class="inline-flex items-center justify-center p-2 focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400"
@@ -65,14 +63,12 @@
             data-nav-close
         >
             <svg
-                class="h-5 w-5"
+                xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                aria-hidden="true"
+                fill="currentColor"
+                class="size-6"
             >
-                <path stroke-linecap="round" d="M6 6l12 12M18 6L6 18" />
+                <path fill-rule="evenodd" d="M5.47 5.47a.75.75 0 0 1 1.06 0L12 10.94l5.47-5.47a.75.75 0 1 1 1.06 1.06L13.06 12l5.47 5.47a.75.75 0 1 1-1.06 1.06L12 13.06l-5.47 5.47a.75.75 0 0 1-1.06-1.06L10.94 12 5.47 6.53a.75.75 0 0 1 0-1.06Z" clip-rule="evenodd" />
             </svg>
         </button>
     </div>

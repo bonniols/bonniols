@@ -7,6 +7,8 @@
 
     const gallery = JSON.parse(document.getElementById('home-gallery-data')?.textContent || '[]');
 
+    // console.log(gallery);
+
     if (!Array.isArray(gallery) || gallery.length === 0) return;
 
     function debounce(fn, ms) {

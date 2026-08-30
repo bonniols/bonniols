@@ -3,7 +3,7 @@ title: Home
 layout: layouts/base.liquid
 hasHomeHero: true
 ---
-<div class="container-wide py-12">
+<div class="container-wide py-8 md:py-12">
     {% if homeGalleryItems.size > 0 %}
         <script type="application/json" id="home-gallery-data">
             {{ homeGalleryItems | json }}

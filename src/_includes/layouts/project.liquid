@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.liquid
 ---
-<article class="container-wide py-12">
+<article class="container-wide py-8 md:py-12">
     <div class="flex items-center justify-end gap-5">
         <span class="text-xl font-bold">{{ title }}</span>
         <button class="text-xl">Infos</button>
@@ -34,7 +34,7 @@ layout: layouts/base.liquid
     </div>
     {% include 'partials/gallery-lightbox' %}
 {% endif %}
-<article class="container-regular mb-12 py-12">
+<article class="container-regular mb-8 py-8 md:mb-12 md:py-12">
     <div class="space-y-4 leading-relaxed text-neutral-800 [&_a]:text-blue-700 [&_a]:underline">
         {{ content }}
     </div>

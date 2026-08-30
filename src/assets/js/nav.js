@@ -2,41 +2,39 @@
     const header = document.querySelector('[data-nav-header]');
     if (!header) return;
 
-    const toggle = header.querySelector('[data-nav-toggle]');
+    const openButton = header.querySelector('[data-nav-open]');
     const drawer = document.querySelector('[data-nav-drawer]');
-    const backdrop = document.querySelector('[data-nav-backdrop]');
-    const closeBtn = drawer?.querySelector('[data-nav-close]');
+    const closeButton = drawer?.querySelector('[data-nav-close]');
 
     function isOpen() {
-        return toggle?.getAttribute('aria-expanded') === 'true';
+        return openButton?.getAttribute('aria-expanded') === 'true';
     }
 
     function openDrawer() {
         drawer?.classList.remove('translate-x-full');
         drawer?.setAttribute('aria-hidden', 'false');
-        backdrop?.classList.remove('opacity-0', 'pointer-events-none');
-        backdrop?.setAttribute('aria-hidden', 'false');
-        toggle?.setAttribute('aria-expanded', 'true');
-        toggle?.setAttribute('aria-label', 'Fermer le menu');
+
+        openButton?.setAttribute('aria-expanded', 'true');
+        openButton?.setAttribute('aria-label', 'Fermer le menu');
+
         document.body.classList.add('overflow-hidden');
     }
 
     function closeDrawer() {
         drawer?.classList.add('translate-x-full');
         drawer?.setAttribute('aria-hidden', 'true');
-        backdrop?.classList.add('opacity-0', 'pointer-events-none');
-        backdrop?.setAttribute('aria-hidden', 'true');
-        toggle?.setAttribute('aria-expanded', 'false');
-        toggle?.setAttribute('aria-label', 'Ouvrir le menu');
+
+        openButton?.setAttribute('aria-expanded', 'false');
+        openButton?.setAttribute('aria-label', 'Ouvrir le menu');
+
         document.body.classList.remove('overflow-hidden');
     }
 
-    toggle?.addEventListener('click', () => {
+    openButton?.addEventListener('click', () => {
         isOpen() ? closeDrawer() : openDrawer();
     });
 
-    closeBtn?.addEventListener('click', closeDrawer);
-    backdrop?.addEventListener('click', closeDrawer);
+    closeButton?.addEventListener('click', closeDrawer);
 
     document.addEventListener('keydown', (event) => {
         if (event.key === 'Escape' && isOpen()) {
