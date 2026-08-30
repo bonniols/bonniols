@@ -32,53 +32,33 @@
         @apply p-6;
     }
 
-    .gallery-lightbox {
+    /* .gallery-slide__caption {
+        @apply mt-2 text-center text-sm text-neutral-700;
+    }
+
+    .gallery-swiper--open {
         --swiper-navigation-color: #fff;
         --swiper-theme-color: #fff;
-        --swiper-navigation-size: 2.75rem;
+        @apply md:fixed md:inset-0 md:z-50 md:flex md:flex-col md:items-center md:justify-center md:bg-black/90;
     }
 
-    .gallery-lightbox__backdrop {
-        cursor: pointer;
+    .gallery-swiper--open .gallery-swiper__backdrop {
+        @apply md:absolute md:inset-0 md:block md:cursor-pointer;
     }
 
-    .gallery-lightbox__swiper {
-        @apply absolute inset-0;
-        width: 100%;
-        height: 100%;
+    .gallery-swiper--open .gallery-swiper__close {
+        @apply md:absolute md:top-4 md:right-4 md:z-20 md:block md:text-white;
     }
 
-    .gallery-lightbox__swiper .swiper-wrapper,
-    .gallery-lightbox__swiper .swiper-slide {
-        height: 100%;
+    .gallery-swiper--open .gallery-swiper__carousel {
+        @apply md:w-full md:max-w-5xl md:px-12;
     }
 
-    .gallery-lightbox__caption {
-        @apply absolute inset-x-0 bottom-16 z-10 px-4 py-2 text-center text-sm text-white;
-        pointer-events: none;
+    .gallery-swiper--open .gallery-slide__caption {
+        @apply md:text-white;
     }
 
-    .gallery-lightbox__close {
-        @apply absolute top-4 right-4 z-20 inline-flex items-center justify-center rounded p-2 text-white transition-opacity hover:opacity-80 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/70;
-    }
-
-    .gallery-lightbox__nav {
-        @apply z-20 text-white transition-opacity hover:opacity-80 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/70;
-    }
-
-    .gallery-lightbox__nav--prev {
-        @apply left-2 sm:left-4;
-    }
-
-    .gallery-lightbox__nav--next {
-        @apply right-2 sm:right-4;
-    }
-
-    .gallery-lightbox__nav.swiper-button-disabled {
-        @apply pointer-events-none opacity-30;
-    }
-
-    .gallery-lightbox__play {
-        @apply absolute bottom-4 left-1/2 z-20 inline-flex -translate-x-1/2 items-center justify-center rounded p-2 text-white transition-opacity hover:opacity-80 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/70;
-    }
+    .gallery-swiper--open .gallery-slide img {
+        @apply md:mx-auto md:max-h-[85vh] md:w-auto;
+    } */
 }

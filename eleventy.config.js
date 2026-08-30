@@ -32,6 +32,8 @@ export default function (eleventyConfig) {
         'node_modules/swiper/swiper-bundle.min.css': 'assets/vendor/swiper/swiper-bundle.min.css',
     });
 
+    eleventyConfig.addWatchTarget('./src/assets/css/');
+
     //compile tailwind before eleventy processes the files
     eleventyConfig.on('eleventy.before', async () => {
         const tailwindInputPath = path.resolve('./src/assets/css/main.css');

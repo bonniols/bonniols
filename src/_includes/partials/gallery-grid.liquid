@@ -1,0 +1,21 @@
+<div class="gallery-grid hidden md:grid md:grid-cols-4 md:gap-4">
+    {% for item in galleryItems %}
+        <button
+            type="button"
+            class="relative cursor-pointer text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400"
+            data-gallery-open="{{ forloop.index0 }}"
+            aria-label="{% if item.caption != '' %}{{ item.caption }}{% else %}Ouvrir l'image {{ forloop.index }} dans la galerie{% endif %}"
+        >
+            <figure class="relative">
+                <img
+                    src="{{ item.thumbSrc }}"
+                    srcset="{{ item.thumbSrcset }}"
+                    sizes="(min-width: 768px) 25vw, 0px"
+                    alt="{{ item.alt | default: item.caption | default: '' }}"
+                    loading="lazy"
+                    class="h-auto w-full"
+                >
+            </figure>
+        </button>
+    {% endfor %}
+</div>

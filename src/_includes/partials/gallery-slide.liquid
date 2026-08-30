@@ -1,0 +1,19 @@
+<div class="swiper-slide md:h-full md:max-h-dvh md:min-h-0 md:overflow-hidden">
+    <figure class="gallery-slide block md:grid md:h-full md:min-h-0 md:grid-rows-[1fr_auto]">
+        <div class="block md:flex md:min-h-0 md:items-center md:justify-center md:overflow-hidden">
+            <img
+                src="{{ item.lightboxSrc }}"
+                srcset="{{ item.srcset }}"
+                sizes="{{ sizes | default: '(max-width: 767px) 100vw, 90vw' }}"
+                alt="{{ item.alt | default: item.caption | default: '' }}"
+                loading="lazy"
+                class="h-auto w-full md:max-h-full md:max-w-full md:object-contain"
+            >
+        </div>
+        {% if item.caption != '' %}
+            <figcaption class="container-regular max-h-[30dvh] shrink-0 pt-4">
+                {{ item.caption }}
+            </figcaption>
+        {% endif %}
+    </figure>
+</div>

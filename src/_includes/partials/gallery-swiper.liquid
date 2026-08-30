@@ -1,0 +1,57 @@
+<div
+    class="gallery-swiper md:absolute md:inset-0 md:z-50 md:flex md:h-dvh md:w-dvw md:items-center md:bg-neutral-100/90 md:p-6"
+    data-gallery-swiper
+    role="dialog"
+    aria-modal="false"
+    aria-label="Galerie photos"
+    aria-hidden="false"
+>
+    {% comment %}
+        <div
+            class="gallery-swiper__backdrop hidden"
+            data-gallery-backdrop
+        ></div>
+    {% endcomment %}
+
+    {% comment %}
+        <button
+            type="button"
+            class="gallery-swiper__close hidden items-center justify-center rounded p-2 md:inline-flex"
+            data-gallery-close
+            aria-label="Fermer la galerie"
+        >
+            <svg
+                class="h-6 w-6"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                aria-hidden="true"
+            >
+                <path stroke-linecap="round" d="M6 6l12 12M18 6L6 18" />
+            </svg>
+        </button>
+    {% endcomment %}
+
+    <div class="swiper relative md:h-full md:w-full">
+        <div class="swiper-wrapper">
+            {% for item in galleryItems %}
+                {% render 'partials/gallery-slide',
+                    item: item,
+                    sizes: '(max-width: 767px) 100vw, 90vw'
+                %}
+            {% endfor %}
+        </div>
+
+        <button
+            type="button"
+            class="swiper-button-prev max-md:hidden"
+            aria-label="Image précédente"
+        ></button>
+        <button
+            type="button"
+            class="swiper-button-next max-md:hidden"
+            aria-label="Image suivante"
+        ></button>
+    </div>
+</div>
