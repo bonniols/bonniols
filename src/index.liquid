@@ -5,9 +5,11 @@ hasHomeHero: true
 ---
 <div class="container-wide py-12">
     {% if homeGalleryItems.size > 0 %}
+        <script type="application/json" id="home-gallery-data">
+            {{ homeGalleryItems | json }}
+        </script>
         <figure
             data-home-hero
-            data-gallery="{{ homeGalleryItems | json }}"
             hidden
         >
             <img

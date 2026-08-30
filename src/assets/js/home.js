@@ -5,18 +5,13 @@
 
     if (!figure || !img) return;
 
-    let gallery;
-    try {
-        gallery = JSON.parse(figure.dataset.gallery || '[]');
-    } catch {
-        return;
-    }
+    const gallery = JSON.parse(document.getElementById('home-gallery-data')?.textContent || '[]');
 
     if (!Array.isArray(gallery) || gallery.length === 0) return;
 
     const item = gallery[Math.floor(Math.random() * gallery.length)];
 
-    // console.log(item);
+    //   console.log(item);
 
     if (caption && item.caption) {
         caption.textContent = item.caption;
