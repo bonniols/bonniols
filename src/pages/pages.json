@@ -1,0 +1,7 @@
+{
+    "layout": "layouts/page.liquid",
+    "tags": "pages",
+    "permalink": "/{{ slug }}/",
+    "background_color": "#FFFFFF"
+  }
+  

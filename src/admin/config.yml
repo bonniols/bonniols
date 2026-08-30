@@ -8,16 +8,18 @@ locale: "fr"
 # “view live” links on published entries. Use your Netlify URL or custom domain.
 site_url: https://bonniols.netlify.app
 
-# media_folder: src/assets/img
-# public_folder: /assets/img
+media_folder: src/assets/img
+public_folder: /assets/img
 
 local_backend: true
 
 media_library:
   name: cloudinary
   config:
-    cloud_name: yxpagolc
-    api_key: 825673371332129
+    # cloud_name: yxpagolc
+    # api_key: 825673371332129
+    cloud_name: dgygqmduf
+    api_key: 568594127542439
     multiple: true
 
 collections:
@@ -65,6 +67,36 @@ collections:
         allow_multiple: true
         required: false
 
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: src/pages
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{slug}}"
+    identifier_field: title
+    preview_path: "/{{slug}}/"
+    editor:
+      preview: true
+    sortable_fields:
+      - title
+    fields:
+      - name: title
+        label: Titre
+        widget: string
+      - name: slug
+        label: Slug
+        widget: string
+      - name: background_color
+        label: Couleur de fond
+        widget: color
+        default: "#FFFFFF"
+        required: false
+      - name: body
+        label: Texte
+        widget: markdown
+
   - name: navigation
     label: Navigation
     label_singular: Lien de menu
@@ -74,6 +106,9 @@ collections:
     format: frontmatter
     slug: "{{slug}}"
     identifier_field: eleventyNavigation.title
+    sortable_fields:
+      - eleventyNavigation.title
+      - eleventyNavigation.order
     fields:
       - name: eleventyNavigation
         label: Entrée de menu
@@ -105,3 +140,31 @@ collections:
         label: Permalink
         widget: hidden
         default: false
+
+  - name: settings
+    label: Paramètres
+    files:
+      - label: Accueil
+        name: home
+        file: src/_data/home.json
+        fields:
+          - name: home_gallery
+            label: Galerie
+            widget: image
+            allow_multiple: true
+            required: false
+      - label: Galerie
+        name: gallery
+        file: src/_data/site.json
+        fields:
+          - name: gallery_autoplay
+            label: Lecture auto
+            widget: boolean
+            default: true
+          - name: gallery_autoplay_delay
+            label: "Délai entre les slides (secondes)"
+            widget: number
+            value_type: int
+            default: 5
+            min: 1
+            max: 60

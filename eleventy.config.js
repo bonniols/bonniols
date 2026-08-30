@@ -27,6 +27,10 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/admin/config.yml');
   eleventyConfig.addPassthroughCopy('src/assets/img');
   eleventyConfig.addPassthroughCopy('src/assets/js');
+  eleventyConfig.addPassthroughCopy({
+    'node_modules/swiper/swiper-bundle.min.js': 'assets/vendor/swiper/swiper-bundle.min.js',
+    'node_modules/swiper/swiper-bundle.min.css': 'assets/vendor/swiper/swiper-bundle.min.css',
+  });
 
   //compile tailwind before eleventy processes the files
   eleventyConfig.on('eleventy.before', async () => {

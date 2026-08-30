@@ -2,6 +2,7 @@ import { enrichGallery } from '../../lib/cloudinary-gallery.js';
 
 export default {
   eleventyComputed: {
+    hasGallery: (data) => Boolean(data.gallery?.length),
     galleryItems: (data) => enrichGallery(data.gallery),
     eleventyNavigation: (data) => {
       if (data.show_in_nav === false) return undefined;

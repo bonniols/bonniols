@@ -59,4 +59,6 @@
       icon?.classList.toggle('rotate-90', !expanded);
     });
   });
+
+  // document.addEventListener('DOMContentLoaded', openDrawer);
 })();

@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "cloudinary-build-url": "^0.2.4",
-    "dotenv": "^17.4.2"
+    "dotenv": "^17.4.2",
+    "swiper": "^14.0.7"
   }
 }

@@ -1,14 +1,13 @@
 ---
 title: Expédition sur place recommandée
-order: 3
+order: 1
 show_in_nav: true
-background_color: "#f3caca"
+background_color: "#cfdcfc"
 gallery:
   - https://res.cloudinary.com/dgygqmduf/image/upload/v1782292201/bonniols/2006_07_Meriadeck__002_recto-2_njmybo.jpg
   - https://res.cloudinary.com/dgygqmduf/image/upload/v1782292201/bonniols/2006_07_Meriadeck_001_recto_wrzy5b.jpg
   - https://res.cloudinary.com/dgygqmduf/image/upload/v1782292201/bonniols/2011_03_Nantes_001_recto_uaamjz.jpg
   - https://res.cloudinary.com/dgygqmduf/image/upload/v1782292201/bonniols/2011_03_Nantes_001_recto1_kyqxjy.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1782911874/cld-sample-3.jpg
 ---
 
 "Expédition sur place recommandée" (lot 1), un portfolio édité par la galerie RDV, le Musée de l’Imprimerie de Nantes et le Comité de Vigilance Brutaliste.

@@ -1,13 +1,79 @@
-@import 'tailwindcss';
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Roboto Condensed", sans-serif;
+  --font-serif: "Roboto Slab", serif;
+}
 
 @layer base {
-    h1 {
-        @apply text-2xl font-bold;
-    }
+  body {
+    @apply font-sans;
+  }
+  h1 {
+    @apply text-2xl font-bold;
+  }
 }
 
 @layer components {
-    .frame-content {
-        @apply p-6;
-    }
+  .container-regular {
+    @apply mx-auto max-w-3xl px-4;
+  }
+
+  .container-wide {
+    @apply mx-auto max-w-5xl px-4;
+  }
+
+  .frame-content {
+    @apply p-6;
+  }
+
+  .gallery-lightbox {
+    --swiper-navigation-color: #fff;
+    --swiper-theme-color: #fff;
+    --swiper-navigation-size: 2.75rem;
+  }
+
+  .gallery-lightbox__backdrop {
+    cursor: pointer;
+  }
+
+  .gallery-lightbox__swiper {
+    @apply absolute inset-0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .gallery-lightbox__swiper .swiper-wrapper,
+  .gallery-lightbox__swiper .swiper-slide {
+    height: 100%;
+  }
+
+  .gallery-lightbox__caption {
+    @apply absolute inset-x-0 bottom-16 z-10 px-4 py-2 text-center text-sm text-white;
+    pointer-events: none;
+  }
+
+  .gallery-lightbox__close {
+    @apply absolute top-4 right-4 z-20 inline-flex items-center justify-center rounded p-2 text-white transition-opacity hover:opacity-80 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/70;
+  }
+
+  .gallery-lightbox__nav {
+    @apply z-20 text-white transition-opacity hover:opacity-80 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/70;
+  }
+
+  .gallery-lightbox__nav--prev {
+    @apply left-2 sm:left-4;
+  }
+
+  .gallery-lightbox__nav--next {
+    @apply right-2 sm:right-4;
+  }
+
+  .gallery-lightbox__nav.swiper-button-disabled {
+    @apply opacity-30 pointer-events-none;
+  }
+
+  .gallery-lightbox__play {
+    @apply absolute bottom-4 left-1/2 z-20 inline-flex -translate-x-1/2 items-center justify-center rounded p-2 text-white transition-opacity hover:opacity-80 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/70;
+  }
 }
