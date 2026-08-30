@@ -4,7 +4,7 @@ layout: layouts/base.liquid
 <article class="grow">
     <header class="container-wide flex items-center justify-between py-8 md:py-12">
         <h1 class="text-xl font-bold">{{ title }}</h1>
-        <a href="#infos" class="text-xl">Infos</a>
+        <a href="#infos" class="hidden text-xl md:block">Infos</a>
     </header>
     {% if galleryItems and galleryItems.size > 0 %}
         <section class="container-wide my-8 grid grid-cols-2 gap-4 sm:grid-cols-4">
