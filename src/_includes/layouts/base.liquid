@@ -29,9 +29,11 @@
             <link rel="stylesheet" href="/assets/vendor/swiper/swiper-bundle.min.css">
         {% endif %}
     </head>
-    <body class="min-h-full">
+    <body class=" flex min-h-dvh flex-col">
         {% include 'partials/nav' %}
-        {{ content }}
+        <main class="grow">
+            {{ content }}
+        </main>
         <script src="/assets/js/nav.js" defer></script>
         {% if hasGallery %}
             <script src="/assets/vendor/swiper/swiper-bundle.min.js" defer></script>
