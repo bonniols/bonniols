@@ -2,36 +2,40 @@
 layout: layouts/base.liquid
 ---
 <article class="container-wide py-12">
-  <div class="flex items-center justify-end gap-5">
-    <span class="text-xl font-bold">{{ title }}</span>
-    <button class="text-xl">Infos</button>
-  </div>
+    <div class="flex items-center justify-end gap-5">
+        <span class="text-xl font-bold">{{ title }}</span>
+        <button class="text-xl">Infos</button>
+    </div>
 </article>
 {% if galleryItems and galleryItems.size > 0 %}
-  <div class="container-wide grid grid-cols-2 sm:grid-cols-4 gap-4 my-8">
-    {% for item in galleryItems %}
-      <button
-        type="button"
-        class="group relative cursor-pointer text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400"
-        data-gallery-open="{{ forloop.index0 }}"
-        aria-label="{% if item.caption != '' %}{{ item.caption }}{% else %}Ouvrir l'image {{ forloop.index }} dans la galerie{% endif %}">
-        <figure class="relative">
-          <img
-            src="{{ item.thumbSrc }}"
-            alt="{{ item.caption | default: '' }}"
-            loading="lazy"
-            class="w-full h-auto">
-          {% if item.caption != '' %}
-            <figcaption class="absolute inset-x-0 bottom-0 bg-black/70 text-white text-sm p-2 opacity-0 group-hover:opacity-100 group-focus-visible:opacity-100 transition-opacity pointer-events-none">
-              {{ item.caption }}
-            </figcaption>
-          {% endif %}
-        </figure>
-      </button>
-    {% endfor %}
-  </div>
-  {% include 'partials/gallery-lightbox' %}
+    <div class="container-wide my-8 grid grid-cols-2 gap-4 sm:grid-cols-4">
+        {% for item in galleryItems %}
+            <button
+                type="button"
+                class="group relative cursor-pointer text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400"
+                data-gallery-open="{{ forloop.index0 }}"
+                aria-label="{% if item.caption != '' %}{{ item.caption }}{% else %}Ouvrir l'image {{ forloop.index }} dans la galerie{% endif %}"
+            >
+                <figure class="relative">
+                    <img
+                        src="{{ item.thumbSrc }}"
+                        alt="{{ item.caption | default: '' }}"
+                        loading="lazy"
+                        class="h-auto w-full"
+                    >
+                    {% if item.caption != '' %}
+                        <figcaption class="pointer-events-none absolute inset-x-0 bottom-0 bg-black/70 p-2 text-sm text-white opacity-0 transition-opacity group-hover:opacity-100 group-focus-visible:opacity-100">
+                            {{ item.caption }}
+                        </figcaption>
+                    {% endif %}
+                </figure>
+            </button>
+        {% endfor %}
+    </div>
+    {% include 'partials/gallery-lightbox' %}
 {% endif %}
-<article class="container-regular py-12 mb-12">
-  <div class="space-y-4 leading-relaxed text-neutral-800 [&_a]:text-blue-700 [&_a]:underline">{{ content }}</div>
+<article class="container-regular mb-12 py-12">
+    <div class="space-y-4 leading-relaxed text-neutral-800 [&_a]:text-blue-700 [&_a]:underline">
+        {{ content }}
+    </div>
 </article>

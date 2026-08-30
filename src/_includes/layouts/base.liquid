@@ -1,36 +1,44 @@
-<!DOCTYPE html>
+<!doctype html>
 <html
-  lang="en"
-  class="min-h-full text-black"
-  style="background-color: {{ background_color | default: '#ffffff' }}">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>
-      {% if title %}
-        {{ title }}{% else %}Projects{% endif %}
-    </title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link
-      rel="preconnect"
-      href="https://fonts.gstatic.com"
-      crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/css/main.css" />
-    {% if hasGallery %}
-      <link rel="stylesheet" href="/assets/vendor/swiper/swiper-bundle.min.css">
-    {% endif %}
-  </head>
-  <body class="min-h-full">
-    {% include 'partials/nav' %}
-    {{ content }}
-    <script src="/assets/js/nav.js" defer></script>
-    {% if hasGallery %}
-      <script src="/assets/vendor/swiper/swiper-bundle.min.js" defer></script>
-      <script src="/assets/js/gallery-lightbox.js" defer></script>
-    {% endif %}
-    {% if hasHomeHero %}
-      <script src="/assets/js/home.js" defer></script>
-    {% endif %}
-  </body>
+    lang="en"
+    class="min-h-full text-black"
+    style="background-color: {{ background_color | default: '#ffffff' }}"
+>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>
+            {% if title %}
+                {{ title -}}
+            {%- else -%}
+                Projects
+            {%- endif %}
+        </title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link
+            rel="preconnect"
+            href="https://fonts.gstatic.com"
+            crossorigin
+        >
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&display=swap"
+            rel="stylesheet"
+        >
+        <link rel="stylesheet" href="/assets/css/main.css" />
+        {% if hasGallery %}
+            <link rel="stylesheet" href="/assets/vendor/swiper/swiper-bundle.min.css">
+        {% endif %}
+    </head>
+    <body class="min-h-full">
+        {% include 'partials/nav' %}
+        {{ content }}
+        <script src="/assets/js/nav.js" defer></script>
+        {% if hasGallery %}
+            <script src="/assets/vendor/swiper/swiper-bundle.min.js" defer></script>
+            <script src="/assets/js/gallery-lightbox.js" defer></script>
+        {% endif %}
+        {% if hasHomeHero %}
+            <script src="/assets/js/home.js" defer></script>
+        {% endif %}
+    </body>
 </html>
