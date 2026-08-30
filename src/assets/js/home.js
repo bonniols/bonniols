@@ -9,35 +9,84 @@
 
     if (!Array.isArray(gallery) || gallery.length === 0) return;
 
-    const item = gallery[Math.floor(Math.random() * gallery.length)];
+    function debounce(fn, ms) {
+        let timeoutId;
 
-    //   console.log(item);
-
-    if (caption && item.caption) {
-        caption.textContent = item.caption;
+        return (...args) => {
+            clearTimeout(timeoutId);
+            timeoutId = setTimeout(() => fn(...args), ms);
+        };
     }
 
-    img.alt = item.alt || item.caption || '';
+    function viewportPreference() {
+        const ratio = window.innerWidth / window.innerHeight;
+        if (ratio > 1) return 'landscape';
+        if (ratio < 1) return 'portrait';
+        return 'square';
+    }
 
-    if (item.srcset) img.srcset = item.srcset;
-    img.sizes = '100vw';
+    function imageMatchesPreference(item, preference) {
+        if (!item.width || !item.height) return true;
 
-    img.addEventListener(
-        'load',
-        () => {
+        const ratio = item.width / item.height;
+        if (ratio === 1) return true;
+        if (preference === 'square') return true;
+        if (preference === 'landscape') return ratio > 1;
+        return ratio < 1;
+    }
+
+    function poolForPreference(preference) {
+        const pool = gallery.filter((item) => imageMatchesPreference(item, preference));
+        return pool.length > 0 ? pool : gallery;
+    }
+
+    function pickRandomItem(pool) {
+        return pool[Math.floor(Math.random() * pool.length)];
+    }
+
+    function showItem(item) {
+        if (caption) {
+            if (item.caption) {
+                caption.textContent = item.caption;
+            } else {
+                caption.textContent = '';
+            }
+        }
+
+        img.alt = item.alt || item.caption || '';
+
+        if (item.srcset) {
+            img.srcset = item.srcset;
+        } else {
+            img.removeAttribute('srcset');
+        }
+
+        img.sizes = '100vw';
+
+        figure.hidden = true;
+        if (caption) caption.hidden = true;
+
+        const onLoad = () => {
             figure.hidden = false;
             if (caption && item.caption) caption.hidden = false;
-        },
-        { once: true },
-    );
+        };
 
-    img.addEventListener(
-        'error',
-        () => {
+        const onError = () => {
             figure.hidden = true;
-        },
-        { once: true },
-    );
+            caption.hidden = true;
+        };
 
-    img.src = item.src;
+        img.addEventListener('load', onLoad, { once: true });
+        img.addEventListener('error', onError, { once: true });
+
+        img.src = item.src;
+    }
+
+    function pickHero() {
+        const item = pickRandomItem(poolForPreference(viewportPreference()));
+        showItem(item);
+    }
+
+    window.addEventListener('resize', debounce(pickHero, 500));
+    pickHero();
 })();
