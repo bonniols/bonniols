@@ -32,33 +32,11 @@
         @apply p-6;
     }
 
-    /* .gallery-slide__caption {
-        @apply mt-2 text-center text-sm text-neutral-700;
+    .gallery-swiper {
+        --swiper-navigation-color: var(--color-neutral-900);
+        --swiper-theme-color: var(--color-neutral-900);
+        --swiper-navigation-size: 2rem;
+        --swiper-navigation-sides-offset: 0;
+        --swiper-navigation-top-offset: 50%;
     }
-
-    .gallery-swiper--open {
-        --swiper-navigation-color: #fff;
-        --swiper-theme-color: #fff;
-        @apply md:fixed md:inset-0 md:z-50 md:flex md:flex-col md:items-center md:justify-center md:bg-black/90;
-    }
-
-    .gallery-swiper--open .gallery-swiper__backdrop {
-        @apply md:absolute md:inset-0 md:block md:cursor-pointer;
-    }
-
-    .gallery-swiper--open .gallery-swiper__close {
-        @apply md:absolute md:top-4 md:right-4 md:z-20 md:block md:text-white;
-    }
-
-    .gallery-swiper--open .gallery-swiper__carousel {
-        @apply md:w-full md:max-w-5xl md:px-12;
-    }
-
-    .gallery-swiper--open .gallery-slide__caption {
-        @apply md:text-white;
-    }
-
-    .gallery-swiper--open .gallery-slide img {
-        @apply md:mx-auto md:max-h-[85vh] md:w-auto;
-    } */
 }

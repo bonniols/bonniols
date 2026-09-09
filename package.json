@@ -4,7 +4,8 @@
         "cache:cloudinary": "node scripts/cache-cloudinary.js",
         "serve": "npx eleventy --serve",
         "format": "prettier --write \"**/*.{js,liquid,css}\"",
-        "format:check": "prettier --check \"**/*.{js,liquid,css}\""
+        "format:check": "prettier --check \"**/*.{js,liquid,css}\"",
+        "decap-server": "decap-server"
     },
     "type": "module",
     "devDependencies": {
@@ -14,6 +15,7 @@
         "@tailwindcss/postcss": "^4.3.0",
         "cloudinary": "^2.10.0",
         "cssnano": "^8.0.1",
+        "decap-server": "3.11.0",
         "postcss": "^8.5.14",
         "prettier": "^3.9.6",
         "prettier-plugin-tailwindcss": "^0.8.1",

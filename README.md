@@ -39,10 +39,10 @@ The site is a **static site** built at deploy time. There is no application serv
 
 ### Key config files
 
-| File | Brick | What it does |
-|------|-------|--------------|
-| `eleventy.config.js` | **Build** | Eleventy entry point: `src` → `_site`, Liquid templates, `projectsSorted` collection (order → title), Tailwind compile + minify before each build, passthrough for `admin/config.yml` and `assets/img`. |
-| `src/admin/config.yml` | **Admin** | Decap CMS: Git Gateway on branch `v1`, French UI, Cloudinary media picker, **Projects** collection schema (fields → `src/projects/*.md`). Copied to `/admin/config.yml` at build. |
+| File                   | Brick     | What it does                                                                                                                                                                                            |
+| ---------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `eleventy.config.js`   | **Build** | Eleventy entry point: `src` → `_site`, Liquid templates, `projectsSorted` collection (order → title), Tailwind compile + minify before each build, passthrough for `admin/config.yml` and `assets/img`. |
+| `src/admin/config.yml` | **Admin** | Decap CMS: Git Gateway on branch `v1`, French UI, Cloudinary media picker, **Projects** collection schema (fields → `src/projects/*.md`). Copied to `/admin/config.yml` at build.                       |
 
 ### Content model
 
@@ -191,17 +191,17 @@ Changes are saved as Git commits on branch `v1`. Netlify rebuilds the site autom
 
 1. Start the Decap local proxy (separate terminal):
 
-   ```bash
-   npx decap-server
-   ```
+    ```bash
+    npm run decap-server
+    ```
 
-   Default proxy URL: `http://localhost:8081/api/v1`.
+    Default proxy URL: `http://localhost:8081/api/v1`.
 
 2. Start the Eleventy dev server:
 
-   ```bash
-   npm run serve
-   ```
+    ```bash
+    npm run serve
+    ```
 
 3. Open [http://localhost:8080/admin/](http://localhost:8080/admin/) and edit content.
 
@@ -217,11 +217,11 @@ Configuration in `src/admin/config.yml`:
 
 ```yaml
 media_library:
-  name: cloudinary
-  config:
-    cloud_name: <cloud-name>
-    api_key: <api-key>
-    multiple: true
+    name: cloudinary
+    config:
+        cloud_name: <cloud-name>
+        api_key: <api-key>
+        multiple: true
 ```
 
 `cloud_name` and `api_key` are public (served via `/admin/config.yml`). Do **not** commit the Cloudinary **API secret**; uploads use an **unsigned** preset so no secret is needed in the frontend.

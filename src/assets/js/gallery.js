@@ -1,37 +1,36 @@
 (function () {
-    // const root = document.querySelector('[data-gallery-swiper]');
-    // if (!root) return;
+    const root = document.querySelector('[data-gallery-swiper]');
+    if (!root) return;
 
-    // const gallery = document.querySelector('[data-gallery]');
-    // const backdrop = root.querySelector('[data-gallery-backdrop]');
-    // const closeBtn = root.querySelector('[data-gallery-close]');
-    const swiperEl = document.querySelector('.swiper');
-    // const slideCount = Number(gallery?.dataset.slideCount) || 0;
+    const backdrop = root.querySelector('[data-gallery-backdrop]');
+    const closeBtn = root.querySelector('[data-gallery-close]');
+    const swiperEl = root.querySelector('.swiper');
+    const slideCount = Number(document.querySelector('[data-gallery]')?.dataset.slideCount) || 0;
 
-    // let lastTrigger = null;
+    let lastTrigger = null;
 
-    // const desktop = window.matchMedia('(min-width: 768px)');
+    const desktop = window.matchMedia('(min-width: 768px)');
 
     const swiper = new Swiper(swiperEl, {
         autoHeight: true,
+        observer: true,
+        observeParents: true,
         slidesPerView: 1,
-        spaceBetween: 10,
-        loop: true,
-        // loopAdditionalSlides: Math.min(slideCount, 3),
+        spaceBetween: 0,
+        rewind: slideCount > 1,
         navigation: {
             nextEl: swiperEl.querySelector('.swiper-button-next'),
             prevEl: swiperEl.querySelector('.swiper-button-prev'),
         },
         keyboard: { enabled: true, onlyInViewport: true },
         breakpoints: {
-            // when window width is >= 768px
             768: {
                 autoHeight: false,
             },
         },
     });
 
-    /* function isOverlayOpen() {
+    function isOverlayOpen() {
         return root.classList.contains('gallery-swiper--open');
     }
 
@@ -47,7 +46,6 @@
 
         requestAnimationFrame(() => {
             swiper.slideTo(Number(index), 0);
-            swiper.update();
             closeBtn?.focus();
         });
     }
@@ -93,7 +91,6 @@
         if (isOverlayOpen()) {
             closeLightbox();
         }
-        swiper.update();
 
         if (!desktop.matches) {
             root.setAttribute('aria-hidden', 'false');
@@ -105,8 +102,4 @@
     if (desktop.matches) {
         root.setAttribute('aria-hidden', 'true');
     }
-
-    window.addEventListener('resize', () => {
-        swiper.update();
-    }); */
 })();
