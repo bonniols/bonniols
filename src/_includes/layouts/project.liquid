@@ -14,7 +14,10 @@ layout: layouts/base.liquid
             data-slide-count="{{ galleryItems.size }}"
         >
             {% render 'partials/gallery-grid', galleryItems: galleryItems %}
-            {% render 'partials/gallery-swiper', galleryItems: galleryItems %}
+            {% render 'partials/gallery-swiper',
+                galleryItems: galleryItems,
+                invert_text_color: invert_text_color
+            %}
         </section>
     {% endif %}
     <section
