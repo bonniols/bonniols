@@ -8,16 +8,15 @@ hasHomeHero: true
         <script type="application/json" id="home-gallery-data">
             {{ homeGalleryItems | json }}
         </script>
-        <figure
-            data-home-hero
-            hidden
-        >
-            <img
-                src=""
-                alt=""
-                class="w-full"
-            >
-            <figcaption hidden></figcaption>
-        </figure>
+        <a href="#" data-home-hero>
+            <figure hidden>
+                <img
+                    src=""
+                    alt=""
+                    class="w-full"
+                >
+                <figcaption hidden></figcaption>
+            </figure>
+        </a>
     {% endif %}
 </div>

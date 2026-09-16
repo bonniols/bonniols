@@ -1,5 +1,6 @@
 (function () {
-    const figure = document.querySelector('[data-home-hero]');
+    const link = document.querySelector('[data-home-hero]');
+    const figure = link.querySelector('figure');
     const img = figure?.querySelector('img');
     const caption = figure?.querySelector('figcaption');
 
@@ -53,6 +54,12 @@
             } else {
                 caption.textContent = '';
             }
+        }
+
+        if (item.url) {
+            link.href = item.url;
+        } else {
+            link.removeAttribute('href');
         }
 
         img.alt = item.alt || item.caption || '';
