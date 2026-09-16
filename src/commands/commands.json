@@ -1,0 +1,9 @@
+{
+  "layout": "layouts/project.liquid",
+  "tags": "commands",
+  "permalink": "/commands/{{ page.fileSlug }}/",
+  "order": 0,
+  "show_in_nav": true,
+  "background_color": "#FFFFFF",
+  "invert_text_color": false
+}

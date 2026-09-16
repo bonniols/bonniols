@@ -7,21 +7,28 @@ import postcss from 'postcss';
 import tailwindcss from '@tailwindcss/postcss';
 import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
 
-export default function (eleventyConfig) {
-    eleventyConfig.addPlugin(eleventyNavigationPlugin);
-    eleventyConfig.addCollection('projectsSorted', (collectionApi) => {
-        const orderValue = (item) => {
-            const n = Number(item.data.order);
-            return Number.isFinite(n) ? n : Infinity;
-        };
-        return collectionApi.getFilteredByTag('projects').sort((a, b) => {
-            const diff = orderValue(a) - orderValue(b);
-            if (diff !== 0) return diff;
-            return String(a.data.title || '').localeCompare(String(b.data.title || ''), undefined, {
-                sensitivity: 'base',
-            });
+function sortedByOrderThenTitle(collectionApi, tag) {
+    const orderValue = (item) => {
+        const n = Number(item.data.order);
+        return Number.isFinite(n) ? n : Infinity;
+    };
+    return collectionApi.getFilteredByTag(tag).sort((a, b) => {
+        const diff = orderValue(a) - orderValue(b);
+        if (diff !== 0) return diff;
+        return String(a.data.title || '').localeCompare(String(b.data.title || ''), undefined, {
+            sensitivity: 'base',
         });
     });
+}
+
+export default function (eleventyConfig) {
+    eleventyConfig.addPlugin(eleventyNavigationPlugin);
+    eleventyConfig.addCollection('projectsSorted', (collectionApi) =>
+        sortedByOrderThenTitle(collectionApi, 'projects'),
+    );
+    eleventyConfig.addCollection('commandsSorted', (collectionApi) =>
+        sortedByOrderThenTitle(collectionApi, 'commands'),
+    );
 
     // Decap / Netlify CMS loads /admin/config.yml (path is project-root-relative)
     eleventyConfig.addPassthroughCopy('src/admin/config.yml');

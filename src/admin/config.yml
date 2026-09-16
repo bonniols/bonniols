@@ -73,6 +73,56 @@ collections:
         allow_multiple: true
         required: false
 
+  - name: commands
+    label: Commandes
+    label_singular: Commande
+    folder: src/commands
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{slug}}"
+    identifier_field: title
+    preview_path: "commands/{{slug}}/"
+    editor:
+      preview: true
+    sortable_fields:
+      - title
+      - order
+    fields:
+      - name: title
+        label: Titre
+        widget: string
+      - name: order
+        label: Ordre
+        widget: number
+        value_type: int
+        default: 0
+        required: false
+      - name: show_in_nav
+        label: Afficher dans le menu
+        widget: boolean
+        default: true
+        required: false
+      - name: background_color
+        label: Couleur de fond
+        widget: color
+        default: "#FFFFFF"
+        required: false
+      - name: invert_text_color
+        label: Texte blanc
+        widget: boolean
+        default: false
+        required: false
+        hint: "Activer pour afficher le texte en blanc (utile sur fond sombre)."
+      - name: body
+        label: Texte
+        widget: markdown
+      - name: gallery
+        label: Images
+        widget: image
+        allow_multiple: true
+        required: false
+
   - name: pages
     label: Pages
     label_singular: Page
