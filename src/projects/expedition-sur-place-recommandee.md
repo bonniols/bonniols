@@ -18,3 +18,23 @@ Les cartes postales, ici scannées, ont été réalisées sur machine typographi
 > *"A la différence de cette photographie qui éteint des icônes, Sylvain Bonniol invente des lieux inconnus et oubliés non pour faire semblant de les posséder mais pour les partager."*
 >
 > David LIAUDET, article complet sur son blog : Architectures de cartes postales
+
+"Expédition sur place recommandée" (lot 1), un portfolio édité par la galerie RDV, le Musée de l’Imprimerie de Nantes et le Comité de Vigilance Brutaliste.
+
+16 cartes postales d’architecture moderne, en 25 exemplaires numérotés et signés.
+
+Les cartes postales, ici scannées, ont été réalisées sur machine typographique, les détails révélant la trame de la similigravure.
+
+> *"A la différence de cette photographie qui éteint des icônes, Sylvain Bonniol invente des lieux inconnus et oubliés non pour faire semblant de les posséder mais pour les partager."*
+>
+> David LIAUDET, article complet sur son blog : Architectures de cartes postales
+
+"Expédition sur place recommandée" (lot 1), un portfolio édité par la galerie RDV, le Musée de l’Imprimerie de Nantes et le Comité de Vigilance Brutaliste.
+
+16 cartes postales d’architecture moderne, en 25 exemplaires numérotés et signés.
+
+Les cartes postales, ici scannées, ont été réalisées sur machine typographique, les détails révélant la trame de la similigravure.
+
+> *"A la différence de cette photographie qui éteint des icônes, Sylvain Bonniol invente des lieux inconnus et oubliés non pour faire semblant de les posséder mais pour les partager."*
+>
+> David LIAUDET, article complet sur son blog : Architectures de cartes postales

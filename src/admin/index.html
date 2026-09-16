@@ -11,126 +11,61 @@
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   <script>
     (function () {
-      // Same stylesheet as the live site (layouts/base.liquid).
       CMS.registerPreviewStyle("/assets/css/main.css");
       CMS.registerPreviewStyle("html, body { min-height: 100%; margin: 0; }", { raw: true });
 
-      // Match layouts/project.liquid for the projects collection preview pane.
       if (typeof createClass === "undefined" || typeof h === "undefined") {
-        console.warn("Decap preview helpers missing; custom project layout preview skipped.");
+        console.warn("Decap preview helpers missing; custom preview skipped.");
         return;
       }
 
-      function galleryUrls(entry) {
-        var gallery = entry.getIn(["data", "gallery"]);
-        if (!gallery) return [];
-
-        if (typeof gallery.toJS === "function") {
-          return gallery.toJS().filter(Boolean);
-        }
-
-        return Array.isArray(gallery) ? gallery.filter(Boolean) : [gallery];
-      }
-
-      function gallerySrc(getAsset, url) {
-        if (!url) return "";
-
-        var asset = getAsset(url);
-        return asset ? asset.toString() : url;
+      function pageBackground(entry) {
+        return entry.getIn(["data", "background_color"]) || "#fafafa";
       }
 
       function applyPageBackground(doc, color) {
         if (!doc) return;
 
-        doc.documentElement.style.backgroundColor = color;
+        doc.body.style.backgroundColor = color;
         doc.body.style.minHeight = "100%";
       }
 
       function clearPageBackground(doc) {
         if (!doc) return;
 
-        doc.documentElement.style.backgroundColor = "";
+        doc.body.style.backgroundColor = "";
         doc.body.style.minHeight = "";
       }
 
-      var ProjectPreview = createClass({
-        displayName: "ProjectPreview",
+      var TextContentPreview = createClass({
+        displayName: "TextContentPreview",
         componentDidMount: function () {
-          applyPageBackground(
-            this.props.document,
-            this.props.entry.getIn(["data", "background_color"]) || "#FFFFFF",
-          );
+          applyPageBackground(this.props.document, pageBackground(this.props.entry));
         },
         componentDidUpdate: function () {
-          applyPageBackground(
-            this.props.document,
-            this.props.entry.getIn(["data", "background_color"]) || "#FFFFFF",
-          );
+          applyPageBackground(this.props.document, pageBackground(this.props.entry));
         },
         componentWillUnmount: function () {
           clearPageBackground(this.props.document);
         },
         render: function () {
           var title = this.props.entry.getIn(["data", "title"]);
-          var urls = galleryUrls(this.props.entry);
+          var invertText = this.props.entry.getIn(["data", "invert_text_color"]);
+          var textClass = invertText ? "text-white" : "text-black";
 
           return h(
-            "div",
-            { className: "text-black" },
-            h(
-              "article",
-              { className: "container mx-auto max-w-3xl px-4 py-12" },
-              h(
-                "p",
-                { className: "mb-4" },
-                h(
-                  "a",
-                  {
-                    href: "#",
-                    className: "text-blue-700 underline hover:text-blue-900",
-                    onClick: function (e) {
-                      e.preventDefault();
-                    },
-                  },
-                  "← Home",
-                ),
-              ),
-              h("h1", { className: "text-3xl font-bold mb-6" }, title || "Untitled"),
-              h(
-                "div",
-                {
-                  className:
-                    "space-y-4 leading-relaxed text-neutral-800 [&_a]:text-blue-700 [&_a]:underline",
-                },
-                this.props.widgetFor("body"),
-              ),
-            ),
-            urls.length > 0
-              ? h(
-                "div",
-                {
-                  className:
-                    "mx-auto max-w-5xl px-4 grid grid-cols-2 sm:grid-cols-4 gap-4 my-8",
-                },
-                urls.map(function (url, index) {
-                  return h(
-                    "figure",
-                    { key: index, className: "group relative" },
-                    h("img", {
-                      src: gallerySrc(this.props.getAsset, url),
-                      alt: "",
-                      loading: "lazy",
-                      className: "w-full h-auto",
-                    }),
-                  );
-                }, this),
-              )
-              : null,
+            "article",
+            { className: "container-regular py-8 md:py-12 " + textClass },
+            h("h1", { className: "mb-6 text-3xl font-bold" }, title || "Untitled"),
+            h("div", { className: "content-body" }, this.props.widgetFor("body")),
           );
         },
       });
 
-      CMS.registerPreviewTemplate("projects", ProjectPreview);
+      CMS.registerPreviewTemplate("projects", TextContentPreview);
+      CMS.registerPreviewTemplate("pages", TextContentPreview);
+      CMS.registerPreviewTemplate("commands", TextContentPreview);
+      CMS.registerPreviewTemplate("news", TextContentPreview);
     })();
   </script>
   <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

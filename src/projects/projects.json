@@ -4,5 +4,6 @@
   "permalink": "/projects/{{ page.fileSlug }}/",
   "order": 0,
   "show_in_nav": true,
-  "background_color": "#FFFFFF"
+  "background_color": "#FFFFFF",
+  "invert_text_color": false
 }

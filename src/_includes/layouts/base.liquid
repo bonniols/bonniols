@@ -1,9 +1,6 @@
+{% assign pageBg = background_color | default: '#fafafa' %}
 <!doctype html>
-<html
-    lang="en"
-    class="min-h-full text-black"
-    style="background-color: {{ background_color | default: '#ffffff' }}"
->
+<html lang="en" class="min-h-full">
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -29,9 +26,9 @@
             <link rel="stylesheet" href="/assets/vendor/swiper/swiper-bundle.min.css">
         {% endif %}
     </head>
-    <body class=" flex min-h-dvh flex-col">
+    <body class="flex min-h-dvh flex-col" style="background-color: {{ pageBg }}">
         {% include 'partials/nav' %}
-        <main class="grow">
+        <main class="grow{% if invert_text_color %} text-white{% else %} text-black{% endif %}">
             {{ content }}
         </main>
         <script src="/assets/js/nav.js" defer></script>

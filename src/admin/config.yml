@@ -58,6 +58,12 @@ collections:
         widget: color
         default: "#FFFFFF"
         required: false
+      - name: invert_text_color
+        label: Texte blanc
+        widget: boolean
+        default: false
+        required: false
+        hint: "Activer pour afficher le texte en blanc (utile sur fond sombre)."
       - name: body
         label: Texte
         widget: markdown
@@ -93,6 +99,12 @@ collections:
         widget: color
         default: "#FFFFFF"
         required: false
+      - name: invert_text_color
+        label: Texte blanc
+        widget: boolean
+        default: false
+        required: false
+        hint: "Activer pour afficher le texte en blanc (utile sur fond sombre)."
       - name: body
         label: Texte
         widget: markdown

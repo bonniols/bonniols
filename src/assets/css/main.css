@@ -3,19 +3,75 @@
 @theme {
     --font-sans: 'Roboto Condensed', sans-serif;
     --font-serif: 'Roboto Slab', serif;
+    --color-dark: var(--color-neutral-800);
+    --color-light: var(--color-neutral-200);
 }
 
 @layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        html {
+            scroll-behavior: auto;
+        }
+    }
+
     body {
-        @apply bg-neutral-50 font-sans text-neutral-900;
+        @apply font-sans text-neutral-900;
     }
 
     h1 {
         @apply text-2xl font-bold;
     }
 
+    h2 {
+        @apply text-xl font-bold;
+    }
+
+    h3,
+    h4,
+    h5,
+    h6 {
+        @apply text-lg font-bold;
+    }
+
+    h4 {
+        @apply opacity-80;
+    }
+
+    h5 {
+        @apply opacity-60;
+    }
+
+    h6 {
+        @apply opacity-40;
+    }
+
     blockquote {
-        @apply border-l-4 border-neutral-300 pl-4;
+        @apply border-dark/30 border-l-4 pl-4;
+    }
+
+    ul {
+        @apply list-inside list-disc;
+    }
+
+    ol {
+        @apply list-inside list-decimal;
+    }
+
+    code {
+        @apply bg-dark/10 mx-1 px-2 py-1;
+    }
+
+    .text-white {
+        blockquote {
+            @apply border-light/30;
+        }
+        code {
+            @apply bg-light/10;
+        }
     }
 }
 
@@ -38,5 +94,31 @@
         --swiper-navigation-size: 2rem;
         --swiper-navigation-sides-offset: 0;
         --swiper-navigation-top-offset: 50%;
+    }
+
+    .content-body {
+        @apply leading-relaxed [&_a]:underline;
+
+        :where(p, h1, h2, h3, h4, h5, h6, ul, ol, blockquote, pre, table, figure) {
+            @apply m-0;
+        }
+
+        /* Live site: markdown blocks are direct children */
+        & > * + * {
+            @apply mt-4;
+        }
+
+        /* Decap preview: markdown widget wraps blocks in one extra element */
+        & > :only-child > * + * {
+            @apply mt-4;
+        }
+    }
+
+    .text-black .content-body {
+        @apply text-dark [&_a]:text-blue-700;
+    }
+
+    .text-white .content-body {
+        @apply text-light [&_a]:text-blue-300;
     }
 }
