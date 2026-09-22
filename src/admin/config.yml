@@ -16,10 +16,10 @@ local_backend: true
 media_library:
   name: cloudinary
   config:
-    # cloud_name: yxpagolc
-    # api_key: 825673371332129
-    cloud_name: dgygqmduf
-    api_key: 568594127542439
+    cloud_name: yxpagolc
+    api_key: 825673371332129
+    # cloud_name: dgygqmduf
+    # api_key: 568594127542439
     multiple: true
 
 collections:

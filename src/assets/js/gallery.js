@@ -19,6 +19,7 @@
         spaceBetween: 0,
         rewind: slideCount > 1,
         navigation: {
+            enabled: false,
             nextEl: swiperEl.querySelector('.swiper-button-next'),
             prevEl: swiperEl.querySelector('.swiper-button-prev'),
         },
@@ -26,6 +27,9 @@
         breakpoints: {
             768: {
                 autoHeight: false,
+                navigation: {
+                    enabled: true,
+                },
             },
         },
     });
