@@ -6,7 +6,6 @@ background_color: "#FFFFFF"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081961/Visions_acoustiques_022_fdtnkb.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790082214/Visions_acoustiques_039_e7sdtw.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081961/Visions_acoustiques_023_zul1sm.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081962/Visions_acoustiques_024_bbw2y4.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081962/Visions_acoustiques_025_kjfoaf.jpg
@@ -23,6 +22,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790082003/Visions_acoustiques_036_jll0zl.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790082048/Visions_acoustiques_037_yhajgv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790082124/Visions_acoustiques_038_buz2hm.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790082214/Visions_acoustiques_039_e7sdtw.jpg
 ---
 "Visions acoustiques" constitue une immersion photographique dans des laboratoires dédiés à l’acoustique (industrie, sciences et création sonore) où les phénomènes ondulatoires étudiés ne se formalisent pas dans le visible.Le travail photographique s’attache ici de recomposer une image mentale de ces chambres d’études et tente de capter la part visuelle de l’invisible de l’onde acoustique.
 
