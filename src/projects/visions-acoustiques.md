@@ -2,8 +2,8 @@
 title: VISIONS ACOUSTIQUES
 order: 0
 show_in_nav: true
-background_color: "#FFFFFF"
-invert_text_color: false
+background_color: "#bea6a6"
+invert_text_color: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081961/Visions_acoustiques_022_fdtnkb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081961/Visions_acoustiques_023_zul1sm.jpg
