@@ -67,6 +67,10 @@
 
     a {
         @apply text-blue-700 underline;
+
+        &[data-home-hero] {
+            @apply text-dark no-underline;
+        }
     }
 
     table {
