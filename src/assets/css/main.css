@@ -65,12 +65,35 @@
         @apply bg-dark/10 mx-1 px-2 py-1;
     }
 
+    a {
+        @apply text-blue-700 underline;
+    }
+
+    table {
+        @apply w-auto border-collapse;
+
+        th,
+        td {
+            @apply border-dark/60 border px-3 py-2 text-left align-top;
+        }
+
+        th {
+            @apply font-bold;
+        }
+    }
+
     .text-white {
         blockquote {
             @apply border-light/30;
         }
         code {
             @apply bg-light/10;
+        }
+        table {
+            th,
+            td {
+                @apply border-light/60;
+            }
         }
     }
 }
@@ -91,9 +114,14 @@
     .gallery-swiper {
         --swiper-navigation-color: var(--color-dark);
         --swiper-theme-color: var(--color-dark);
+        --swiper-pagination-fraction-color: var(--color-dark);
         --swiper-navigation-size: 2rem;
         --swiper-navigation-sides-offset: 0;
         --swiper-navigation-top-offset: 50%;
+    }
+
+    .gallery-swiper--inverted {
+        --swiper-pagination-fraction-color: var(--color-light);
     }
 
     @media (min-width: 768px) {
@@ -128,7 +156,7 @@
     }
 
     .content-body {
-        @apply leading-relaxed [&_a]:underline;
+        @apply leading-relaxed;
 
         :where(p, h1, h2, h3, h4, h5, h6, ul, ol, blockquote, pre, table, figure) {
             @apply m-0;
@@ -145,11 +173,31 @@
         }
     }
 
-    .text-black .content-body {
-        @apply text-dark [&_a]:text-blue-700;
+    .text-black {
+        @apply text-dark;
+
+        a {
+            @apply text-dark;
+        }
+
+        .content-body {
+            a {
+                @apply text-blue-700;
+            }
+        }
     }
 
-    .text-white .content-body {
-        @apply text-light [&_a]:text-blue-300;
+    .text-white {
+        @apply text-light;
+
+        a {
+            @apply text-light;
+        }
+
+        .content-body {
+            a {
+                @apply text-blue-300;
+            }
+        }
     }
 }

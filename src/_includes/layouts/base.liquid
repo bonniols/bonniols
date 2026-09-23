@@ -21,16 +21,17 @@
             href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&display=swap"
             rel="stylesheet"
         >
-        <link rel="stylesheet" href="/assets/css/main.css" />
         {% if hasGallery %}
             <link rel="stylesheet" href="/assets/vendor/swiper/swiper-bundle.min.css">
         {% endif %}
+        <link rel="stylesheet" href="/assets/css/main.css" />
     </head>
     <body class="flex min-h-dvh flex-col" style="background-color: {{ pageBg }}">
-        {% include 'partials/nav' %}
+        {% include 'partials/header' %}
         <main class="grow{% if invert_text_color %} text-white{% else %} text-black{% endif %}">
             {{ content }}
         </main>
+        {% include 'partials/footer' %}
         <script src="/assets/js/nav.js" defer></script>
         {% if hasGallery %}
             <script src="/assets/vendor/swiper/swiper-bundle.min.js" defer></script>

@@ -6,6 +6,9 @@ import cssnano from 'cssnano';
 import postcss from 'postcss';
 import tailwindcss from '@tailwindcss/postcss';
 import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
+import markdownIt from 'markdown-it';
+
+const md = markdownIt();
 
 function sortedByOrderThenTitle(collectionApi, tag) {
     const orderValue = (item) => {
@@ -22,6 +25,12 @@ function sortedByOrderThenTitle(collectionApi, tag) {
 }
 
 export default function (eleventyConfig) {
+    // Strings stored in json files (e.g. legals.body) aren't rendered as markdown by Eleventy, so we need to add a filter to render them.
+    eleventyConfig.addFilter('markdown', (content) => {
+        if (!content) return '';
+        return md.render(content);
+    });
+
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
     eleventyConfig.addCollection('projectsSorted', (collectionApi) =>
         sortedByOrderThenTitle(collectionApi, 'projects'),

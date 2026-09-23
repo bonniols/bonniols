@@ -215,3 +215,22 @@ collections:
             widget: image
             allow_multiple: true
             required: false
+      - label: Mentions légales
+        name: legals
+        file: src/_data/legals.json
+        fields:
+          - name: body
+            label: Texte
+            widget: markdown
+            required: false
+          - name: links
+            label: Liens
+            widget: list
+            required: false
+            fields:
+              - name: title
+                label: Libellé
+                widget: string
+              - name: url
+                label: URL
+                widget: string

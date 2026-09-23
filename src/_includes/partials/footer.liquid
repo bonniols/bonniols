@@ -1,0 +1,23 @@
+<footer class="text-dark bg-white">
+    <div class="container-wide flex flex-row flex-wrap items-center justify-center gap-x-6 gap-y-1 py-4 text-sm">
+        {% if legals.body != blank %}
+            <div class="content-body text-center text-black">
+                {{ legals.body | markdown }}
+            </div>
+        {% endif %}
+
+        {% if legals.links.size > 0 %}
+            <ul class="flex list-none flex-wrap items-center justify-center gap-4">
+                {% for link in legals.links %}
+                    <li>
+                        <a
+                            href="{{ link.url }}"
+                        >
+                            {{- link.title -}}
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+</footer>

@@ -55,7 +55,7 @@
         {% elsif item.url %}
             <a
                 href="{{ item.url }}"
-                class="block px-3 py-2 hover:bg-neutral-100 focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400{% if isActive %} font-semibold{% endif %}"
+                class="text-dark block px-3 py-2 no-underline hover:bg-neutral-100 focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400{% if isActive %} font-semibold{% endif %}"
                 {% if isExternal %}
                     target="_blank"
                     rel="noopener noreferrer"

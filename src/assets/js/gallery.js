@@ -23,12 +23,20 @@
             nextEl: swiperEl.querySelector('.swiper-button-next'),
             prevEl: swiperEl.querySelector('.swiper-button-prev'),
         },
+        pagination: {
+            enabled: true,
+            el: swiperEl.querySelector('.swiper-pagination'),
+            type: 'fraction',
+        },
         keyboard: { enabled: true, onlyInViewport: true },
         breakpoints: {
             768: {
                 autoHeight: false,
                 navigation: {
                     enabled: true,
+                },
+                pagination: {
+                    enabled: false,
                 },
             },
         },
