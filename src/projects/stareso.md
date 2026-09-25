@@ -6,8 +6,8 @@ background_color: "#FFFFFF"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350327/2019_STARESO_HD_001_hboha6.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350344/19062019-_D5A2713-Panorama_b8bfaz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273677/2019_STARESO_HD_009_1_gwluji.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350344/19062019-_D5A2713-Panorama_b8bfaz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273676/2019_STARESO_HD_016_imoxpt.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273676/2019_STARESO_HD_007_u0kpbu.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350330/2019_STARESO_HD_011_cgm0ru.jpg
