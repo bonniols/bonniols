@@ -2,8 +2,8 @@
 title: VISIONS ACOUSTIQUES
 order: 0
 show_in_nav: true
-background_color: "#bea6a6"
-invert_text_color: true
+background_color: "#ffffff"
+invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790344956/038_gcg3kr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790344799/037_plawnq.jpg
@@ -32,9 +32,10 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790082048/Visions_acoustiques_037_yhajgv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790082214/Visions_acoustiques_039_e7sdtw.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790082124/Visions_acoustiques_038_buz2hm.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790081971/Visions_acoustiques_028_cv8mux.jpg
 ---
-"Visions acoustiques" constitue une immersion photographique dans des laboratoires dédiés à l’acoustique (industrie, sciences et création sonore) où les phénomènes ondulatoires étudiés ne se formalisent pas dans le visible.Le travail photographique s’attache ici de recomposer une image mentale de ces chambres d’études et tente de capter la part visuelle de l’invisible de l’onde acoustique.
+"Visions acoustiques" constitue une immersion photographique dans des laboratoires dédiés à l’acoustique (industrie, sciences et création sonore) où les phénomènes ondulatoires étudiés ne se formalisent pas dans le visible. Le travail photographique propose ici deux apporche : la première vise à documenter la découverte des lieux tels qu'ils m'apparaissent lors de mes visite, la deuxième réalisée dans un second temos s’attache à recomposer une image mentale de ces chambres d’études et tente de capter la part visuelle de l’invisible de l’onde acoustique.
+
+Tirages Permajet Mat sur dibond 80 X 80 cm.
 
 Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
  100 X 150 cm.\
@@ -45,6 +46,4 @@ Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif.
 
 *Sélection aux Voies Off d’Arles 2010*
 
-Invité en septembre 2012 à la galerie RDV
-
-En association avec la 16è QPN
+*Invité en septembre 2012 à la galerie RDV, en association avec la 16è QPN*
