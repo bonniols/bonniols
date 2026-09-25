@@ -38,9 +38,7 @@ gallery:
 Tirages Permajet Mat sur dibond 80 X 80 cm.
 
 Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
- 100 X 150 cm.\
-\
-5 exemplaires signés et numérotés.
+ 100 X 150 cm. 5 exemplaires signés et numérotés.
 
 *Bourse du Talent # 40*
 
