@@ -5,18 +5,31 @@ show_in_nav: true
 background_color: "#FFFFFF"
 invert_text_color: false
 gallery:
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350327/2019_STARESO_HD_001_hboha6.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350344/19062019-_D5A2713-Panorama_b8bfaz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273677/2019_STARESO_HD_009_1_gwluji.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273676/2019_STARESO_HD_016_imoxpt.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273676/2019_STARESO_HD_007_u0kpbu.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350330/2019_STARESO_HD_011_cgm0ru.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273681/2019_STARESO_HD_034_lkizsk.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350338/2019_STARESO_HD_012_sknwmb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350332/2019_STARESO_HD_042_nhbraj.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350336/2019_STARESO_HD_015_n10aah.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273680/2019_STARESO_HD_025_zrc3ie.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273676/2019_STARESO_HD_017_bhghu0.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790273677/2019_STARESO_HD_022_b8cauy.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350340/2019_STARESO_HD_021_g6kouk.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273679/2019_STARESO_HD_039_iqb191.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790273679/2019_STARESO_HD_050_gez1vl.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790273677/2019_STARESO_HD_022_b8cauy.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350342/18062019-_D5A2588_xah84f.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350345/20062019-_D5A3135-Panorama_ljtzkt.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350331/2019_STARESO_HD_035_dfsens.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350346/20062019-_D5A3075-Panorama2_abzkgs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273679/2019_STARESO_HD_052_waph6j.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350339/2019_STARESO_HD_049_kcuwdb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790273679/2019_STARESO_HD_050_gez1vl.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273682/2019_STARESO_HD_054_bmirvy.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273681/2019_STARESO_HD_055_m2oney.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350338/2019_STARESO_HD_044_mi6cjr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273680/2019_STARESO_HD_053_xbduez.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273682/2019_STARESO_HD_056_fsvcs2.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273683/2019_STARESO_HD_060_mu0cxi.jpg
