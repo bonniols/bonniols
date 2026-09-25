@@ -34,9 +34,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273682/2019_STARESO_HD_056_fsvcs2.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273683/2019_STARESO_HD_060_mu0cxi.jpg
 ---
-/ 2o19 /
-
-Résidence photographique Art / Science / Environnement
+/ 2o19 / Résidence photographique 
 
 Station de Recherche Sous-marine, Université de Liège
 
