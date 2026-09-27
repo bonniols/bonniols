@@ -1,6 +1,6 @@
 ---
 title: SIMPLES SAUVAGES
-order: 4
+order: 2
 show_in_nav: true
 background_color: "#4f4f4f"
 invert_text_color: true
