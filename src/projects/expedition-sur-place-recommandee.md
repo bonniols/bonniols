@@ -2,7 +2,7 @@
 title: EXPEDITION SUR PLACE RECOMMANDEE (Lot I)
 order: 10
 show_in_nav: true
-background_color: "#ffffff"
+background_color: "#fce2e1"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244573/008_ipgwzo.jpg
