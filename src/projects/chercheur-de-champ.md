@@ -2,7 +2,7 @@
 title: CHERCHEUR DE CHAMP
 order: 1
 show_in_nav: true
-background_color: "#FFFFFF"
+background_color: "#f8faec"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500599/unnamed2_1_txbh1k.jpg
@@ -10,10 +10,10 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500599/20250314_132705-01-01_1_qq5bft.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500594/20240604_211540-01-01_ry7jxs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500600/ete_compo_210_297_ymzqqf.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500582/02022025-_DSF0854_yutzss.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/20240620_excargots_hitnmb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790501147/03022025-_DSF0950_mypbjb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500584/20240707_091655-01-01_xwejbf.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500582/02022025-_DSF0854_yutzss.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500586/20240421_aubepine_1_hzaw3d.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/20240718_tapis_210_297_kswvjs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500597/duo_recolte_bxgk6t.jpg
