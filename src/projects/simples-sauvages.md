@@ -2,7 +2,7 @@
 title: SIMPLES SAUVAGES
 order: 2
 show_in_nav: true
-background_color: "#4f4f4f"
+background_color: "#514d4b"
 invert_text_color: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076341/Simples_sauvages_011_npwq0n.jpg
