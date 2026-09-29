@@ -2,7 +2,7 @@
 title: CHERCHEUR DE CHAMP
 order: 1
 show_in_nav: true
-background_color: "#f8faec"
+background_color: "#d7e89e"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500599/unnamed2_1_txbh1k.jpg
