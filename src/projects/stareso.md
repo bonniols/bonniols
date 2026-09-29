@@ -2,7 +2,7 @@
 title: STARESO
 order: 4
 show_in_nav: true
-background_color: "#FFFFFF"
+background_color: "#b8ab90"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350327/2019_STARESO_HD_001_hboha6.jpg
