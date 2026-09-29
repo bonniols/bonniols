@@ -2,7 +2,7 @@
 title: CHANTIERS CROISES
 order: 7
 show_in_nav: true
-background_color: "#ffffff"
+background_color: "#f8ffce"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243772/140709_1_sfss1r.jpg
@@ -21,7 +21,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243766/_D5A8707-Panorama_y469ir.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243765/_D5A8675-Panorama_avsmjn.jpg
 ---
-###### **/ 2o14 - 2o16 / Résidence et campagne photographique à Saint-Lupien, Rezé**
+#### **/ 2o14 - 2o16 / Résidence et campagne photographique à Saint-Lupien, Rezé**
 
 ###### ***Série de 79 photographies***
 
