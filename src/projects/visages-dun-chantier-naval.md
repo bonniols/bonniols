@@ -2,8 +2,8 @@
 title: VISAGES D'UN CHANTIER NAVAL
 order: 6
 show_in_nav: true
-background_color: "#ddf8ff"
-invert_text_color: false
+background_color: "#152b30"
+invert_text_color: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075452/VCN_001_uautpc.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075510/VCN_005_stzlfe.jpg
