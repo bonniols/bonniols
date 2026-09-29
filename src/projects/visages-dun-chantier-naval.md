@@ -2,7 +2,7 @@
 title: VISAGES D'UN CHANTIER NAVAL
 order: 6
 show_in_nav: true
-background_color: "#FFFFFF"
+background_color: "#ddf8ff"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075452/VCN_001_uautpc.jpg
@@ -26,15 +26,9 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075503/VCN_008_vtdeqa.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075453/VCN_020_tycyms.jpg
 ---
-												
-
 #### / 2o15 - 2o18 / Carte blanche confiée par Laurent Castaing, Directeur Général des Chantiers de l’Atlantique.
 
 #### / 2o25 / Exposition personnelle au festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France.
-
-
-
-												
 
 "Les chantiers navals de Saint-Nazaire ont donné carte blanche à un jeunephotographe de talent pour explorer toute la richesse visuelle et humaine de cette « ville dans la ville ».
 
