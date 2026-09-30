@@ -1,6 +1,6 @@
 ---
 title: Bio / CV
-slug: a-propos
+slug: bio
 background_color: "#fffc76"
 invert_text_color: false
 ---
