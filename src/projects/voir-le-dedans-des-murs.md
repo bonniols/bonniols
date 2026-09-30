@@ -26,23 +26,11 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44004_nsgqoz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44002_yy5yrg.jpg
 ---
-# 2o1o - 2o12 
+# 2o1o - 2o12
 
-## Chantier de réhabilitation de l’ancien Palais de Justice de Nantes. 
+## Chantier de réhabilitation de l’ancien Palais de Justice de Nantes.
 
 ## Carte Blanche confiée par Altarea Cogedim.
-
-<br/>
-
-<br/>
-
-Exposition personnelle produite par le C.A.U.E. de Loire-AtlantiqueCours d’accueil de l’ancienne maison d’arrêt de Nantes, 2013. 
-
-\- Scénographie : *Dany Cartron*. 
-
-\- Textes : *Christophe Boucher*.
-
-\- 43 tirages sur dibond, dimensions variables.
 
 <br/>
 
@@ -75,3 +63,11 @@ Au delà de la qualité de l’oeuvre photographique, et du souhait de donner 
 *Apaiserait.*
 
 *Eugène Guillevic – Exécutoire, 1947*
+
+<br/>
+
+<br/>
+
+Exposition :
+
+"Voir le dedans des murs" produite par le C.A.U.E. de Loire-AtlantiqueCours d’accueil de l’ancienne maison d’arrêt de Nantes, 2013. Scénographie : *Dany Cartron*. Textes : *Christophe Boucher*. 43 tirages sur dibond, dimensions variables.
