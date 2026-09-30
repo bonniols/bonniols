@@ -37,13 +37,21 @@ Edition de 79 cartes postales 10 X 15 cm
 
 Edition d’un poster dépliant recto-verso 100 X 70 cm
 
+<br/>
+
+<br/>
+
 Exposition personnelle "Chantiers croisés" pour l'inauguration du Chronographe, Centre d’interprétation archéologique métropolitain, 2017 (de janvier à mai), Rezé.
 
-Scénographie : Sylvain Bonniol / Graphisme : Nicolas Gautron
+L’exposition Chantiers croisés fait suite à la résidence photographique de Sylvain Bonniol sur les chantiers de la construction du Chronographe (Berranger & Vincent - architectes) et des fouilles archéologiques de Saint-Lupien, à Rezé. 
+
+Elle se tient de janvier à mai 2017 pour l'inauguration du Chronographe, avec le soutien de la DRAC des Pays de la Loire, Ville de Rezé et Nantes Métropole.
+
+Scénographie : Sylvain Bonniol 
+
+Graphisme : Nicolas Gautron
 
 Textes : Christophe Boucher
-
-L’exposition Chantiers croisés, fait suite à la résidence photographique de Sylvain Bonniol sur les chantiers de la construction du Chronographe (Berranger & Vincent - architectes) et des fouilles archéologiques de Saint-Lupien, à Rezé. Avec le soutien de la DRAC des Pays de la Loire, Ville de Rezé et Nantes Métropole.
 
 <br/>
 
