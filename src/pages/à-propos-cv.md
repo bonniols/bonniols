@@ -1,5 +1,5 @@
 ---
-title: À propos / CV
+title: Bio / CV
 slug: a-propos
 background_color: "#FFFFFF"
 ---
