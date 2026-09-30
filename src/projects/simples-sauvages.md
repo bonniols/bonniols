@@ -2,7 +2,7 @@
 title: SIMPLES SAUVAGES
 order: 2
 show_in_nav: true
-background_color: "#514d4b"
+background_color: "#3a3836"
 invert_text_color: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076341/Simples_sauvages_011_npwq0n.jpg
@@ -33,9 +33,11 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076426/Simples_sauvages_023_zrysht.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076430/Simples_sauvages_026_iyrps0.jpg
 ---
-### / 2o21 - 2o25 /
+# 2o21 - 2o25
 
-												
+<br/>
+
+<br/>
 
 A première vue Simples sauvages est un projet photographique qui peut s’apparenter à un herbier. Il s’agit d’un corpus d’une centaine d’images élaborées au fil d’un processus d’herborisation des plantes sauvages que je prélève pour réaliser leur « portrait » photographique.
 
@@ -49,11 +51,10 @@ Après de longues décennies de cécité botanique\*, les plantes sauvages r
 
 Le travail photographique est ici une tentative de laisser cesplantes s’enraciner, croître dans notre imaginaire et révéler leur génie stationnaire. 
 
-												
+<br/>
 
-> \* « Plant blindness », est un concept des botanistes James Wandersee et Elisabeth Schussler(1998) qui décrit le biais cognitif d’aveuglement aux espèces végétales, principalement dans les sociétés occidentales actuelles.
->
->
-> \*\* Citation de l’ouvrage « La plante compagne » (1998). Pierre Lieutaghi (1939-2023) est un ethnobotaniste français, auteur du célèbre ouvrage « Le Livre des bonnes herbes » (1966) et créateur d’un jardin ethnobotanique à Mane dans les Alpes-de-Haute-Provence.
+\* « Plant blindness », est un concept des botanistes James Wandersee et Elisabeth Schussler(1998) qui décrit le biais cognitif d’aveuglement aux espèces végétales, principalement dans les sociétés occidentales actuelles.
+
+\*\* Citation de l’ouvrage « La plante compagne » (1998). Pierre Lieutaghi (1939-2023) est un ethnobotaniste français, auteur du célèbre ouvrage « Le Livre des bonnes herbes » (1966) et créateur d’un jardin ethnobotanique à Mane dans les Alpes-de-Haute-Provence.
 
 *Texte, Sylvain Bonniol*
