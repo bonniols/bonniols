@@ -1,7 +1,7 @@
 ---
 title: Bio / CV
 slug: a-propos
-background_color: "#fffbb2"
+background_color: "#fffc76"
 invert_text_color: false
 ---
 Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y interroger la place de l’homme au sein d’univers technophiles souvent isolés du monde extérieur. Le coup d’arrêt imposé par la pandémie de Covid et le confinement, m’a conduit comme beaucoup à de profondes remises en question. J’ai instinctivement changé de perspective, repensé peu à peu ma pratique photographique à ciel ouvert, pour mettre pied à terre et battre la campagne.
