@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   order: 0
-  title: À propos / CV
+  title: Bio / CV
   url: /a-propos/
   key: a-propos
 permalink: false
