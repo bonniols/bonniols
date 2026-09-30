@@ -11,7 +11,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081962/Visions_acoustiques_025_kjfoaf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081962/Visions_acoustiques_026_tr8mxm.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790340537/026_bbh2zs.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790081972/Visions_acoustiques_029_b2nljn.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790332236/Visions_acoustiques_029_mhu9qu.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790344799/251121_acoustic_institute_027_oyafpy.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790343894/012_zfu8r4.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081962/Visions_acoustiques_024_bbw2y4.jpg
@@ -21,7 +21,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790343657/0022_o77z1v.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790343649/005_kddkeq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081971/Visions_acoustiques_028_cv8mux.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790081961/Visions_acoustiques_022_fdtnkb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790330745/Visions_acoustiques_030_xbull3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790344802/251121_acoustic_institute_051_3_sn2twf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790340537/002_jlbsyf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790330747/Visions_acoustiques_032_auulcn.jpg
