@@ -2,8 +2,8 @@
 title: STAR TRACK
 order: 0
 show_in_nav: true
-background_color: "#FFFFFF"
-invert_text_color: false
+background_color: "#152649"
+invert_text_color: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773806/S.Bonniol_Bolivie_juin10_047_oneqmd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773740/S.Bonniol_Bolivie_juin10_044_clooqf.jpg
