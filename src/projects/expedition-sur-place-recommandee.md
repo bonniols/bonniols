@@ -22,9 +22,9 @@ gallery:
 ---
 # 2o1o - 2o18
 
+<br/>
 
-
-
+<br/>
 
 Série de 16 cartes postales.
 
@@ -34,9 +34,13 @@ Similigravure sur presse typographique : Musée de l’imprimerie de Nantes.
 
 Edition : Comité de Vigilance Brutaliste / Galerie RDV.
 
-/ 2o18 / Exposition collective J’ai posé le monde sur la table.Ecole Supérieure des Beaux-Arts TALM. Commissaire : David Liaudet.
+2o18, Exposition collective J’ai posé le monde sur la table.Ecole Supérieure des Beaux-Arts TALM. Commissaire : David Liaudet.
 
-/ 2o15 / Exposition collective Multiples #5, Galerie RDV, Nantes. Commissaire : Jean François Courtilat.
+2o15, Exposition collective Multiples #5, Galerie RDV, Nantes. Commissaire : Jean François Courtilat.
+
+<br/>
+
+<br/>
 
 *"Le choix des constructions et des architectures de Sylvain Bonniol est un choix simple, celui d’un promeneur, d’un amoureux, d’un voyageur qui va à côté de chez lui, à Rome ou à Tunis. Il n’invente pas une série qu’il applique à l’envi en faisant semblant de tenir là une originalité, il ne se prive de rien, d’aucun lieu tant que son expérience est forte, tant que la relation qu’il entretient sert son propos et rend hommage à ses sensations spatiales. Pas d’épuisement ici d’une typologie. On voit les bâtiments de Perret, Gillet ou encore beaucoup plus rares, ceux de l’architecte Marconnet. A la différence de cette photographie qui éteint des icônes, Sylvain Bonniol invente des lieux inconnus et oubliés non pour faire semblant de les posséder mais pour les partager."*
 
