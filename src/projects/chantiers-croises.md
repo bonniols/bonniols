@@ -35,9 +35,13 @@ gallery:
 
 ###### ***Avec le soutien de la DRAC des Pays de la Loire, Ville de Rezé et Nantes Métropole***
 
-###### ***Scénographie : Sylvain Bonniol / Graphisme : Nicolas GautronTextes : Christophe Boucher***
+###### ***Scénographie : Sylvain Bonniol / Graphisme : Nicolas Gautron*** 
 
-L’exposition Chantiers croisés, fait suite à la résidence photographique de Sylvain Bonniol sur les chantiers de la construction du Chronographe (Berranger & Vincent - architectes) et des fouilles archéologiques de Saint-Lupien, à Rezé.
+###### ***Textes : Christophe Boucher***
+
+###### L’exposition Chantiers croisés, fait suite à la résidence photographique de Sylvain Bonniol sur les chantiers de la construction du Chronographe (Berranger & Vincent - architectes) et des fouilles archéologiques de Saint-Lupien, à Rezé.
+
+<br/>
 
 "À Saint-Lupien aussi, Sylvain Bonniol a pris position, et choisi de poser sonappareil sous les gradins de terre, ou au milieu de l’herbe et des échafau-dages, ou en surplomb de la ville et de l’eau.
 Chacune de ses images est devenue une mise en relation, un récit composéde matières, de lumières, de géométries, de présences humaines, de repèreslointains ou de signes ténus, d’indices, de « presque riens » essentiels.Au-delà de l’anecdote, les acteurs des chantiers nous rappellent ici, commeles petits personnages de certaines peintures de Poussin, qu’il faut l’activitédes hommes pour produire un paysage, une ville, une architecture." *Christophe Boucher, CAUE 44*
