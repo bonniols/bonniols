@@ -26,18 +26,28 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075503/VCN_008_vtdeqa.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075453/VCN_020_tycyms.jpg
 ---
-#### / 2o15 - 2o18 / Carte blanche confiée par Laurent Castaing, Directeur Général des Chantiers de l’Atlantique.
+# 2o15 - 2o18 
 
-#### / 2o25 / Exposition personnelle au festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France.
+# Carte blanche confiée par Laurent Castaing, Directeur Général des Chantiers de l’Atlantique.
 
-"Les chantiers navals de Saint-Nazaire ont donné carte blanche à un jeunephotographe de talent pour explorer toute la richesse visuelle et humaine de cette « ville dans la ville ».
+<br/>
 
-Le chantier naval de Saint-Nazaire est en effet un des plus grands, un desplus anciens et en même temps un des plus innovants au monde. Tout y est gigantesque et spectaculaire.
+<br/>
 
-Sylvain Bonniol a pu en arpenter les 100 hectares de jour comme de nuit, pendant deux ans, en côtoyant au plus près les paquebots en construction, les ingénieurs dans les bureaux d’études, les charpentiers dans les ateliers, les temps forts des essais mer...
+2o25, Exposition personnelle au festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France.
 
-Il en ressort un ouvrage étonnant, d’une grande richesse iconographique, porté par un regard d’auteur, où les portraits d’équipes au travail entrent en résonance avec les espaces de construction.
+<br/>
 
-Une immersion photographique passionnante dans un chantier naval hors-norme."
+<br/>
+
+*"Les chantiers navals de Saint-Nazaire ont donné carte blanche à un jeune photographe de talent pour explorer toute la richesse visuelle et humaine de cette « ville dans la ville.*
+
+*Le chantier naval de Saint-Nazaire est en effet un des plus grands, un des plus anciens et en même temps un des plus innovants au monde. Tout y est gigantesque et spectaculaire.*
+
+*Sylvain Bonniol a pu en arpenter les 100 hectares de jour comme de nuit, pendant deux ans, en côtoyant au plus près les paquebots en construction, les ingénieurs dans les bureaux d’études, les charpentiers dans les ateliers, les temps forts des essais mer...*
+
+*Il en ressort un ouvrage étonnant, d’une grande richesse iconographique, porté par un regard d’auteur, où les portraits d’équipes au travail entrent en résonance avec les espaces de construction.*
+
+*Une immersion photographique passionnante dans un chantier naval hors-norme."*
 
 *Extrait du communiqué de presse des Editions de la Martinière*
