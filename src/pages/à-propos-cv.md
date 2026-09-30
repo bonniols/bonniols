@@ -13,6 +13,10 @@ A mes yeux, le paysage n’est pas une description des étendues bornées par un
 
 Ainsi je m’appuie sur cet univers de signes fluctuants pour sentir la variété des expressions paysagères : les photographier me permet de les traduire en récits visuels pour suggérer toutes sortes de relations entre les lieux et leurs occupants. La portée politique et psychique de ces espaces propices à *la robustesse du vivant* <sup>3</sup> sont quelques unes des raisons éthiques et esthétiques que le photographe peut promouvoir avec le paysage.
 
+<br/>
+
+<br/>
+
 <sup>1</sup> Traduction et commentaire de l’aphorisme « Physis kruptesthai philei » d’Heraclite dans « Le Voile d’Isis », Pierre Hadot, éditions Gallimard, 2004. 
 
 <sup>2</sup> Expression employée par Philippe Descola, pour définir humains et non-humains.
