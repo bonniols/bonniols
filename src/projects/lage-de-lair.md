@@ -2,7 +2,7 @@
 title: L'AGE DE L'AIR
 order: 8
 show_in_nav: true
-background_color: "#e7fcf6"
+background_color: "#eafafa"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080967/2015_lagedelair_001_hqntbf.jpg
