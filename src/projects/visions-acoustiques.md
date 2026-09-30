@@ -2,7 +2,7 @@
 title: VISIONS ACOUSTIQUES
 order: 12
 show_in_nav: true
-background_color: "#ffffff"
+background_color: "#cdbfbf"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790344956/038_gcg3kr.jpg
@@ -38,7 +38,7 @@ Tirages Permajet Mat sur dibond 80 X 80 cm.
 Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
  100 X 150 cm. 5 exemplaires signés et numérotés.
 
-*Bourse du Talent # 40*
+*Mention spéciale à la Bourse du Talent # 40*
 
 *Sélection aux Voies Off d’Arles 2010*
 
