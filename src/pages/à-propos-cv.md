@@ -5,7 +5,7 @@ background_color: "#FFFFFF"
 ---
 Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y interroger la place de l’homme au sein d’univers technophiles souvent isolés du monde extérieur. Le coup d’arrêt imposé par la pandémie de Covid et le confinement, m’a conduit comme beaucoup à de profondes remises en question. J’ai instinctivement changé de perspective, repensé peu à peu ma pratique photographique à ciel ouvert, pour mettre pied à terre et battre la campagne.
 
-*La nature aime à se voiler* <sup>1</sup> . Cet aphorisme d’Héraclite commenté depuis 2500 ans ne semble plus faire débat à notre époque d’extractivisme compulsif et marchand. Mais derrière le théâtre des opérations d’un monde prométhéen se pose à nous cette question aussi complexe qu’urgente : comment souhaitons-nous vivre dans ce monde ?
+*La nature aime à se voiler* <sup>1</sup>. Cet aphorisme d’Héraclite commenté depuis 2500 ans ne semble plus faire débat à notre époque d’extractivisme compulsif et marchand. Mais derrière le théâtre des opérations d’un monde prométhéen se pose à nous cette question aussi complexe qu’urgente : comment souhaitons-nous vivre dans ce monde ?
 
 Penser avec le paysage peut nous mettre en chemin. 
 
