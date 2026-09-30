@@ -2,7 +2,7 @@
 eleventyNavigation:
   order: 0
   title: Bio / CV
-  url: ""
+  url: /bio/
   key: Bio / CV
 permalink: false
 ---
