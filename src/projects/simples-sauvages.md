@@ -47,14 +47,14 @@ Les Simples sont des plantes « sauvages » cultivées de-puis des siècles da
 
 « Simplicis herbae », littéralement les plantes qui soignent.Pratique largement oubliée par nos contemporains, la reconnaissance des plantes sauvages suscite pourtant un regain d’intérêt ces dernières an-nées. Sans doute motivé par l’urgence d’une conscience écologique, le savoir botanique agit comme un langage universel garant de notre appartenance au monde.
 
-Après de longues décennies de cécité botanique\*, les plantes sauvages réapparaissent soudainement sous nos yeux, dans les fossés, derrière les murets ou au creux des trottoirs, renouant avec l’humain des liens ancestraux. Les plantes, écrivait Pierre Lieutaghi « en savent long sur les profondeurs et ce qui s’y trame »\**.
+Après de longues décennies de cécité *botanique*<sup>2</sup>, les plantes sauvages réapparaissent soudainement sous nos yeux, dans les fossés, derrière les murets ou au creux des trottoirs, renouant avec l’humain des liens ancestraux. Les plantes, écrivait Pierre Lieutaghi *« en savent long sur les profondeurs et ce qui s’y trame »*<sup>2</sup>.
 
 Le travail photographique est ici une tentative de laisser cesplantes s’enraciner, croître dans notre imaginaire et révéler leur génie stationnaire. 
 
 <br/>
 
-\* « Plant blindness », est un concept des botanistes James Wandersee et Elisabeth Schussler(1998) qui décrit le biais cognitif d’aveuglement aux espèces végétales, principalement dans les sociétés occidentales actuelles.
+<sup>1</sup> « Plant blindness », est un concept des botanistes James Wandersee et Elisabeth Schussler(1998) qui décrit le biais cognitif d’aveuglement aux espèces végétales, principalement dans les sociétés occidentales actuelles.
 
-\*\* Citation de l’ouvrage « La plante compagne » (1998). Pierre Lieutaghi (1939-2023) est un ethnobotaniste français, auteur du célèbre ouvrage « Le Livre des bonnes herbes » (1966) et créateur d’un jardin ethnobotanique à Mane dans les Alpes-de-Haute-Provence.
+<sup>2</sup> Citation de l’ouvrage « La plante compagne » (1998). Pierre Lieutaghi (1939-2023) est un ethnobotaniste français, auteur du célèbre ouvrage « Le Livre des bonnes herbes » (1966) et créateur d’un jardin ethnobotanique à Mane dans les Alpes-de-Haute-Provence.
 
-*Texte, Sylvain Bonniol*
+Texte, Sylvain Bonniol
