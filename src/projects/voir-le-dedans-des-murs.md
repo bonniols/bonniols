@@ -26,11 +26,27 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44004_nsgqoz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44002_yy5yrg.jpg
 ---
-#### / 2o1o - 2o12 / Chantier de réhabilitation de l’ancien Palais de Justice de Nantes.Carte Blanche confiée par Altarea Cogedim.
+# 2o1o - 2o12 
 
-Exposition personnelle produite par le C.A.U.E. de Loire-AtlantiqueCours d’accueil de l’ancienne maison d’arrêt de Nantes, 2013. Scénographie : *Dany Cartron*. Textes : *Christophe Boucher*.
+## Chantier de réhabilitation de l’ancien Palais de Justice de Nantes. 
 
-43 tirages sur dibond, dimensions variables.
+## Carte Blanche confiée par Altarea Cogedim.
+
+<br/>
+
+<br/>
+
+Exposition personnelle produite par le C.A.U.E. de Loire-AtlantiqueCours d’accueil de l’ancienne maison d’arrêt de Nantes, 2013. 
+
+\- Scénographie : *Dany Cartron*. 
+
+\- Textes : *Christophe Boucher*.
+
+\- 43 tirages sur dibond, dimensions variables.
+
+<br/>
+
+<br/>
 
 « C’est pendant le chantier de 2010 à 2012, que le photographe Sylvain Bonniol a posé son regard sur l’évolution des lieux. 
 
@@ -38,20 +54,24 @@ Entre ce qui n’est déjà plus un palais de Justice et ce qui n’est pas en
 
 Au delà de la qualité de l’oeuvre photographique, et du souhait de donner à voir ce qui n’est pas habituellement visible, il s’agit de participer à la réflexion sur la mutation des usages des édifices anciens préalable indispensable à leur réinvention architecturale et urbaine, et donc à leur préservation.» 												Christophe Boucher
 
-> *Voir le dedans des murs*
->
-> *Ne nous est pas donné.*
->
-> *On a beau les casser*
->
-> *Leur façade est montrée*
->
-> *Bien sûr que c’est pareil*
->
-> *En nous et dans les murs,*
->
-> *Mais voir*
->
-> *Apaiserait.*
+<br/>
+
+<br/>
+
+*Voir le dedans des murs*
+
+*Ne nous est pas donné.*
+
+*On a beau les casser*
+
+*Leur façade est montrée*
+
+*Bien sûr que c’est pareil*
+
+*En nous et dans les murs,*
+
+*Mais voir*
+
+*Apaiserait.*
 
 *Eugène Guillevic – Exécutoire, 1947*
