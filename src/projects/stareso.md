@@ -34,12 +34,18 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273682/2019_STARESO_HD_056_fsvcs2.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273683/2019_STARESO_HD_060_mu0cxi.jpg
 ---
-/ 2o19 / Résidence photographique 
+# 2o19 
+
+# Résidence photographique 
+
+<br/>
+
+<br/>
 
 Station de Recherche Sous-marine, Université de Liège
 
 Architecte Claude Strebelle 1968-1972												
 
-> *" Ca a été réalisé par des ouvriers français de qualité inima-ginable. On avait dessiné des formes très courbes difficiles à réaliseret ils ont fait ça admirablement en béton et en pierre du pays, soitbrute, soit lissée par le temps".*
->
-> *Claude Strebelle, au micro de François Chaslin, Métropolitain 392, 26 décembre 2007, à l’antenne de France Culture.*
+*" Ca a été réalisé par des ouvriers français de qualité inima-ginable. On avait dessiné des formes très courbes difficiles à réaliseret ils ont fait ça admirablement en béton et en pierre du pays, soitbrute, soit lissée par le temps".*
+
+*Claude Strebelle, au micro de François Chaslin, Métropolitain 392, 26 décembre 2007, à l’antenne de France Culture.*
