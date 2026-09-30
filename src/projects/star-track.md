@@ -2,7 +2,7 @@
 title: STAR TRACK
 order: 0
 show_in_nav: true
-background_color: "#152649"
+background_color: "#0a2028"
 invert_text_color: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773806/S.Bonniol_Bolivie_juin10_047_oneqmd.jpg
@@ -38,7 +38,11 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/06062010-_DSC7789_wwobo4.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773584/_DSC6662.3_lhpmsb.jpg
 ---
-\- 2o1o -
+# 2o1o
+
+<br/>
+
+<br/>
 
 Lieu d’accueil pour les scientifiques travaillant avec les quatre télescopes géants du VLT (Very Large Telescope), cet hotel totalement coupé du monde est basé sur les flancs du mont Paranal à 2600m d’altitude, dans le désert côtier de l’Atacama au Chili.
 
