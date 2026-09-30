@@ -21,21 +21,11 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243766/_D5A8707-Panorama_y469ir.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243765/_D5A8675-Panorama_avsmjn.jpg
 ---
-# **2o14 - 2o16**  
+# **2o14 - 2o16**
 
-# **Résidence et campagne photographique à Saint-Lupien, Rezé**
+## **Résidence et campagne photographique à Saint-Lupien, Rezé**
 
-<br/>
 
-<br/>
-
-Série de 79 photographies
-
-12 tirages sur bache 130 X 100 cm
-
-Edition de 79 cartes postales 10 X 15 cm
-
-Edition d’un poster dépliant recto-verso 100 X 70 cm
 
 <br/>
 
@@ -61,3 +51,17 @@ Textes : Christophe Boucher
 Chacune de ses images est devenue une mise en relation, un récit composéde matières, de lumières, de géométries, de présences humaines, de repèreslointains ou de signes ténus, d’indices, de « presque riens » essentiels.Au-delà de l’anecdote, les acteurs des chantiers nous rappellent ici, commeles petits personnages de certaines peintures de Poussin, qu’il faut l’activitédes hommes pour produire un paysage, une ville, une architecture."* 
 
 *Christophe Boucher, CAUE 44*
+
+
+
+<br/>
+
+<br/>
+
+Série de 79 photographies
+
+12 tirages sur bache 130 X 100 cm
+
+Edition de 79 cartes postales 10 X 15 cm
+
+Edition d’un poster dépliant recto-verso 100 X 70 cm
