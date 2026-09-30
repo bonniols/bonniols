@@ -1,6 +1,6 @@
 ---
 title: Bio / CV
-slug: bio
+slug: Bio / CV
 background_color: "#fffc76"
 invert_text_color: false
 ---
