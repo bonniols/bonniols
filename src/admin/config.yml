@@ -222,19 +222,46 @@ collections:
         name: home
         file: src/_data/home.json
         fields:
-          - name: home_gallery
-            label: Galerie
-            widget: image
-            allow_multiple: true
+          - name: use_alt_home_gallery
+            label: Utiliser la galerie alternative pour l'image d'accueil
+            widget: boolean
+            default: false
             required: false
-      - label: Mentions légales
-        name: legals
-        file: src/_data/legals.json
+            hint: "Activer pour utiliser la galerie alternative pour l'image d'accueil. Désactiver pour utiliser la galerie standard."
+          - name: standard_gallery
+            label: Galerie standard
+            widget: object
+            fields:
+              - name: gallery
+                label: Images
+                widget: image
+                allow_multiple: true
+                required: false
+                hint: "L'image d'accueil est tirée au sort dans cette galerie."
+              - name: url
+                label: URL
+                widget: string
+                required: false
+                hint: "Lien à appliquer sur l'image tirée au sort."
+          - name: alt_gallery
+            label: Galerie alternative
+            widget: object
+            fields:
+              - name: gallery
+                label: Images
+                widget: image
+                allow_multiple: true
+                required: false
+                hint: "L'image d'accueil est tirée au sort dans cette galerie."
+              - name: url
+                label: URL
+                widget: string
+                required: false
+                hint: "Lien à appliquer sur l'image tirée au sort."
+      - label: Navigation pied de page
+        name: footer_nav
+        file: src/_data/footer_nav.json
         fields:
-          - name: body
-            label: Texte
-            widget: markdown
-            required: false
           - name: links
             label: Liens
             widget: list
@@ -246,3 +273,16 @@ collections:
               - name: url
                 label: URL
                 widget: string
+      - label: Textes
+        name: text_labels
+        file: src/_data/text_labels.json
+        fields:
+          - name: project_infos_label
+            label: Label Texte/Info pour les projets
+            widget: string
+            required: false
+            hint: "Laisser vide pour masquer le lien."
+          - name: legals_body
+            label: Texte mentions légales
+            widget: markdown
+            required: false

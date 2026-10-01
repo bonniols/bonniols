@@ -1,27 +1,35 @@
 {
-  "home_gallery": [
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790081961/Visions_acoustiques_023_zul1sm.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790076341/Simples_sauvages_011_npwq0n.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790076315/Simples_sauvages_001_zq4jar.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790076330/Simples_sauvages_008_cnfkgg.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790084487/R_14_008_b7wrdw.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790084472/R_14_001_nho4lz.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790084501/R_14_011_wvbybc.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790080970/2015_lagedelair_010_rmu99n.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790080967/2015_lagedelair_001_hqntbf.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790243774/141127_dezwj4.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790273680/2019_STARESO_HD_025_zrc3ie.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790350344/19062019-_D5A2713-Panorama_b8bfaz.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790075452/VCN_001_uautpc.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790075512/VCN_012_djsjym.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790243694/Bonniol_photographie_005_gzhjql.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/bonniol_architecture_010_oqwqoc.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790500596/20240925_tournesol_1_idq4br.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790500582/02022025-_DSF0854_yutzss.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790081962/Visions_acoustiques_026_tr8mxm.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790330756/Visions_acoustiques_036_lg1xtj.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790244030/_MG_0118_snn20g.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790243890/180926_HD_002_cx8qby.jpg",
-    "https://res.cloudinary.com/yxpagolc/image/upload/v1790243891/180926_HD_004_hot8es.jpg"
-  ]
+    "use_alt_home_gallery": false,
+    "standard_gallery": {
+        "gallery": [
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790081961/Visions_acoustiques_023_zul1sm.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790076341/Simples_sauvages_011_npwq0n.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790076315/Simples_sauvages_001_zq4jar.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790076330/Simples_sauvages_008_cnfkgg.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790084487/R_14_008_b7wrdw.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790084472/R_14_001_nho4lz.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790084501/R_14_011_wvbybc.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790080970/2015_lagedelair_010_rmu99n.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790080967/2015_lagedelair_001_hqntbf.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790243774/141127_dezwj4.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790273680/2019_STARESO_HD_025_zrc3ie.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790350344/19062019-_D5A2713-Panorama_b8bfaz.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790075452/VCN_001_uautpc.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790075512/VCN_012_djsjym.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790243694/Bonniol_photographie_005_gzhjql.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/bonniol_architecture_010_oqwqoc.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790500596/20240925_tournesol_1_idq4br.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790500582/02022025-_DSF0854_yutzss.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790081962/Visions_acoustiques_026_tr8mxm.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790330756/Visions_acoustiques_036_lg1xtj.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790244030/_MG_0118_snn20g.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790243890/180926_HD_002_cx8qby.jpg",
+            "https://res.cloudinary.com/yxpagolc/image/upload/v1790243891/180926_HD_004_hot8es.jpg"
+        ],
+        "url": ""
+    },
+    "alt_gallery": {
+        "gallery": [],
+        "url": ""
+    }
 }

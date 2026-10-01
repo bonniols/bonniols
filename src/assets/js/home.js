@@ -1,14 +1,12 @@
 (function () {
-    const link = document.querySelector('[data-home-hero]');
-    const figure = link.querySelector('figure');
+    const hero = document.querySelector('[data-home-hero]');
+    const figure = hero?.querySelector('figure');
     const img = figure?.querySelector('img');
     const caption = figure?.querySelector('figcaption');
 
     if (!figure || !img) return;
 
     const gallery = JSON.parse(document.getElementById('home-gallery-data')?.textContent || '[]');
-
-    // console.log(gallery);
 
     if (!Array.isArray(gallery) || gallery.length === 0) return;
 
@@ -54,12 +52,6 @@
             } else {
                 caption.textContent = '';
             }
-        }
-
-        if (item.url) {
-            link.href = item.url;
-        } else {
-            link.removeAttribute('href');
         }
 
         img.alt = item.alt || item.caption || '';

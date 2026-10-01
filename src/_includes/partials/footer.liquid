@@ -1,14 +1,14 @@
 <footer class="text-dark bg-white">
     <div class="container-wide flex flex-row flex-wrap items-center justify-center gap-x-6 gap-y-1 py-4 text-sm">
-        {% if legals.body != blank %}
+        {% if text_labels.legals_body != blank %}
             <div class="content-body text-center text-black">
-                {{ legals.body | markdown }}
+                {{ text_labels.legals_body | markdown }}
             </div>
         {% endif %}
 
-        {% if legals.links.size > 0 %}
+        {% if footer_nav.links.size > 0 %}
             <ul class="flex list-none flex-wrap items-center justify-center gap-4">
-                {% for link in legals.links %}
+                {% for link in footer_nav.links %}
                     <li>
                         <a
                             href="{{ link.url }}"
