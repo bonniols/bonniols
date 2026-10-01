@@ -1,6 +1,6 @@
 ---
 title: L'AGE DE L'AIR
-order: 8
+order: 5
 show_in_nav: true
 background_color: "#eafafa"
 invert_text_color: false
