@@ -4,6 +4,7 @@
 
     const backdrop = root.querySelector('[data-gallery-backdrop]');
     const closeBtn = root.querySelector('[data-gallery-close]');
+    const fullscreenBtn = root.querySelector('[data-gallery-fullscreen]');
     const swiperEl = root.querySelector('.swiper');
     const slideCount = Number(document.querySelector('[data-gallery]')?.dataset.slideCount) || 0;
 
@@ -35,6 +36,7 @@
                 spaceBetween: 0,
                 navigation: {
                     enabled: true,
+                    hideOnClick: true,
                 },
                 pagination: {
                     enabled: false,
@@ -59,13 +61,105 @@
 
         requestAnimationFrame(() => {
             swiper.slideTo(Number(index), 0);
+            setControlsHidden(false);
             closeBtn?.focus();
         });
+    }
+
+    const enterIcon = fullscreenBtn?.querySelector('.gallery-swiper__icon-enter');
+    const exitIcon = fullscreenBtn?.querySelector('.gallery-swiper__icon-exit');
+
+    function getFullscreenElement() {
+        return (
+            document.fullscreenElement ||
+            document.webkitFullscreenElement ||
+            document.mozFullScreenElement ||
+            document.msFullscreenElement ||
+            null
+        );
+    }
+
+    function isGalleryFullscreen() {
+        return getFullscreenElement() === root;
+    }
+
+    function requestGalleryFullscreen() {
+        const request =
+            root.requestFullscreen ||
+            root.webkitRequestFullscreen ||
+            root.mozRequestFullScreen ||
+            root.msRequestFullscreen;
+
+        if (!request) return;
+
+        const result = request.call(root);
+        if (result && typeof result.catch === 'function') {
+            result.catch(() => {});
+        }
+    }
+
+    function exitGalleryFullscreen() {
+        if (!isGalleryFullscreen()) return;
+
+        const exit =
+            document.exitFullscreen ||
+            document.webkitExitFullscreen ||
+            document.webkitCancelFullScreen ||
+            document.mozCancelFullScreen ||
+            document.msExitFullscreen;
+
+        if (exit) {
+            exit.call(document);
+        }
+    }
+
+    function setHidden(el, hidden) {
+        if (!el) return;
+
+        if (hidden) {
+            el.setAttribute('hidden', '');
+        } else {
+            el.removeAttribute('hidden');
+        }
+    }
+
+    function setControlsHidden(hidden) {
+        const method = hidden ? 'add' : 'remove';
+
+        swiperEl
+            .querySelectorAll('.swiper-button-prev, .swiper-button-next')
+            .forEach((btn) => btn.classList[method]('swiper-button-hidden'));
+
+        [closeBtn, fullscreenBtn].forEach((btn) => {
+            btn?.classList[method]('swiper-button-hidden');
+        });
+    }
+
+    function setCustomControlsHidden(hidden) {
+        [closeBtn, fullscreenBtn].forEach((btn) => {
+            btn?.classList[hidden ? 'add' : 'remove']('swiper-button-hidden');
+        });
+    }
+
+    function updateFullscreenState() {
+        const isFullscreen = isGalleryFullscreen();
+
+        root.classList.toggle('gallery-swiper--native-fullscreen', isFullscreen);
+        fullscreenBtn?.setAttribute('aria-pressed', String(isFullscreen));
+        fullscreenBtn?.setAttribute(
+            'aria-label',
+            isFullscreen ? 'Quitter le plein écran' : 'Plein écran',
+        );
+        setHidden(closeBtn, isFullscreen);
+        setHidden(enterIcon, isFullscreen);
+        setHidden(exitIcon, !isFullscreen);
     }
 
     function closeLightbox() {
         if (!isOverlayOpen()) return;
 
+        exitGalleryFullscreen();
+        updateFullscreenState();
         root.classList.remove('gallery-swiper--open');
         if (desktop.matches) {
             root.classList.add('md:hidden');
@@ -85,7 +179,38 @@
         });
     });
 
+    swiper.on('navigationHide', () => {
+        if (!desktop.matches || !isOverlayOpen()) return;
+
+        setCustomControlsHidden(true);
+    });
+
+    swiper.on('navigationShow', () => {
+        if (!desktop.matches || !isOverlayOpen()) return;
+
+        setCustomControlsHidden(false);
+        updateFullscreenState();
+    });
+
     closeBtn?.addEventListener('click', closeLightbox);
+
+    fullscreenBtn?.addEventListener('click', () => {
+        if (isGalleryFullscreen()) {
+            exitGalleryFullscreen();
+            return;
+        }
+
+        requestGalleryFullscreen();
+    });
+
+    [
+        'fullscreenchange',
+        'webkitfullscreenchange',
+        'mozfullscreenchange',
+        'MSFullscreenChange',
+    ].forEach((eventName) => {
+        document.addEventListener(eventName, updateFullscreenState);
+    });
 
     backdrop?.addEventListener('click', (event) => {
         if (event.target === backdrop) {
@@ -95,6 +220,8 @@
 
     document.addEventListener('keydown', (event) => {
         if (event.key === 'Escape' && isOverlayOpen()) {
+            if (getFullscreenElement()) return;
+
             event.stopImmediatePropagation();
             closeLightbox();
         }

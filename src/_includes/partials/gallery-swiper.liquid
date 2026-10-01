@@ -17,14 +17,55 @@
     aria-label="Galerie photos"
     aria-hidden="false"
 >
-    <button
-        type="button"
-        class="gallery-swiper__close absolute top-6 right-6 z-20 inline-flex cursor-pointer items-center justify-center px-3 py-1"
-        data-gallery-close
-        aria-label="Fermer la galerie"
-    >
-        <span>Fermer</span>
-    </button>
+    <div class="absolute top-6 right-6 z-20 flex items-center gap-2">
+        <button
+            type="button"
+            class="gallery-swiper__fullscreen hidden cursor-pointer items-center justify-center p-1 md:inline-flex"
+            data-gallery-fullscreen
+            aria-label="Plein écran"
+            aria-pressed="false"
+        >
+            <svg
+                class="gallery-swiper__icon-enter"
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+            >
+                <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path>
+            </svg>
+            <svg
+                class="gallery-swiper__icon-exit"
+                hidden
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+            >
+                <path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path>
+            </svg>
+        </button>
+        <button
+            type="button"
+            class="gallery-swiper__close inline-flex cursor-pointer items-center justify-center px-3 py-1"
+            data-gallery-close
+            aria-label="Fermer la galerie"
+        >
+            <span>Fermer</span>
+        </button>
+    </div>
 
     <div class="swiper relative z-10 md:h-full md:w-full">
         <div class="swiper-wrapper">
