@@ -1,7 +1,7 @@
 ---
 title: Typo tests
 order: 12
-show_in_nav: true
+show_in_nav: false
 background_color: "#142e32"
 invert_text_color: true
 ---
