@@ -1,6 +1,6 @@
 ---
 title: HALLE 6 EST
-order: 3
+order: 1
 show_in_nav: true
 background_color: "#FFFFFF"
 invert_text_color: false
