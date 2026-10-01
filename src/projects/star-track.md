@@ -1,6 +1,6 @@
 ---
 title: STAR TRACK
-order: 0
+order: 7
 show_in_nav: true
 background_color: "#0a2028"
 invert_text_color: true
