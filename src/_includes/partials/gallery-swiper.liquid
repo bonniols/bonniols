@@ -3,8 +3,14 @@
 {% else %}
     {% assign galleryTheme = 'gallery-swiper--default' %}
 {% endif %}
+{% if use_background_color_in_slider %}
+    {% assign sliderBg = background_color | default: '#808080' %}
+{% else %}
+    {% assign sliderBg = '#808080' %}
+{% endif %}
 <div
     class="gallery-swiper {{ galleryTheme }} block md:absolute md:inset-0 md:z-50 md:hidden md:h-dvh md:w-dvw md:items-center md:p-6"
+    style="background-color: {{ sliderBg }}"
     data-gallery-swiper
     role="dialog"
     aria-modal="false"

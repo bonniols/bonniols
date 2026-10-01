@@ -64,6 +64,12 @@ collections:
         default: false
         required: false
         hint: "Activer pour afficher le texte en blanc (utile sur fond sombre)."
+      - name: use_background_color_in_slider
+        label: Utiliser la couleur de fond pour le slider
+        widget: boolean
+        default: false
+        required: false
+        hint: "Activer pour utiliser la couleur de fond du projet dans le diaporama. Désactiver pour utiliser un gris neutre."
       - name: body
         label: Texte
         widget: markdown
@@ -114,6 +120,12 @@ collections:
         default: false
         required: false
         hint: "Activer pour afficher le texte en blanc (utile sur fond sombre)."
+      - name: use_background_color_in_slider
+        label: Utiliser la couleur de fond pour le slider
+        widget: boolean
+        default: true
+        required: false
+        hint: "Activer pour utiliser la couleur de fond du projet dans le diaporama. Désactiver pour utiliser un gris neutre."
       - name: body
         label: Texte
         widget: markdown

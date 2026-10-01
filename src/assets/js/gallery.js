@@ -16,7 +16,7 @@
         observer: true,
         observeParents: true,
         slidesPerView: 1,
-        spaceBetween: 0,
+        spaceBetween: 16,
         rewind: slideCount > 1,
         navigation: {
             enabled: false,
@@ -32,6 +32,7 @@
         breakpoints: {
             768: {
                 autoHeight: false,
+                spaceBetween: 0,
                 navigation: {
                     enabled: true,
                 },

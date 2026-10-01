@@ -16,7 +16,9 @@ layout: layouts/base.liquid
             {% render 'partials/gallery-grid', galleryItems: galleryItems %}
             {% render 'partials/gallery-swiper',
                 galleryItems: galleryItems,
-                invert_text_color: invert_text_color
+                invert_text_color: invert_text_color,
+                background_color: background_color,
+                use_background_color_in_slider: use_background_color_in_slider
             %}
         </section>
     {% endif %}
