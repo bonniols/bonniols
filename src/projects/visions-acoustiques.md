@@ -1,6 +1,6 @@
 ---
 title: VISIONS ACOUSTIQUES
-order: 12
+order: 8
 show_in_nav: true
 background_color: "#cdbfbf"
 invert_text_color: false

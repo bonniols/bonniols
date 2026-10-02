@@ -1,6 +1,6 @@
 ---
 title: EXPEDITION SUR PLACE RECOMMANDEE (Lot I)
-order: 10
+order: 6
 show_in_nav: true
 background_color: "#fce2e1"
 invert_text_color: false

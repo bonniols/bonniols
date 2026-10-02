@@ -1,6 +1,6 @@
 ---
 title: VOIR LE DEDANS DES MURS
-order: 11
+order: 4
 show_in_nav: true
 background_color: "#f4eae9"
 invert_text_color: false

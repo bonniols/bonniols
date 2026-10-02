@@ -1,6 +1,6 @@
 ---
 title: STARESO
-order: 4
+order: 3
 show_in_nav: true
 background_color: "#b8ab90"
 invert_text_color: false
