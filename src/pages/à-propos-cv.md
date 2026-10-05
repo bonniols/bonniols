@@ -6,11 +6,7 @@ invert_text_color: false
 ---
 Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y interroger la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. La pandémie de Covid et le confinement, que j'ai vécu comme un prolongement de cet isolement, m’ont conduit comme beaucoup à interroger mon rapport au monde de façon plus situé. C'est depuis cette situation que j'ai repensé peu à peu ma pratique photographique,  à ciel ouvert, comme pour mettre pied à terre et battre la campagne.
 
-<br/>
-
 *La nature aime à se voiler* <sup>1</sup>. Cet aphorisme d’Héraclite commenté depuis 2500 ans ne semble plus faire débat à notre époque d’extractivisme marchand. Derrière le théâtre des opérations prométhéennes se pose cette question aussi complexe qu’urgente : comment souhaitons-nous vivre dans ce monde ?
-
-<br/>
 
 Agir avec le paysage peut nous mettre en chemin. 
 
