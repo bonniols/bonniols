@@ -33,8 +33,6 @@ gallery:
 
 > "Le cosmos n’est pas la fondation des choses, il est leur mélange". *Emmanuele Coccia, La vie des plantes, une métaphysique du mélange, édition Payot & Rivages, 2016.*
 >
-> <br/>
->
 > "La vie croît en relation à ce qu’elle n’est pas". *Edwardo Kohn, Comment pensent les forêts : vers une anthropolgie au-delà de l’humain, édition Zones sensibles, 2017.*
 
 <br/>
@@ -47,14 +45,16 @@ gallery:
 
 *Mon approche photographique, loin d’une tentative de « geler une icône paysagère close comme un musée »<sup>4</sup> se propose de travailler par hybridation d’images et résonances : agencer observations pédestres, gestes de semailles et de récoltes, déplacements  oniriques et pratique buissonnière de l’auto-portrait. Ces champs d’investigations suggèrent non plus l’enceinte d’un jardin, mais une succession de décentrements paysagers que le photographe vise à amplifier.* 
 
-*Texte : Sylvain Bonniol*
+<br/>
+
+> *<sup>1</sup> ZNIEFF, zone nationale d’intérêt écologique faunistique et floristique.*
+>
+> *<sup>2</sup> Autres qu’humains, expression de Philippe Descola, désigne les non-humains.*
+>
+> *<sup>3</sup> Ecotones, désignent les transitions entres deux écosystèmes.*
+>
+> *<sup>4</sup> Augustain Berque, La pensée paysagère qu’est-ce que cela veut dire, Paris, Pavillon de l’Arsenal, Conférence, 9 décembre 2017.*
 
 <br/>
 
-*<sup>1</sup> ZNIEFF, zone nationale d’intérêt écologique faunistique et floristique.*
-
-*<sup>2</sup> Autres qu’humains, expression de Philippe Descola, désigne les non-humains.*
-
-*<sup>3</sup> Ecotones, désignent les transitions entres deux écosystèmes.*
-
-*<sup>4</sup> Augustain Berque, La pensée paysagère qu’est-ce que cela veut dire, Paris, Pavillon de l’Arsenal, Conférence, 9 décembre 2017.*
+*Texte : Sylvain Bonniol*
