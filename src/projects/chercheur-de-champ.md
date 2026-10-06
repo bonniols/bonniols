@@ -31,9 +31,13 @@ gallery:
 
 <br/>
 
-"Le cosmos n’est pas la fondation des choses, il est leur mélange". *Emmanuele Coccia, La vie des plantes, une métaphysique du mélange, édition Payot & Rivages, 2016.*
+> "Le cosmos n’est pas la fondation des choses, il est leur mélange". *Emmanuele Coccia, La vie des plantes, une métaphysique du mélange, édition Payot & Rivages, 2016.*
+>
+> <br/>
+>
+> "La vie croît en relation à ce qu’elle n’est pas". *Edwardo Kohn, Comment pensent les forêts : vers une anthropolgie au-delà de l’humain, édition Zones sensibles, 2017.*
 
-"La vie croît en relation à ce qu’elle n’est pas". *Edwardo Kohn, Comment pensent les forêts : vers une anthropolgie au-delà de l’humain, édition Zones sensibles, 2017.*
+<br/>
 
 *Lorsque nous arrivons avec ma compagne au fond du vallon de l’Ilette en 2018 dans le but d’y installer un atelier de peinture et un studio photo, je ne prête aucune attention au terrain qui agrémente la parcelle. Le confinement sera pourtant propice à une exploration approfondie de cet espace. Il se présente comme une friche à la lisère d’un bosquet et d’une prairie humide, classée ZNIEFF<sup>1</sup>, le long d’un corridor ornithologique.*
 
@@ -47,10 +51,10 @@ gallery:
 
 <br/>
 
-> <sup>1</sup> *ZNIEFF*, zone nationale d’intérêt écologique faunistique et floristique.
->
-> <sup>2</sup> *Autres qu’humains*, expression de *Philippe Descola*, désigne les non-humains.
->
-> <sup>3</sup> *Ecotones*, désignent les transitions entres deux écosystèmes.
->
-> <sup>4</sup> Augustain Berque*,* La pensée paysagère qu’est-ce que cela veut dire, Paris, Pavillon de l’Arsenal, Conférence, 9 décembre 2017.
+*<sup>1</sup> ZNIEFF, zone nationale d’intérêt écologique faunistique et floristique.*
+
+*<sup>2</sup> Autres qu’humains, expression de Philippe Descola, désigne les non-humains.*
+
+*<sup>3</sup> Ecotones, désignent les transitions entres deux écosystèmes.*
+
+*<sup>4</sup> Augustain Berque, La pensée paysagère qu’est-ce que cela veut dire, Paris, Pavillon de l’Arsenal, Conférence, 9 décembre 2017.*
