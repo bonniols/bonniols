@@ -34,40 +34,48 @@ gallery:
 
 <br/>
 
-<br/>
+*« C’est pendant le chantier de 2010 à 2012, que le photographe Sylvain Bonniol a posé son regard sur l’évolution des lieux.* 
 
-« C’est pendant le chantier de 2010 à 2012, que le photographe Sylvain Bonniol a posé son regard sur l’évolution des lieux. 
+*Entre ce qui n’est déjà plus un palais de Justice et ce qui n’est pas encore un hôtel, et loin de raconter la chronologie d’un chantier, ses images nous offrent le spectacle de percements, de reconstructions, de dispositifs éphémères, d’espaces transitoires et de lumières fugitives, qui sont autant de créations plastiques et de moment d’architecture à jamais disparus.*
 
-Entre ce qui n’est déjà plus un palais de Justice et ce qui n’est pas encore un hôtel, et loin de raconter la chronologie d’un chantier, ses images nous offrent le spectacle de percements, de reconstructions, de dispositifs éphémères, d’espaces transitoires et de lumières fugitives, qui sont autant de créations plastiques et de moment d’architecture à jamais disparus.
+*Au delà de la qualité de l’oeuvre photographique, et du souhait de donner à voir ce qui n’est pas habituellement visible, il s’agit de participer à la réflexion sur la mutation des usages des édifices anciens préalable indispensable à leur réinvention architecturale et urbaine, et donc à leur préservation.»* 												
 
-Au delà de la qualité de l’oeuvre photographique, et du souhait de donner à voir ce qui n’est pas habituellement visible, il s’agit de participer à la réflexion sur la mutation des usages des édifices anciens préalable indispensable à leur réinvention architecturale et urbaine, et donc à leur préservation.» 												Christophe Boucher
-
-<br/>
-
-<br/>
-
-*Voir le dedans des murs*
-
-*Ne nous est pas donné.*
-
-*On a beau les casser*
-
-*Leur façade est montrée*
-
-*Bien sûr que c’est pareil*
-
-*En nous et dans les murs,*
-
-*Mais voir*
-
-*Apaiserait.*
-
-*Eugène Guillevic – Exécutoire, 1947*
+*Texte : Christophe Boucher*
 
 <br/>
 
 <br/>
 
-Exposition :
-
-"Voir le dedans des murs" produite par le C.A.U.E. de Loire-AtlantiqueCours d’accueil de l’ancienne maison d’arrêt de Nantes, 2013. Scénographie : *Dany Cartron*. Textes : *Christophe Boucher*. 43 tirages sur dibond, dimensions variables.
+> *Voir le dedans des murs*
+>
+> *Ne nous est pas donné.*
+>
+> *On a beau les casser*
+>
+> *Leur façade est montrée*
+>
+> *Bien sûr que c’est pareil*
+>
+> *En nous et dans les murs,*
+>
+> *Mais voir*
+>
+> *Apaiserait.*
+>
+> *Eugène Guillevic – Exécutoire, 1947*
+>
+> <br/>
+>
+> <br/>
+>
+> Exposition :
+>
+> "Voir le dedans des murs" produite par le C.A.U.E. de Loire-Atlantique, Cours d’accueil de l’ancienne maison d’arrêt de Nantes, 2013. 
+>
+> <br/>
+>
+> Scénographie : Dany Cartron. 
+>
+> Textes : Christophe Boucher. 
+>
+> 43 tirages sur dibond, dimensions variables.
