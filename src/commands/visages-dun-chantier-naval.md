@@ -48,17 +48,11 @@ gallery:
 
 > Production (Smart-Appart) :
 >
-> 5 impressions pigmemtaires, montage sur pvc, 
+> 5 impressions pigmemtaires, montage sur pvc, encadrement bois blanc et verre minéral, 110 x 130 cm
 >
-> encadrement bois blanc et verre minéral, 110 x 130 cm
+> 5 impressions pigmemtaires, montage sur dibond, encadrement caisse américaine chêne 170 X 80 cm
 >
-> 5 impressions pigmemtaires, montage sur dibond, 
->
-> encadrement caisse américaine chêne 170 X 80 cm
->
-> 1 impression pigmentaire, montage sur dibond 
->
-> encadrement caisse américaine chêne 112 x 140 cm
+> 1 impression pigmentaire, montage sur dibond, encadrement caisse américaine chêne 112 x 140 cm
 >
 > <br/>
 >
