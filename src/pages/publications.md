@@ -3,6 +3,8 @@ title: Publications
 slug: publications
 background_color: "#ffffff"
 ---
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317331/001_dfijzv.jpg)
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317332/002_vf1jov.jpg)
