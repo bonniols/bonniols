@@ -28,12 +28,16 @@ gallery:
 
 <br/>
 
-> 2o15, Exposition personnelle au festival USIMAGES. Commissaire : Cédric Martigny
->
-> 2o17, 10e Biennale du design de Saint Etienne. Commissaire : Eric Fache
->
-> 2o18, Exposition collective aux Beaux-Arts TALM. Commissaire : David Liaudet
+> 10 tirages Lambda en caisse américaine, 75 cm de largeur, longueurs variables
 >
 > <br/>
 >
-> 10 tirages Lambda en caisse américaine, 75 cm de largeur, longueurs variables
+> Expositions :
+>
+> 2019, *Intermissions*, Le Cloître Ouvert, Paris 8e (solo)
+>
+> 2o18, *J'ai mis le monde sur la table*, Beaux-Arts TALM (collective)
+>
+> 2o17, *10e Biennale du design* de Saint Etienne (collective)
+>
+> 2o15, *L'âge de l'air*, festival USIMAGES /  Pôle photographique en Hauts-de-France (solo)
