@@ -1,7 +1,8 @@
 ---
 title: P U B L I C A T I O N S
 slug: publications
-background_color: "#ffffff"
+background_color: "#c5e9f7"
+invert_text_color: false
 ---
 <br/>
 
