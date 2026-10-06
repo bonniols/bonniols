@@ -1,8 +1,8 @@
 ---
 title: E X P O S I T I O N S
 slug: Expositions
-background_color: "#505050"
-invert_text_color: true
+background_color: "#ffd9d9"
+invert_text_color: false
 ---
 <br/>
 
