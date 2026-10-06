@@ -34,18 +34,6 @@ gallery:
 
 <br/>
 
-*« C’est pendant le chantier de 2010 à 2012, que le photographe Sylvain Bonniol a posé son regard sur l’évolution des lieux.* 
-
-*Entre ce qui n’est déjà plus un palais de Justice et ce qui n’est pas encore un hôtel, et loin de raconter la chronologie d’un chantier, ses images nous offrent le spectacle de percements, de reconstructions, de dispositifs éphémères, d’espaces transitoires et de lumières fugitives, qui sont autant de créations plastiques et de moment d’architecture à jamais disparus.*
-
-*Au delà de la qualité de l’oeuvre photographique, et du souhait de donner à voir ce qui n’est pas habituellement visible, il s’agit de participer à la réflexion sur la mutation des usages des édifices anciens préalable indispensable à leur réinvention architecturale et urbaine, et donc à leur préservation.»* 												
-
-*Texte : Christophe Boucher*
-
-<br/>
-
-<br/>
-
 > *Voir le dedans des murs*
 >
 > *Ne nous est pas donné.*
@@ -63,9 +51,21 @@ gallery:
 > *Apaiserait.*
 >
 > *Eugène Guillevic – Exécutoire, 1947*
->
-> <br/>
->
+
+<br/>
+
+*« C’est pendant le chantier de 2010 à 2012, que le photographe Sylvain Bonniol a posé son regard sur l’évolution des lieux.* 
+
+*Entre ce qui n’est déjà plus un palais de Justice et ce qui n’est pas encore un hôtel, et loin de raconter la chronologie d’un chantier, ses images nous offrent le spectacle de percements, de reconstructions, de dispositifs éphémères, d’espaces transitoires et de lumières fugitives, qui sont autant de créations plastiques et de moment d’architecture à jamais disparus.*
+
+*Au delà de la qualité de l’oeuvre photographique, et du souhait de donner à voir ce qui n’est pas habituellement visible, il s’agit de participer à la réflexion sur la mutation des usages des édifices anciens préalable indispensable à leur réinvention architecturale et urbaine, et donc à leur préservation.»* 												
+
+*Texte : Christophe Boucher*
+
+<br/>
+
+<br/>
+
 > Production (CAUE 44) :
 >
 > 43 tirages sur dibond, dimensions variables.
