@@ -1,5 +1,5 @@
 ---
-title: Bio / CV
+title: B I O / CV
 slug: bio
 background_color: "#fffc76"
 invert_text_color: false
