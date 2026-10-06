@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  order: 0
+  order: 4
   url: /expositions/
   key: Expositions
   title: Expositions
