@@ -35,31 +35,31 @@ gallery:
 
 <br/>
 
-<br/>
-
-"Visions acoustiques" constitue une immersion photographique dans des laboratoires dédiés à l’acoustique (industrie, sciences et création sonore) où les phénomènes ondulatoires étudiés ne se formalisent pas dans le visible. Le travail photographique propose ici deux apporche : la première vise à documenter la découverte des lieux tels qu'ils m'apparaissent lors de mes visite, la deuxième réalisée dans un second temos s’attache à recomposer une image mentale de ces chambres d’études et tente de capter la part visuelle de l’invisible de l’onde acoustique.
+*"Visions acoustiques constitue une immersion photographique dans des laboratoires dédiés à l’acoustique (industrie, sciences et création sonore) où les phénomènes ondulatoires étudiés ne se formalisent pas dans le visible. Le travail photographique propose ici deux apporche : la première vise à documenter la découverte des lieux tels qu'ils m'apparaissent lors de mes visite, la deuxième réalisée dans un second temos s’attache à recomposer une image mentale de ces chambres d’études et tente de capter la part visuelle de l’invisible de l’onde acoustique."*
 
 *Texte, Sylvain Bonniol*
 
 <br/>
 
-<br/>
-
-Tirages Permajet Mat sur dibond 80 X 80 cm.
-
-Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
- 100 X 150 cm. 5 exemplaires signés et numérotés.
-
-<br/>
-
-<br/>
-
-Distinctions :
-
-\- Mention spéciale à la Bourse du Talent # 40
-
-\- Sélection aux Voies Off d’Arles 2010
-
-Exposition :
-
-\- Invité en septembre 2012 à la galerie RDV, en association avec la 16è QPN
+> Tirages Permajet Mat sur dibond 80 X 80 cm.
+>
+> Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
+>  100 X 150 cm. 5 exemplaires signés et numérotés.
+>
+> <br/>
+>
+> Distinctions :
+>
+> \- Mention spéciale à la Bourse du Talent # 40
+>
+> \- Sélection aux Voies Off d’Arles 2010
+>
+> <br/>
+>
+> Expositions :
+>
+> \- *Intermissions*, Le Cloître Ouvert, Paris 8e 2019 (solo)
+>
+> \- *J'ai posé le monde sur la table,* ESBA TALM, Le Mans 2018 (collective)
+>
+> \- *Visions acoustiques*, Galerie RDV et la 16è QPN, Nantes 2012 (solo)
