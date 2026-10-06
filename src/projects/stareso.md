@@ -40,8 +40,6 @@ gallery:
 
 <br/>
 
-<br/>
-
 Station de Recherche Sous-marine, Université de Liège. Architecte Claude Strebelle 1968-1972												
 
 *" Ca a été réalisé par des ouvriers français de qualité inima-ginable. On avait dessiné des formes très courbes difficiles à réaliseret ils ont fait ça admirablement en béton et en pierre du pays, soitbrute, soit lissée par le temps".*
