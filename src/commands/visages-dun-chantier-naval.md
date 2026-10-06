@@ -46,6 +46,24 @@ gallery:
 
 <br/>
 
-<br/>
-
-> 2o25, Exposition personnelle au festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France.
+> Production (Smart-Appart) :
+>
+> 5 impressions pigmemtaires, montage sur pvc, 
+>
+> encadrement bois blanc et verre minéral, 110 x 130 cm
+>
+> 5 impressions pigmemtaires, montage sur dibond, 
+>
+> encadrement caisse américaine chêne 170 X 80 cm
+>
+> 1 impression pigmentaire, montage sur dibond 
+>
+> encadrement caisse américaine chêne 112 x 140 cm
+>
+> <br/>
+>
+> Exposition :
+>
+> 2o25, festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France (solo)
+>
+> 2019, *Visages d'un chantier naval*, Galerie Hazy, Le Pouliguen (solo)
