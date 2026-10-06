@@ -66,16 +66,16 @@ gallery:
 >
 > <br/>
 >
+> Production (CAUE 44) :
+>
+> 43 tirages sur dibond, dimensions variables.
+>
 > <br/>
 >
-> Exposition :
+> Exposition (CAUE 44)  :
 >
 > "Voir le dedans des murs" produite par le C.A.U.E. de Loire-Atlantique, Cours d’accueil de l’ancienne maison d’arrêt de Nantes, 2013. 
 >
-> <br/>
->
 > Scénographie : Dany Cartron. 
 >
-> Textes : Christophe Boucher. 
->
-> 43 tirages sur dibond, dimensions variables.
+> Textes : Christophe Boucher.
