@@ -1,7 +1,7 @@
 ---
 title: Publications
 slug: publications
-background_color: "#ffd3be"
+background_color: "#ffffff"
 ---
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317331/001_dfijzv.jpg)
 
