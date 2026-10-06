@@ -25,24 +25,6 @@ gallery:
 
 ## **Résidence et campagne photographique à Saint-Lupien, Rezé**
 
-
-
-<br/>
-
-<br/>
-
-Exposition personnelle "Chantiers croisés" pour l'inauguration du Chronographe, Centre d’interprétation archéologique métropolitain, 2017 (de janvier à mai), Rezé.
-
-L’exposition Chantiers croisés fait suite à la résidence photographique de Sylvain Bonniol sur les chantiers de la construction du Chronographe (Berranger & Vincent - architectes) et des fouilles archéologiques de Saint-Lupien, à Rezé. 
-
-Elle se tient de janvier à mai 2017 pour l'inauguration du Chronographe, avec le soutien de la DRAC des Pays de la Loire, Ville de Rezé et Nantes Métropole.
-
-Scénographie : Sylvain Bonniol 
-
-Graphisme : Nicolas Gautron
-
-Textes : Christophe Boucher
-
 <br/>
 
 <br/>
@@ -50,18 +32,30 @@ Textes : Christophe Boucher
 *"À Saint-Lupien aussi, Sylvain Bonniol a pris position, et choisi de poser son appareil sous les gradins de terre, ou au milieu de l’herbe et des échafau-dages, ou en surplomb de la ville et de l’eau.
 Chacune de ses images est devenue une mise en relation, un récit composéde matières, de lumières, de géométries, de présences humaines, de repèreslointains ou de signes ténus, d’indices, de « presque riens » essentiels.Au-delà de l’anecdote, les acteurs des chantiers nous rappellent ici, commeles petits personnages de certaines peintures de Poussin, qu’il faut l’activitédes hommes pour produire un paysage, une ville, une architecture."* 
 
-*Christophe Boucher, CAUE 44*
-
-
+*Texte : Christophe Boucher, CAUE 44*
 
 <br/>
 
 <br/>
 
-Série de 79 photographies
-
-12 tirages sur bache 130 X 100 cm
-
-Edition de 79 cartes postales 10 X 15 cm
-
-Edition d’un poster dépliant recto-verso 100 X 70 cm
+> Série de 79 photographies
+>
+> 12 tirages sur bache 130 X 100 cm
+>
+> Edition de 79 cartes postales 10 X 15 cm
+>
+> Edition d’un poster dépliant recto-verso 100 X 70 cm
+>
+> <br/>
+>
+> L’exposition Chantiers croisés fait suite à la résidence photographique de Sylvain Bonniol sur les chantiers de la construction du Chronographe (Berranger & Vincent - architectes) et des fouilles archéologiques de Saint-Lupien, à Rezé. 
+>
+> Elle se tient de janvier à mai 2017 pour l'inauguration du Chronographe, avec le soutien de la DRAC des Pays de la Loire, Ville de Rezé et Nantes Métropole.
+>
+> <br/>
+>
+> Scénographie : Sylvain Bonniol 
+>
+> Graphisme : Nicolas Gautron
+>
+> Textes : Christophe Boucher
