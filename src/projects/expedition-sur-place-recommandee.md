@@ -24,8 +24,6 @@ gallery:
 
 ## Edition de 16 cartes postales d'architecture moderne et brutaliste
 
-
-
 <br/>
 
 <br/>
@@ -36,18 +34,20 @@ gallery:
 
 <br/>
 
-<br/>
-
-Série de 16 cartes postales. 25 exemplaires numérotés signées.
-
-Similigravure sur presse typographique : Musée de l’imprimerie de Nantes.
-
-Edition : Comité de Vigilance Brutaliste / Galerie RDV.
-
-<br/>
-
-<br/>
-
-2o15, Exposition collective Multiples #5, Galerie RDV, Nantes. Commissaire : Jean François Courtilat.
-
-2o18, Exposition collective J’ai posé le monde sur la table.Ecole Supérieure des Beaux-Arts TALM. Commissaire : David Liaudet.
+> Production :
+>
+> Série de 16 cartes postales. 25 exemplaires numérotés signées.
+>
+> Similigravure sur presse typographique : Musée de l’imprimerie de Nantes.
+>
+> Edition : Comité de Vigilance Brutaliste / Galerie RDV.
+>
+> <br/>
+>
+> Expositions :
+>
+> 2o18, *J’ai posé le monde sur la table,* Ecole Supérieure des Beaux-Arts TALM (collective)
+>
+> 2o15, *Multiples #5*, Galerie RDV, Nantes (collective)
+>
+>
