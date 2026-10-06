@@ -30,21 +30,17 @@ gallery:
 
 ## Carte blanche confiée par les Chantiers de l’Atlantique.
 
-
-
 <br/>
 
-<br/>
+*"Les chantiers navals de Saint-Nazaire ont donné carte blanche à un jeune photographe de talent pour explorer toute la richesse visuelle et humaine de cette « ville dans la ville.*
 
-"Les chantiers navals de Saint-Nazaire ont donné carte blanche à un jeune photographe de talent pour explorer toute la richesse visuelle et humaine de cette « ville dans la ville.
+*Le chantier naval de Saint-Nazaire est en effet un des plus grands, un des plus anciens et en même temps un des plus innovants au monde. Tout y est gigantesque et spectaculaire.*
 
-Le chantier naval de Saint-Nazaire est en effet un des plus grands, un des plus anciens et en même temps un des plus innovants au monde. Tout y est gigantesque et spectaculaire.
+*Sylvain Bonniol a pu en arpenter les 100 hectares de jour comme de nuit, pendant deux ans, en côtoyant au plus près les paquebots en construction, les ingénieurs dans les bureaux d’études, les charpentiers dans les ateliers, les temps forts des essais mer...*
 
-Sylvain Bonniol a pu en arpenter les 100 hectares de jour comme de nuit, pendant deux ans, en côtoyant au plus près les paquebots en construction, les ingénieurs dans les bureaux d’études, les charpentiers dans les ateliers, les temps forts des essais mer...
+*Il en ressort un ouvrage étonnant, d’une grande richesse iconographique, porté par un regard d’auteur, où les portraits d’équipes au travail entrent en résonance avec les espaces de construction.*
 
-Il en ressort un ouvrage étonnant, d’une grande richesse iconographique, porté par un regard d’auteur, où les portraits d’équipes au travail entrent en résonance avec les espaces de construction.
-
-Une immersion photographique passionnante dans un chantier naval hors-norme."
+*Une immersion photographique passionnante dans un chantier naval hors-norme."*
 
 *Extrait du communiqué de presse des Editions de la Martinière*
 
@@ -52,4 +48,4 @@ Une immersion photographique passionnante dans un chantier naval hors-norme."
 
 <br/>
 
-2o25, Exposition personnelle au festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France.
+> 2o25, Exposition personnelle au festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France.
