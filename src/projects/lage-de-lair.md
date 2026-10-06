@@ -36,6 +36,4 @@ gallery:
 >
 > <br/>
 >
-> <br/>
->
 > 10 tirages Lambda en caisse américaine, 75 cm de largeur, longueurs variables
