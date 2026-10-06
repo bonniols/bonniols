@@ -40,14 +40,10 @@ gallery:
 >
 > Similigravure sur presse typographique : Musée de l’imprimerie de Nantes.
 >
-> Edition : Comité de Vigilance Brutaliste / Galerie RDV.
->
-> <br/>
+> Collaboration éditoriale du Comité de Vigilance Brutaliste et Galerie RDV.
 >
 > Expositions :
 >
 > 2o18, *J’ai posé le monde sur la table,* Ecole Supérieure des Beaux-Arts TALM (collective)
 >
 > 2o15, *Multiples #5*, Galerie RDV, Nantes (collective)
->
->
