@@ -23,7 +23,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076322/Simples_sauvages_006_r60glw.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076322/Simples_sauvages_005_n2vhml.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076321/Simples_sauvages_004_d9wgqq.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790076316/Simples_sauvages_003_e0ysg2.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076316/Simples_sauvages_002_yhoqm8.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790164087/Simples_sauvages_027_udioya.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076406/Simples_sauvages_021_g9bogz.jpg
