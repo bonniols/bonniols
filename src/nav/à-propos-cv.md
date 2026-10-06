@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  order: 0
+  order: 1
   title: Bio / CV
   url: /bio/
   key: Bio / CV
