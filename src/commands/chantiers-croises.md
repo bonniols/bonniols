@@ -36,23 +36,27 @@ Chacune de ses images est devenue une mise en relation, un récit composéde m
 
 <br/>
 
-<br/>
 
-> Série de 79 photographies
+
+> Production :
 >
 > 12 tirages sur bache 130 X 100 cm
 >
-> Edition de 79 cartes postales 10 X 15 cm
+> <br/>
 >
-> Edition d’un poster dépliant recto-verso 100 X 70 cm
+> Edition :
+>
+> 79 cartes postales 10 X 15 cm
+>
+> Poster dépliant recto-verso 100 X 70 cm
 >
 > <br/>
 >
-> L’exposition Chantiers croisés fait suite à la résidence photographique de Sylvain Bonniol sur les chantiers de la construction du Chronographe (Berranger & Vincent - architectes) et des fouilles archéologiques de Saint-Lupien, à Rezé. 
+> Exposition : 
 >
-> Elle se tient de janvier à mai 2017 pour l'inauguration du Chronographe, avec le soutien de la DRAC des Pays de la Loire, Ville de Rezé et Nantes Métropole.
+> *Chantiers croisés* fait suite à la résidence photographique de Sylvain Bonniol sur les chantiers de la construction du Chronographe (Berranger & Vincent - architectes) et des fouilles archéologiques de Saint-Lupien, à Rezé. 
 >
-> <br/>
+> Elle s'est tenu de janvier à mai 2017 pour l'inauguration du Chronographe, avec le soutien de la DRAC des Pays de la Loire, Ville de Rezé et Nantes Métropole.
 >
 > Scénographie : Sylvain Bonniol 
 >
