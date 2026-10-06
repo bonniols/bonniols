@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: P U B L I C A T I O N S
 slug: publications
 background_color: "#ffffff"
 ---
