@@ -25,3 +25,9 @@ La portée politique et psychique de ces espaces propices à *la robustesse du v
 <sup>2</sup> Expression employée par Philippe Descola, pour définir humains et non-humains.
 
 <sup>3</sup> Olivier Hamant, « Antidote au culte de la performence / La robustesse du vivant ». Tract Gallimard n°50, août 2023.
+
+<br/>
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791316103/20240801_093123-01-02_axqyth.jpg)
