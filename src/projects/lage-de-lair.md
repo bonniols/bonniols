@@ -16,30 +16,26 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080970/2015_lagedelair_008_ahjtcs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080970/2015_lagedelair_010_rmu99n.jpg
 ---
-# 2010 - 2015
+# 2o1o - 2o15
 
 <br/>
 
-<br/>
+*"L‘âge de l’air est un corpus photographique s’appuyant sur cinq années (2010-2015) de collaborations avec AIRBUS à Nantes et Saint-Nazaire, ainsi que STELIA Aerospace (Airbus Group entity) à Saint-Nazaire, à Méaulte et à Rochefort.*
 
-L‘âge de l’air est un corpus photographique s’appuyant sur cinq années (2010-2015) de collaborations avec AIRBUS à Nantes et Saint-Nazaire, ainsi que STELIA Aerospace (Airbus Group entity) à Saint-Nazaire, à Méaulte et à Rochefort.
+*Les évolutions technologiques et humaines mettent ici en perspective l’aéronautique du début du XXIème siècle en donnant à la commande photographique un sens patrimonial qui témoigne de la curiosité que le monde industriel porte sur lui-même."*
 
-Les évolutions technologiques et humaines mettent ici en perspective l’aéronautique du début du XXIème siècle en donnant à la commande photographique un sens patrimonial qui témoigne de la curiosité que le monde industriel porte sur lui-même.
-
-Texte, Sylvain Bonniol
+*Texte : Sylvain Bonniol*
 
 <br/>
 
-<br/>
-
-2o15, Exposition personnelle au festival USIMAGES. Commissaire : Cédric Martigny
-
-2o17, 10e Biennale du design de Saint Etienne. Commissaire : Eric Fache
-
-2o18, Exposition collective aux Beaux-Arts TALM. Commissaire : David Liaudet
-
-<br/>
-
-<br/>
-
-10 tirages Lambda en caisse américaine, 75 cm de largeur, longueurs variables
+> 2o15, Exposition personnelle au festival USIMAGES. Commissaire : Cédric Martigny
+>
+> 2o17, 10e Biennale du design de Saint Etienne. Commissaire : Eric Fache
+>
+> 2o18, Exposition collective aux Beaux-Arts TALM. Commissaire : David Liaudet
+>
+> <br/>
+>
+> <br/>
+>
+> 10 tirages Lambda en caisse américaine, 75 cm de largeur, longueurs variables
