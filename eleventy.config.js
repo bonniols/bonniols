@@ -27,7 +27,7 @@ function addAlignContainers(md) {
     return md;
 }
 
-const md = addAlignContainers(markdownIt());
+const md = addAlignContainers(markdownIt({ html: true }));
 
 function sortedByOrderThenTitle(collectionApi, tag) {
     const orderValue = (item) => {
