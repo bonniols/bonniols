@@ -31,7 +31,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790082124/Visions_acoustiques_038_buz2hm.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790082048/Visions_acoustiques_037_yhajgv.jpg
 ---
-# 2o1o - 2o26
+# 2010 - 2026
 
 <br/>
 
@@ -41,8 +41,6 @@ gallery:
 
 <br/>
 
-
-
 > Production :
 >
 > Tirages Permajet Mat sur dibond 80 X 80 cm
@@ -50,15 +48,11 @@ gallery:
 > Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
 >  100 X 150 cm. 5 exemplaires signés et numérotés
 >
-> <br/>
->
 > Distinctions :
 >
 > \- Mention spéciale à la Bourse du Talent # 40
 >
 > \- Sélection aux Voies Off d’Arles 2010
->
-> <br/>
 >
 > Expositions :
 >
