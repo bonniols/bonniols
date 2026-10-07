@@ -5,7 +5,7 @@ layout: layouts/base.liquid
     <header class="container-wide flex items-center justify-between py-8 md:py-12">
         <h1>{{ title }}</h1>
         {% if text_labels.project_infos_label != blank %}
-            <a href="#infos" class="hidden text-xl md:block">
+            <a href="#infos" class="project-infos-link hidden text-xl md:block">
                 {{- text_labels.project_infos_label -}}
             </a>
         {% endif %}

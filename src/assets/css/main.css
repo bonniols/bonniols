@@ -115,6 +115,18 @@
         @apply p-6;
     }
 
+    .project-infos-link {
+        color: inherit;
+        text-decoration: none;
+        -webkit-text-fill-color: currentColor;
+
+        &:link,
+        &:visited,
+        &:active {
+            color: inherit;
+        }
+    }
+
     .gallery-swiper {
         --swiper-navigation-color: var(--color-dark);
         --swiper-theme-color: var(--color-dark);
@@ -192,6 +204,22 @@
 
         /* Decap preview: markdown widget wraps blocks in one extra element */
         & > :only-child > * + * {
+            @apply mt-4;
+        }
+
+        .md-align-center {
+            @apply text-center;
+        }
+
+        .md-align-right {
+            @apply text-right;
+        }
+
+        .md-align-left {
+            @apply text-left;
+        }
+
+        :is(.md-align-center, .md-align-right, .md-align-left) > * + * {
             @apply mt-4;
         }
     }

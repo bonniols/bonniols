@@ -24,6 +24,7 @@
     "dependencies": {
         "cloudinary-build-url": "^0.2.4",
         "dotenv": "^17.4.2",
+        "markdown-it-container": "^4.0.0",
         "swiper": "^14.0.7"
     }
 }

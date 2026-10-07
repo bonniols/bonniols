@@ -7,8 +7,27 @@ import postcss from 'postcss';
 import tailwindcss from '@tailwindcss/postcss';
 import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
 import markdownIt from 'markdown-it';
+import markdownItContainer from 'markdown-it-container';
 
-const md = markdownIt();
+function addAlignContainers(md) {
+    for (const [name, className] of [
+        ['center', 'md-align-center'],
+        ['right', 'md-align-right'],
+        ['left', 'md-align-left'],
+    ]) {
+        md.use(markdownItContainer, name, {
+            render(tokens, idx) {
+                return tokens[idx].nesting === 1
+                    ? `<div class="${className}">\n`
+                    : '</div>\n';
+            },
+        });
+    }
+
+    return md;
+}
+
+const md = addAlignContainers(markdownIt());
 
 function sortedByOrderThenTitle(collectionApi, tag) {
     const orderValue = (item) => {
@@ -30,6 +49,8 @@ export default function (eleventyConfig) {
         if (!content) return '';
         return md.render(content);
     });
+
+    eleventyConfig.setLibrary('md', md);
 
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
     eleventyConfig.addCollection('projectsSorted', (collectionApi) =>
