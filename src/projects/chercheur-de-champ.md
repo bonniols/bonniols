@@ -4,6 +4,7 @@ order: 1
 show_in_nav: true
 background_color: "#f1e7fa"
 invert_text_color: false
+use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500599/unnamed2_1_txbh1k.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500598/23012025-_DSF0258_1_dosaqm.jpg
