@@ -16,7 +16,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080970/2015_lagedelair_008_ahjtcs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080970/2015_lagedelair_010_rmu99n.jpg
 ---
-# 2o1o - 2o15
+# 2010 - 2015
 
 <br/>
 
@@ -31,8 +31,6 @@ gallery:
 > Production :
 >
 > 10 tirages Lambda en caisse américaine, 75 cm de largeur, longueurs variables
->
-> <br/>
 >
 > Expositions :
 >
