@@ -26,7 +26,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44004_nsgqoz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44002_yy5yrg.jpg
 ---
-# 2o1o - 2o12
+# 2010 - 2012
 
 ## Chantier de réhabilitation de l’ancien Palais de Justice de Nantes.
 
@@ -69,8 +69,6 @@ gallery:
 > Production (CAUE 44) :
 >
 > 43 tirages sur dibond, dimensions variables.
->
-> <br/>
 >
 > Exposition (CAUE 44)  :
 >
