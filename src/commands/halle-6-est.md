@@ -2,8 +2,8 @@
 title: HALLE 6 EST
 order: 1
 show_in_nav: true
-background_color: "#e1e1e1"
-invert_text_color: false
+background_color: "#9b8080"
+invert_text_color: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243891/180926_HD_004_hot8es.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243890/180926_HD_002_cx8qby.jpg
