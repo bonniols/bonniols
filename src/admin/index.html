@@ -8,6 +8,9 @@
 </head>
 
 <body>
+  <script src="/assets/vendor/markdown-it/markdown-it.min.js"></script>
+  <script src="/assets/vendor/markdown-it-container/markdown-it-container.min.js"></script>
+  <script src="/assets/js/cms-markdown.js"></script>
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   <script>
     (function () {
@@ -17,6 +20,22 @@
       if (typeof createClass === "undefined" || typeof h === "undefined") {
         console.warn("Decap preview helpers missing; custom preview skipped.");
         return;
+      }
+
+      if (typeof window.createCmsMarkdownRenderer !== "function") {
+        console.warn("CMS markdown renderer missing; preview will use default markdown.");
+      }
+
+      var cmsMarkdown = typeof window.createCmsMarkdownRenderer === "function"
+        ? window.createCmsMarkdownRenderer()
+        : null;
+
+      function renderMarkdownBody(entry) {
+        if (!cmsMarkdown) {
+          return null;
+        }
+
+        return cmsMarkdown.render(entry.getIn(["data", "body"]) || "");
       }
 
       function pageBackground(entry) {
@@ -52,12 +71,20 @@
           var title = this.props.entry.getIn(["data", "title"]);
           var invertText = this.props.entry.getIn(["data", "invert_text_color"]);
           var textClass = invertText ? "text-white" : "text-black";
+          var bodyHtml = renderMarkdownBody(this.props.entry);
+          var body =
+            bodyHtml !== null
+              ? h("div", {
+                  className: "content-body",
+                  dangerouslySetInnerHTML: { __html: bodyHtml },
+                })
+              : h("div", { className: "content-body" }, this.props.widgetFor("body"));
 
           return h(
             "article",
             { className: "container-regular py-8 md:py-12 " + textClass },
             h("h1", { className: "mb-6 text-3xl font-bold" }, title || "Untitled"),
-            h("div", { className: "content-body" }, this.props.widgetFor("body")),
+            body,
           );
         },
       });

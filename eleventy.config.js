@@ -6,28 +6,9 @@ import cssnano from 'cssnano';
 import postcss from 'postcss';
 import tailwindcss from '@tailwindcss/postcss';
 import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
-import markdownIt from 'markdown-it';
-import markdownItContainer from 'markdown-it-container';
+import { createMarkdownRenderer } from './lib/markdown-setup.js';
 
-function addAlignContainers(md) {
-    for (const [name, className] of [
-        ['center', 'md-align-center'],
-        ['right', 'md-align-right'],
-        ['left', 'md-align-left'],
-    ]) {
-        md.use(markdownItContainer, name, {
-            render(tokens, idx) {
-                return tokens[idx].nesting === 1
-                    ? `<div class="${className}">\n`
-                    : '</div>\n';
-            },
-        });
-    }
-
-    return md;
-}
-
-const md = addAlignContainers(markdownIt({ html: true }));
+const md = createMarkdownRenderer();
 
 function sortedByOrderThenTitle(collectionApi, tag) {
     const orderValue = (item) => {
@@ -67,6 +48,10 @@ export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy({
         'node_modules/swiper/swiper-bundle.min.js': 'assets/vendor/swiper/swiper-bundle.min.js',
         'node_modules/swiper/swiper-bundle.min.css': 'assets/vendor/swiper/swiper-bundle.min.css',
+        'node_modules/markdown-it/dist/markdown-it.min.js':
+            'assets/vendor/markdown-it/markdown-it.min.js',
+        'node_modules/markdown-it-container/dist/markdown-it-container.min.js':
+            'assets/vendor/markdown-it-container/markdown-it-container.min.js',
     });
 
     eleventyConfig.addWatchTarget('./src/assets/css/');
