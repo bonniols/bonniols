@@ -4,6 +4,7 @@ order: 3
 show_in_nav: true
 background_color: "#f8ffce"
 invert_text_color: false
+use_background_color_in_slider: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243772/140709_1_sfss1r.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243766/140604_w5s72w.jpg
@@ -21,11 +22,9 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243766/_D5A8707-Panorama_y469ir.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243765/_D5A8675-Panorama_avsmjn.jpg
 ---
-# **2o14 - 2o16**
+# **2014 - 2016**
 
 ## **Résidence et campagne photographique à Saint-Lupien, Rezé**
-
-<br/>
 
 <br/>
 
@@ -35,8 +34,6 @@ Chacune de ses images est devenue une mise en relation, un récit composéde m
 *Texte : Christophe Boucher, CAUE 44*
 
 <br/>
-
-
 
 > Production :
 >
