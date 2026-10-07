@@ -28,7 +28,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/06012026-_DSF2549_rhsoi3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500593/20250103_185646_002_yi9et0.jpg
 ---
-# Projet en cours depuis 2o2o
+# Projet en cours depuis 2021
 
 <br/>
 
