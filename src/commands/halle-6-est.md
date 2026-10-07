@@ -28,4 +28,4 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243925/20210819_175005-01_thflfp.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243926/20210819_175037-01_lcixtb.jpg
 ---
-Benjamin Avignon Architecte
+Carte blanche  sur le chantier des la halles 6 est, Nantes.
