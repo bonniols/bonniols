@@ -1,8 +1,8 @@
 ---
 eleventyNavigation:
   order: 1
-  title: Bio / CV
-  url: /bio/
-  key: Bio / CV
+  title: Infos
+  url: /infos/
+  key: Infos
 permalink: false
 ---
