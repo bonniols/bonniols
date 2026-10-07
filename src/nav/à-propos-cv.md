@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  order: 1
+  order: 6
   title: Infos
   url: /infos/
   key: Infos
