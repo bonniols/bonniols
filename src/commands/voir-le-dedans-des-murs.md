@@ -2,8 +2,8 @@
 title: VOIR LE DEDANS DES MURS
 order: 4
 show_in_nav: true
-background_color: "#f4eae9"
-invert_text_color: false
+background_color: "#8d796f"
+invert_text_color: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243692/bonniol_architecture_008_ipzgtt.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243694/Bonniol_photographie_005_gzhjql.jpg
