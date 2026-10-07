@@ -4,6 +4,7 @@ order: 5
 show_in_nav: true
 background_color: "#eafafa"
 invert_text_color: false
+use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080967/2015_lagedelair_001_hqntbf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080967/2015_lagedelair_002_p2id0v.jpg
