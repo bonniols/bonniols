@@ -51,12 +51,4 @@ Chacune de ses images est devenue une mise en relation, un récit composéde m
 >
 > Exposition : 
 >
-> *Chantiers croisés* fait suite à la résidence photographique de Sylvain Bonniol sur les chantiers de la construction du Chronographe (Berranger & Vincent - architectes) et des fouilles archéologiques de Saint-Lupien, à Rezé. 
->
-> Elle s'est tenu de janvier à mai 2017 pour l'inauguration du Chronographe, avec le soutien de la DRAC des Pays de la Loire, Ville de Rezé et Nantes Métropole.
->
-> Scénographie : Sylvain Bonniol 
->
-> Graphisme : Nicolas Gautron
->
-> Textes : Christophe Boucher
+> 2017, *Chantiers croisés*, inauguration du Chronographe, Rezé. Photographie et scénographie,  Sylvain Bonniol. Graphisme, Nicolas Gautron. Textes, Christophe Boucher
