@@ -1,6 +1,6 @@
 ---
 title: I N F O S
-slug: bio
+slug: infos
 background_color: "#fffd9e"
 invert_text_color: false
 ---
