@@ -129,6 +129,10 @@
     }
 
     @media (min-width: 768px) {
+        .gallery-swiper {
+            background-color: var(--gallery-swiper-bg);
+        }
+
         .gallery-swiper--default .gallery-swiper__close,
         .gallery-swiper--default .gallery-swiper__fullscreen {
             @apply text-dark bg-light/65 focus-visible:ring-neutral-400;
