@@ -34,9 +34,7 @@ gallery:
 
 ::: right
 > "Le cosmos n’est pas la fondation des choses, il est leur mélange".  *Emmanuele Coccia, La vie des plantes, une métaphysique du mélange, édition Payot & Rivages, 2016.*
-:::
 
-::: right"
 > "La vie croît en relation à ce qu’elle n’est pas". *Edwardo Kohn, Comment pensent les forêts : vers une anthropologie au-delà de l’humain, édition Zones sensibles, 2017.*
 :::
 
