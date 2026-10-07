@@ -4,6 +4,7 @@ order: 2
 show_in_nav: true
 background_color: "#3a3836"
 invert_text_color: true
+use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076341/Simples_sauvages_011_npwq0n.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076352/Simples_sauvages_013_jcamjb.jpg
@@ -32,7 +33,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076426/Simples_sauvages_023_zrysht.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790076430/Simples_sauvages_026_iyrps0.jpg
 ---
-# 2o21 - 2o25
+# 2021 - 2025
 
 <br/>
 
