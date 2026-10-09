@@ -2,8 +2,8 @@
 title: VOIR LE DEDANS DES MURS
 order: 4
 show_in_nav: true
-background_color: "#f4eae9"
-invert_text_color: false
+background_color: "#8d796f"
+invert_text_color: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243692/bonniol_architecture_008_ipzgtt.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243694/Bonniol_photographie_005_gzhjql.jpg
@@ -26,7 +26,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44004_nsgqoz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44002_yy5yrg.jpg
 ---
-# 2o1o - 2o12
+# 2010 - 2012
 
 ## Chantier de réhabilitation de l’ancien Palais de Justice de Nantes.
 
@@ -69,8 +69,6 @@ gallery:
 > Production (CAUE 44) :
 >
 > 43 tirages sur dibond, dimensions variables.
->
-> <br/>
 >
 > Exposition (CAUE 44)  :
 >

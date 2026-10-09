@@ -26,7 +26,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075503/VCN_008_vtdeqa.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075453/VCN_020_tycyms.jpg
 ---
-# 2o15 - 2o18
+# 2015 - 2018
 
 ## Carte blanche confiée par les Chantiers de l’Atlantique.
 
@@ -53,8 +53,6 @@ gallery:
 > 5 impressions pigmemtaires, montage sur dibond, encadrement caisse américaine chêne 170 X 80 cm
 >
 > 1 impression pigmentaire, montage sur dibond, encadrement caisse américaine chêne 112 x 140 cm
->
-> <br/>
 >
 > Exposition :
 >

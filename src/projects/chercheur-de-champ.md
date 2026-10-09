@@ -28,17 +28,16 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/06012026-_DSF2549_rhsoi3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500593/20250103_185646_002_yi9et0.jpg
 ---
-# Projet en cours depuis 2o2o
+# Projet en cours depuis 2021
 
 <br/>
 
-<p align="right">
-"Le cosmos n’est pas la fondation des choses, il est leur mélange". \*Emmanuele Coccia, La vie des plantes, une métaphysique du mélange, édition Payot & Rivages, 2016.\*
-</p>
+::: right
 
-<p align="right">\
-"La vie croît en relation à ce qu’elle n’est pas". \*Edwardo Kohn, Comment pensent les forêts : vers une anthropologie au-delà de l’humain, édition Zones sensibles, 2017.\*
-</p>
+"Le cosmos n’est pas la fondation des choses, il est leur mélange".  *Emmanuele Coccia, La vie des plantes, une métaphysique du mélange, édition Payot & Rivages, 2016.*
+
+"La vie croît en relation à ce qu’elle n’est pas". *Edwardo Kohn, Comment pensent les forêts : vers une anthropologie au-delà de l’humain, édition Zones sensibles, 2017.*
+:::
 
 <br/>
 
@@ -59,8 +58,6 @@ gallery:
 > *<sup>3</sup> Ecotones, désignent les transitions entres deux écosystèmes.*
 >
 > *<sup>4</sup> Augustain Berque, La pensée paysagère qu’est-ce que cela veut dire, Paris, Pavillon de l’Arsenal, Conférence, 9 décembre 2017.*
-
-<br/>
 
 \
 *Texte : Sylvain Bonniol*

@@ -2,8 +2,8 @@
 title: HALLE 6 EST
 order: 1
 show_in_nav: true
-background_color: "#FFFFFF"
-invert_text_color: false
+background_color: "#9b8080"
+invert_text_color: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243891/180926_HD_004_hot8es.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243890/180926_HD_002_cx8qby.jpg
@@ -28,4 +28,4 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243925/20210819_175005-01_thflfp.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243926/20210819_175037-01_lcixtb.jpg
 ---
-Benjamin Avignon Architecte
+Carte blanche  sur le chantier des la halles 6 est, Nantes.

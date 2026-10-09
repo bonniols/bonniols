@@ -4,6 +4,7 @@ order: 5
 show_in_nav: true
 background_color: "#eafafa"
 invert_text_color: false
+use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080967/2015_lagedelair_001_hqntbf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080967/2015_lagedelair_002_p2id0v.jpg
@@ -16,7 +17,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080970/2015_lagedelair_008_ahjtcs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080970/2015_lagedelair_010_rmu99n.jpg
 ---
-# 2o1o - 2o15
+# 2010 - 2015
 
 <br/>
 
@@ -31,8 +32,6 @@ gallery:
 > Production :
 >
 > 10 tirages Lambda en caisse américaine, 75 cm de largeur, longueurs variables
->
-> <br/>
 >
 > Expositions :
 >
