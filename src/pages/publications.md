@@ -29,6 +29,8 @@ Avec le soutien des Chantiers de l’Atlantique, Saint-Nazaire
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791536192/007_lg5jo8.jpg)
 
+
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317331/001_dfijzv.jpg)
 
 <br/>
@@ -46,6 +48,10 @@ Avec le soutien des Chantiers de l’Atlantique, Saint-Nazaire
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791391449/004_jjbjen.jpg)
+
+303 HORS-SÉRIE N°175 PAYSAGES PHOTOGRAPHIÉS\
+Avril 2023 - 256 pages - Format : 225 x 300 mm\
+ISBN : 979-10-93572-87-1
 
 <br/>
 
