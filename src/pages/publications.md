@@ -8,9 +8,22 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791391454/006_hkopae.jpg)
 
+303 TRIMESTRIEL N°188 BÉTON\
+Février 2026 - 96 pages - Format : 225 x 300 mm \
+ISBN : 978-2-487296-16-9
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791628156/014_fzzxhp.jpg)
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791391452/005_gpktt4.jpg)
+
+303 TRIMESTRIEL N°186 PAQUEBOTS ET CHANTIERS DE SAINT-NAZAIRE\
+Juillet 2025 - 96 pages - Format : 225 x 300 mm\
+ISBN : 978-2-487296-02-2\
+Avec le soutien des Chantiers de l’Atlantique, Saint-Nazaire
 
 <br/>
 
