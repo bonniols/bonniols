@@ -29,9 +29,19 @@ Avec le soutien des Chantiers de l’Atlantique, Saint-Nazaire
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791536192/007_lg5jo8.jpg)
 
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791629051/015_fdqi1g.jpg)
 
+303 TRIMESTRIEL N°174 LA HAUTEUR\
+Janvier 2023 - 96 pages - Format : 225 x 300 mm\
+ISBN : 979-10-93572-86-4
+
+<br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317331/001_dfijzv.jpg)
+
+303 HORS-SÉRIE N°156 LA MER Direction éditoriale : Thierry Pelloquet\
+Avril 2019 - 256 pages - Format : 220 x 300 mm\
+ISBN : 979-10-93572-37-6
 
 <br/>
 
