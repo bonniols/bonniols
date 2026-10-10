@@ -34,6 +34,18 @@ Avec le soutien des Chantiers de l’Atlantique, Saint-Nazaire
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791536192/007_lg5jo8.jpg)
 
+
+
+CAHIER ARCHITECTURE / CAHIER GRAPHIQUE\
+Documentation de chantier de la Halle 6 Est à Nantes de 2018 à 2021\
+Conception architecturale : Banjamin Avignon\
+Graphisme et signalétique : Nicolas Gautron\
+Typographie : Benoît Bodhuin\
+Photographie : Sylvain Bonniol\
+Juin 2021 - 96 pages - Format : 160 x 220 mm\
+Edition NG + BB + SB\
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791629051/015_fdqi1g.jpg)
 
 303 TRIMESTRIEL N°174 LA HAUTEUR\
