@@ -64,6 +64,14 @@ ISBN : 979-10-93572-37-6
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791536392/009_onnc8x.jpg)
 
+VISAGES D'UN CHANTIER NAVAL - Editions de La Martinière\
+Photographies et textes : Sylvain Bonniol\
+Préface de Laurent Castaing, DG des Chantiers de l'Atlantique\
+Achevé d'imprimé en novembre 2017 sur les presses d'EBS en italie\
+Janvier 2018 - 224 pages - 250 mm x 290 mm \
+ISBN 2732478245
+
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317332/002_vf1jov.jpg)
