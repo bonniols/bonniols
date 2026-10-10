@@ -105,6 +105,13 @@ Réalisé en  Similigravure sur Papier Ensocoat 350g au Musée de l'Imprimerie d
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791627285/011_rnlbg4.jpg)
 
+DES INDUSTRIES ET DES HOMMES\
+Catalogue de l'exposition éponyme, \
+carte blanche photographique confiée par la Région des Pays de la Loire \
+sur la diversité du tissu industriel ligérien.\
+Janvier 2014 - 80 pages - 210 mm x 210 mm\
+Impression : Grenier (94). Imprimé sur papier PEFC avec les encres végétales
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791626590/012_ovavnf.jpg)
