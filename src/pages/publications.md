@@ -102,6 +102,14 @@ ISBN : 979-10-93572-87-1
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791626590/012_ovavnf.jpg)
 
+CACUSIO \
+Atleier Polyhedre / Baptiste Ymonet & Vincent Jousseaume \
+Dépliant édité pour l'inauguration du 1% artistique pour la construction\
+du Ceisam, institut de chimie moléculaire,  Université de Nantes,\
+par l'agence Forma 6.\
+2013 - Format A1 841 mm x 594 mm\
+Imprimeur : Chiffoleau, Nantes
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791627545/3951-01_bs9dh5.jpg)
