@@ -67,7 +67,7 @@ ISBN : 979-10-93572-37-6
 VISAGES D'UN CHANTIER NAVAL - Editions de La Martinière\
 Photographies et textes : Sylvain Bonniol\
 Préface de Laurent Castaing, DG des Chantiers de l'Atlantique\
-Achevé d'imprimé en novembre 2017 sur les presses d'EBS en italie\
+Achevé d'imprimé en novembre 2017 sur les presses d'EBS en Italie\
 Janvier 2018 - 224 pages - 250 mm x 290 mm \
 ISBN 2732478245
 
@@ -91,6 +91,13 @@ ISBN : 979-10-93572-87-1
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791539197/_DSC9775_ubst1y.jpg)
+
+EXPEDITION SUR PLACE RECOMMANDEE\
+16 carte postales d'architecture moderne\
+Novembre 2014 - 100 mm x 150 mm - 25 exemplaires numérotés et signés\
+Edition conjointe : galerie RDV, Comité de Vigilance Brutaliste\
+Réalisé en  Similigravure sur Papier Ensocoat 350g au Musée de l'Imprimerie de Nantes\
+<br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791626590/012_ovavnf.jpg)
 
