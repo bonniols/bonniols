@@ -72,7 +72,7 @@ gallery:
 >
 > Exposition (CAUE 44)  :
 >
-> "Voir le dedans des murs" produite par le C.A.U.E. de Loire-Atlantique, Cours d’accueil de l’ancienne maison d’arrêt de Nantes, 2013. 
+> 2013 *\- VOIR LE DEDANS DES MURS,* produite par le C.A.U.E. de Loire-Atlantique, Cours d’accueil de l’ancienne maison d’arrêt de Nantes (solo)
 >
 > Scénographie : Dany Cartron. 
 >
