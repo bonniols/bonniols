@@ -32,6 +32,16 @@ Avec le soutien des Chantiers de l’Atlantique, Saint-Nazaire
 
 <br/>
 
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791721241/017_jhdj9c.jpg)
+
+A+U 648 24:09 Dwelling in France\
+TWIST HOUSE / Avignon Architecte\
+Editions Shinkenchiku-sha\
+Janvier 2024 - 168 pages - Format : 290 x 220 mm\
+ISBN : 9784900213074
+
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791536192/007_lg5jo8.jpg)
 
 CAHIER ARCHITECTURE / CAHIER GRAPHIQUE\
@@ -47,10 +57,18 @@ Edition NG + BB + SB\
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791629051/015_fdqi1g.jpg)
 
 303 TRIMESTRIEL N°174 LA HAUTEUR\
+R+14\
 Janvier 2023 - 96 pages - Format : 225 x 300 mm\
 ISBN : 979-10-93572-86-4
 
 <br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791721239/016_wazvdb.jpg)
+
+A VIVRE trimestriel, hors série n°50 Spécial Outdoor\
+Couverture et portfolio TOPLESS HOUSE - Avignon Architecte\
+Mai 2021 - 100 pages - Format 210 x 280 mm\
+ISSN : 1625-7456
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317331/001_dfijzv.jpg)
 
@@ -79,8 +97,6 @@ Article "La ville à travers des jumelles" de Lou Tsatsas
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317333/003_cywqoc.jpg)
-
-
 
 <br/>
 
