@@ -14,7 +14,7 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791381434/007_tlozpf.jpg)
 
-2o25 - *VISAGES D'UN CHANTIER NAVAL*, biennale USIMAGES\
+2025 - *VISAGES D'UN CHANTIER NAVAL*, biennale USIMAGES\
 organisée par Diaphane, Centre photographique des Hauts de France
 
 <br/>
@@ -38,6 +38,8 @@ organisée par Diaphane, Centre photographique des Hauts de France
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791379003/005_bwbt7y.jpg)
+
+2017 - *L'AGE DE L'AIR*, 10e biennale Internationale du Design, Saint Etienne
 
 <br/>
 
