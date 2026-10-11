@@ -34,8 +34,6 @@ Avec le soutien des Chantiers de l’Atlantique, Saint-Nazaire
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791536192/007_lg5jo8.jpg)
 
-
-
 CAHIER ARCHITECTURE / CAHIER GRAPHIQUE\
 Documentation de chantier de la Halle 6 Est à Nantes de 2018 à 2021\
 Conception architecturale : Banjamin Avignon\
@@ -71,10 +69,12 @@ Achevé d'imprimé en novembre 2017 sur les presses d'EBS en Italie\
 Janvier 2018 - 224 pages - 250 mm x 290 mm \
 ISBN 2732478245
 
-
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317332/002_vf1jov.jpg)
+
+R+14 - Fisheye Magazine (en ligne)\
+Article "La ville à travers des jumelles" de Lou Tsatsas
 
 <br/>
 
