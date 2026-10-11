@@ -80,6 +80,8 @@ Article "La ville à travers des jumelles" de Lou Tsatsas
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317333/003_cywqoc.jpg)
 
+
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791391449/004_jjbjen.jpg)
@@ -117,7 +119,7 @@ Impression : Grenier (94). Imprimé sur papier PEFC avec les encres végétales
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791626590/012_ovavnf.jpg)
 
 CACUSIO \
-Atleier Polyhedre / Baptiste Ymonet & Vincent Jousseaume \
+Atelier Polyhedre / Baptiste Ymonet & Vincent Jousseaume \
 Dépliant édité pour l'inauguration du 1% artistique pour la construction\
 du Ceisam, institut de chimie moléculaire,  Université de Nantes,\
 par l'agence Forma 6.\
@@ -127,3 +129,10 @@ Imprimeur : Chiffoleau, Nantes
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791627545/3951-01_bs9dh5.jpg)
+
+L'ARCHE DES ANIMAUX\
+Edition d'un "carnet de voyage" en 16 cartes postales détachables\
+à l'occasion de l'exposition "L'arche des animaux",\
+l'art forain à l'Abbaye de Fontevraud\
+Juin 2009 - 16 pages - 110 mm x 180 mm 
+ISBN 9782951328150
