@@ -23,19 +23,22 @@ des Hauts de France
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315480/001_d1d9cf.jpg)
 
-2019 - *INTERMISSIONS*, Le Cloître Ouvert, Paris 8e (solo)
+2019 - *INTERMISSIONS* (solo)\
+Organisé par DI MEZZO au Le Cloître Ouvert, Paris 8e 
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315480/002_umcpnl.jpg)
 
-2019 - VISAGES D'UN CHANTIER NAVAL, Galerie Hazy, Le Pouliguen (solo)
+2019 - VISAGES D'UN CHANTIER NAVAL (solo)\
+Galerie Hazy, Le Pouliguen 
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791379002/004_bgfgdr.jpg)
 
-2018 - *J'AI POSE LE MONDE SUR LA TABLE,* ESBA TALM, Le Mans (collective)
+2018 - *J'AI POSE LE MONDE SUR LA TABLE* (collective)\
+Ecole SUpérieure des Beaux Arts TALM, Le Mans 
 
 <br/>
 
