@@ -6,7 +6,7 @@ invert_text_color: false
 ---
 <br/>
 
-![](https://res.cloudinary.com/yxpagolc/image/upload/v1791391454/006_hkopae.jpg)
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791392902/006_avx95z.jpg)
 
 <br/>
 
