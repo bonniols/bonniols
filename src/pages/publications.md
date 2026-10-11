@@ -149,6 +149,7 @@ Mars 2018
 <br/>
 
 303 HORS-SÉRIE N°175 PAYSAGES PHOTOGRAPHIÉS\
+*"Sylvain Bonniol photographe chercheur en immersion"*, texte de Mai Tran\
 Avril 2023 - 256 pages - Format : 225 x 300 mm\
 ISBN : 979-10-93572-87-1
 
@@ -161,7 +162,7 @@ ISBN : 979-10-93572-87-1
 <br/>
 
 A VIVRE  n°102 - Visitez 500 maisons d'archtiectes\
-Couverture et portfolio ALL OUT HOUSE - Avignon Architecte \
+Couverture et portfolio *ALL OUT HOUSE* - Avignon Architecte \
 Juillet-Aout 2018 - 100 pages - Format 210 x 280 mm \
 ISSN : 1625-7456
 
@@ -173,7 +174,7 @@ ISSN : 1625-7456
 
 <br/>
 
-EXPEDITION SUR PLACE RECOMMANDEE\
+*EXPEDITION SUR PLACE RECOMMANDEE*\
 16 carte postales d'architecture moderne\
 Novembre 2014 - 100 mm x 150 mm - 25 exemplaires numérotés et signés\
 Edition conjointe : galerie RDV, Comité de Vigilance Brutaliste\
