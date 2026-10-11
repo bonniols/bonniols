@@ -176,9 +176,11 @@ ISSN : 1625-7456
 
 *EXPEDITION SUR PLACE RECOMMANDEE*\
 16 carte postales d'architecture moderne\
-Novembre 2014 - 100 mm x 150 mm - 25 exemplaires numérotés et signés\
+Novembre 2014 - 100 mm x 150 mm\
+25 exemplaires numérotés et signés\
 Edition conjointe : galerie RDV, Comité de Vigilance Brutaliste\
-Réalisé en  Similigravure sur Papier Ensocoat 350g au Musée de l'Imprimerie de Nantes\
+Réalisé en  Similigravure sur Papier Ensocoat 350g\
+Musée de l'Imprimerie de Nantes\
 <br/>
 
 <br/>
