@@ -88,10 +88,11 @@ Cours d’accueil de l’ancienne maison d’arrêt de Nantes
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791538012/010_vxymzw.jpg)
 
-2012 - *Visions acoustiques*, Galerie RDV et la 16è QPN, Nantes (solo)
+2012 - *VISIONS ACOUSTIQUES* (solo)\
+Galerie RDV et la 16è QPN, Nantes 
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537912/2010-voies-off_gnyrgr.jpg)
 
-2010 - *Visions acoustiques*, Voies Off, Arles (collective)
+2010 - VISIONS ACOUSTIQUES Voies Off, Arles (collective)
