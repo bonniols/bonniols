@@ -111,7 +111,7 @@ ISBN : 979-10-93572-87-1
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317333/003_cywqoc.jpg)
 
-A VIVRE  n°102 500 maisnoos d'archtiecte\
+A VIVRE  n°102 - Visitez 500 maisons d'archtiectes\
 Couverture et portfolio ALL OUT HOUSE - Avignon Architecte \
 Juillet-Aout 2018 - 100 pages - Format 210 x 280 mm \
 ISSN : 1625-7456
