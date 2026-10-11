@@ -44,20 +44,23 @@ Ecole SUpérieure des Beaux Arts TALM, Le Mans
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791379003/005_bwbt7y.jpg)
 
-2017 - *L'AGE DE L'AIR*, biennale USIMAGES
-organisée par Diaphane, Centre photographique des Hauts de France
+2017 - *L'AGE DE L'AIR* \
+10e Biennale Internationale du Design, Saint-Etienne 
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791538853/chantiercroises_bsdntz.jpg)
 
-2017 - *CHANTIER CROISES*, Inauguration du Chronographe, Rezé (solo)
+2017 - *CHANTIERS CROISES* (solo)\
+Inauguration du Chronographe, Rezé 
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537908/011_cnmtwr.jpg)
 
-2015 - L'AGE DE L'AIR, Usimages, b
+2015 - L'AGE DE L'AIR\
+Biennale USIMAGES organisée par Diaphane Centre photographique
+des Hauts de France
 
 <br/>
 
