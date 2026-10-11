@@ -30,7 +30,7 @@ Organisé par DI MEZZO au Le Cloître Ouvert, Paris 8e
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315480/002_umcpnl.jpg)
 
-2019 - VISAGES D'UN CHANTIER NAVAL (solo)\
+2019 - *VISAGES D'UN CHANTIER NAVAL* (solo)\
 Galerie Hazy, Le Pouliguen 
 
 <br/>
@@ -58,7 +58,7 @@ Inauguration du Chronographe, Rezé
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537908/011_cnmtwr.jpg)
 
-2015 - L'AGE DE L'AIR\
+2015 - *L'AGE DE L'AIR*\
 Biennale USIMAGES organisée par Diaphane Centre photographique
 des Hauts de France
 
@@ -66,13 +66,14 @@ des Hauts de France
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537907/009_loszo2.jpg)
 
-2014 - *Des industries et des hommes*, Hotel de Région des Pays de la Loire, Nantes (solo)
+2014 - *DES INDUSTRIES ET DES HOMMES* (solo)\
+Hotel de Région des Pays de la Loire, Nantes 
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537907/008_x9wi73.jpg)
 
-2014 - *Sky mass*, International Hipa Award, honorable mention
+2014 - *SKY MASS*, International Hipa Award, honorable mention
 
 <br/>
 
