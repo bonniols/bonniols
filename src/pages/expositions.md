@@ -95,4 +95,5 @@ Galerie RDV et la 16è QPN, Nantes
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537912/2010-voies-off_gnyrgr.jpg)
 
-2010 - VISIONS ACOUSTIQUES Voies Off, Arles (collective)
+2010 - VISIONS ACOUSTIQUES \
+Festival Voies Off, Arles (collective)
