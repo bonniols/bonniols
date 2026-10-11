@@ -40,14 +40,16 @@ Maitre d'ouvrage : Quartus Résidentiel
 
 *Texte : Nicolas Gautron*
 
-96 m x 23 m x 14 m\
-6051m2
-
-RDC + 3 niveaux\
-1 rue intérieure\
-2 moteurs\
-3 atriums
-
-44 bureaux\
-1 hôtel d'entreprises\
-2 incubateurs
+> 96 m x 23 m x 14 m\
+> 6051m2
+>
+> RDC + 3 niveaux\
+> 1 rue intérieure\
+> 2 moteurs\
+> 3 atriums
+>
+> 44 bureaux\
+> 1 hôtel d'entreprises\
+> 2 incubateurs
+>
+>
