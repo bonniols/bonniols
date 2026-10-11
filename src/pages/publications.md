@@ -111,7 +111,12 @@ ISBN : 979-10-93572-87-1
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317333/003_cywqoc.jpg)
 
-A VIVRE  n°102 Couverture et portfolio ALL OUT HOUSE - Avignon Architecte Juillet-Aout 2018 - 100 pages - Format 210 x 280 mm ISSN : 1625-7456
+A VIVRE  n°102 500 maisnoos d'archtiecte\
+Couverture et portfolio ALL OUT HOUSE - Avignon Architecte \
+Juillet-Aout 2018 - 100 pages - Format 210 x 280 mm \
+ISSN : 1625-7456
+
+<br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791539197/_DSC9775_ubst1y.jpg)
 
