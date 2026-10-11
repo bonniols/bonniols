@@ -43,16 +43,20 @@ gallery:
 
 > Production :
 >
-> Tirages Permajet Mat sur dibond 80 X 80 cm
+> \- Tirages Permajet Mat sur dibond 80 X 80 cm
 >
-> Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
+> \- Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
 >  100 X 150 cm. 5 exemplaires signés et numérotés
+>
+> <br/>
 >
 > Distinctions :
 >
 > \- Mention spéciale à la Bourse du Talent # 40
 >
 > \- Sélection aux Voies Off d’Arles 2010
+>
+> <br/>
 >
 > Expositions :
 >
