@@ -204,6 +204,8 @@ Imprimeur : VALPG, Nantes
 
 <br/>
 
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791626911/20261010_111819-01_ym2yzv.jpg)
+
 <br/>
 
 *CHANTIERS CROISES*\
