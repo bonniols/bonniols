@@ -8,7 +8,7 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315479/000_l2rthf.jpg)
 
-2025, *SIMPLES SAUVAGES*, festival Confluence #2 prairie Cellier Goudy, Nantes
+2025 - *SIMPLES SAUVAGES*, festival Confluence #2 prairie Cellier Goudy, Nantes
 
 <br/>
 
@@ -33,21 +33,26 @@ organisée par Diaphane, Centre photographique des Hauts de France
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791379002/004_bgfgdr.jpg)
 
-2018 *J'ai posé le monde sur la table,* ESBA TALM, Le Mans (collective)
+2018 - *J'AI POSE LE MONDE SUR LA TABLE,* ESBA TALM, Le Mans (collective)
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791379003/005_bwbt7y.jpg)
 
-2017 - *L'AGE DE L'AIR*, 10e biennale Internationale du Design, Saint Etienne
+2017 - *L'AGE DE L'AIR*, biennale USIMAGES
+organisée par Diaphane, Centre photographique des Hauts de France
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791538853/chantiercroises_bsdntz.jpg)
 
+2017 - *CHANTIER CROISES*, Inauguration du Chronographe, Rezé (solo)
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537908/011_cnmtwr.jpg)
+
+2015 - L'AGE DE L'AIR, Usimages, b
 
 <br/>
 
