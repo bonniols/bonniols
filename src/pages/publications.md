@@ -25,8 +25,9 @@ Le catalogue du projet « *Mémoires d’éléphant* » pour la sauvegarde des
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791391452/005_gpktt4.jpg)
 
-303 TRIMESTRIEL N°186 PAQUEBOTS ET CHANTIERS DE SAINT-NAZAIRE\
-Juillet 2025 - 96 pages - Format : 225 x 300 mm\
+303 N°186 PAQUEBOTS ET CHANTIERS DE SAINT-NAZAIRE\
+Carte Blanche pour VISAGES D'UN CHANTIER NAVAL\
+Texte de Bernard Renoux  "Les chantiers, un vaisseau spécial" Juillet 2025 - 96 pages - Format : 225 x 300 mm\
 ISBN : 978-2-487296-02-2\
 Avec le soutien des Chantiers de l’Atlantique, Saint-Nazaire
 
