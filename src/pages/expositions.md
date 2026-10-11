@@ -52,14 +52,15 @@ Ecole Supérieure des Beaux Arts TALM, Le Mans
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791538853/chantiercroises_bsdntz.jpg)
 
 2017 - *CHANTIERS CROISES* (solo)\
-Inauguration du Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine à Rezé 
+Inauguration du Chronographe, \
+Centre d'Interprétation de l'Architecture et du Patrimoine, Rezé 
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537908/011_cnmtwr.jpg)
 
 2015 - *L'AGE DE L'AIR*\
-Biennale USIMAGES organisée par Diaphane Centre photographique
+Biennale Usimages organisée par Diaphane Centre photographique\
 des Hauts de France
 
 <br/>
