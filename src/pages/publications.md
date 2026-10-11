@@ -188,8 +188,8 @@ Réalisé en  Similigravure sur Papier Ensocoat 350g au Musée de l'Imprimerie d
 <br/>
 
 *CHANTIERS CROISES*
-Edition D'un dépliant 
-Janvier 2017 - format 700 x 1000 mm (A0)
+Edition D'un dépliant\
+Janvier 2017 - format 700 x 1000 mm (A0)\
 Imprimeur : VALPG, Nantes
 
 <br/>
@@ -214,11 +214,11 @@ Imprimeur : VALPG, Nantes
 <br/>
 
 *DES INDUSTRIES ET DES HOMMES*\
-Catalogue de l'exposition éponyme, \
-carte blanche photographique confiée par la Région des Pays de la Loire \
-sur la diversité du tissu industriel ligérien.\
+Catalogue de l'exposition éponyme\
+Carte blanche confiée par la Région des Pays de la Loire \
+sur la diversité du tissu industriel ligérien\
 Janvier 2014 - 80 pages - 210 mm x 210 mm\
-Impression : Grenier (94). Imprimé sur papier PEFC avec les encres végétales
+Impression : Grenier (94)
 
 <br/>
 
