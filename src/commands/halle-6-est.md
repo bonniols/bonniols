@@ -28,7 +28,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243925/20210819_175005-01_thflfp.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243926/20210819_175037-01_lcixtb.jpg
 ---
-Documentation du chantier de 2018 à 2021\
+# Documentation du chantier de 2018 à 2021\
 Conception architecturale : Benjamin Avignon\
 Maitre d'ouvrage : Quartus Résidentiel
 
@@ -45,14 +45,10 @@ Maitre d'ouvrage : Quartus Résidentiel
 > 96 m x 23 m x 14 m\
 > 6051m2
 >
-> <br/>
->
 > RDC + 3 niveaux\
 > 1 rue intérieure\
 > 2 moteurs\
 > 3 atriums
->
-> <br/>
 >
 > 44 bureaux\
 > 1 hôtel d'entreprises\
