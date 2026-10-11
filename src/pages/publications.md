@@ -71,7 +71,7 @@ ISBN 2732478245
 
 <br/>
 
-![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317332/002_vf1jov.jpg)
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791716147/002_ordln1.jpg)
 
 R+14 - Fisheye Magazine (en ligne)\
 Article "La ville à travers des jumelles" de Lou Tsatsas
