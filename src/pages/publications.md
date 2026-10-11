@@ -97,9 +97,7 @@ ISBN 2732478245
 R+14 - Fisheye Magazine (en ligne)\
 Article "La ville à travers des jumelles" de Lou Tsatsas
 
-<br/>
 
-![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317333/003_cywqoc.jpg)
 
 <br/>
 
@@ -110,6 +108,10 @@ Avril 2023 - 256 pages - Format : 225 x 300 mm\
 ISBN : 979-10-93572-87-1
 
 <br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317333/003_cywqoc.jpg)
+
+A VIVRE  n°102 Couverture et portfolio ALL OUT HOUSE - Avignon Architecte Juillet-Aout 2018 - 100 pages - Format 210 x 280 mm ISSN : 1625-7456
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791539197/_DSC9775_ubst1y.jpg)
 
