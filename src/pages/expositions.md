@@ -27,7 +27,7 @@ organisée par Diaphane, Centre photographique des Hauts de France
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315480/002_umcpnl.jpg)
 
-
+2019 - VISAGES D'UN CHANTIER NAVAL, Galerie Hazy, Le Pouliguen (solo)
 
 <br/>
 
