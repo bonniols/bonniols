@@ -8,21 +8,26 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315479/000_l2rthf.jpg)
 
-2025, *Simples Sauvages*, festival Confluence #2 prairie Cellier Goudy, Nantes
+2025, *SIMPLES SAUVAGES*, festival Confluence #2 prairie Cellier Goudy, Nantes
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791381434/007_tlozpf.jpg)
 
+2o25 - *VISAGES D'UN CHANTIER NAVAL*, biennale USIMAGES\
+organisée par Diaphane, Centre photographique des Hauts de France
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315480/001_d1d9cf.jpg)
 
-2019 *Intermissions*, Le Cloître Ouvert, Paris 8e (solo)
+2019 - *INTERMISSIONS*, Le Cloître Ouvert, Paris 8e (solo)
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315480/002_umcpnl.jpg)
+
+
 
 <br/>
 
