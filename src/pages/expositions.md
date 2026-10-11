@@ -18,6 +18,8 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315480/001_d1d9cf.jpg)
 
+2019 *Intermissions*, Le Cloître Ouvert, Paris 8e (solo)
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315480/002_umcpnl.jpg)
@@ -25,6 +27,8 @@ invert_text_color: false
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791379002/004_bgfgdr.jpg)
+
+2018 *J'ai posé le monde sur la table,* ESBA TALM, Le Mans (collective)
 
 <br/>
 
