@@ -16,8 +16,8 @@ festival Confluence #2 prairie Cellier Goudy, Nantes (solo)
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791381434/007_tlozpf.jpg)
 
 2025 - *VISAGES D'UN CHANTIER NAVAL* (collective)\
-Biennale USIMAGES organisée par Diaphane\
-Centre photographique des Hauts de France
+Biennale USIMAGES organisée par Diaphane Centre photographique\
+des Hauts de France
 
 <br/>
 
