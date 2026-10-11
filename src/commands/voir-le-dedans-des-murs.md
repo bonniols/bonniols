@@ -26,6 +26,8 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44004_nsgqoz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44002_yy5yrg.jpg
 ---
+
+
 # 2010 - 2012
 
 ## Chantier de réhabilitation de l’ancien Palais de Justice de Nantes.
@@ -33,6 +35,10 @@ gallery:
 ## Carte Blanche confiée par Altarea Cogedim.
 
 <br/>
+
+<br/>
+
+:::right
 
 > *Voir le dedans des murs*
 >
@@ -51,6 +57,10 @@ gallery:
 > *Apaiserait.*
 >
 > *Eugène Guillevic – Exécutoire, 1947*
+
+:::
+
+<br/>
 
 <br/>
 
