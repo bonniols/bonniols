@@ -27,7 +27,8 @@ Le catalogue du projet « *Mémoires d’éléphant* » pour la sauvegarde des
 
 303 N°186 PAQUEBOTS ET CHANTIERS DE SAINT-NAZAIRE\
 Carte Blanche pour VISAGES D'UN CHANTIER NAVAL\
-Texte de Bernard Renoux  "Les chantiers, un vaisseau spécial" Juillet 2025 - 96 pages - Format : 225 x 300 mm\
+Texte de Bernard Renoux "Les chantiers, un vaisseau spécial" \
+Juillet 2025 - 96 pages - Format : 225 x 300 mm\
 ISBN : 978-2-487296-02-2\
 Avec le soutien des Chantiers de l’Atlantique, Saint-Nazaire
 
@@ -58,7 +59,8 @@ Edition NG + BB + SB\
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791629051/015_fdqi1g.jpg)
 
 303 TRIMESTRIEL N°174 LA HAUTEUR\
-R+14\
+Carte Blanche pour *R+14*
+Texte de Bertrand Charles "R+14 ou le paysage déréalisé" \
 Janvier 2023 - 96 pages - Format : 225 x 300 mm\
 ISBN : 979-10-93572-86-4
 
