@@ -149,7 +149,7 @@ Mars 2018
 <br/>
 
 303 HORS-SÉRIE N°175 PAYSAGES PHOTOGRAPHIÉS\
-*"Sylvain Bonniol photographe chercheur en immersion"*, texte de Mai Tran\
+*"Photographe chercheur en immersion"*, texte de Mai Tran\
 Avril 2023 - 256 pages - Format : 225 x 300 mm\
 ISBN : 979-10-93572-87-1
 
