@@ -73,13 +73,14 @@ Hotel de Région des Pays de la Loire, Nantes
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537907/008_x9wi73.jpg)
 
-2014 - *SKY MASS*, International Hipa Award, honorable mention
+2014 - *SKY MASS*\
+International Hipa Award, honorable mention
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791539406/Bonniol_CAUE44_eimxub.jpg)
 
-2013 *\- Voir le dedans des murs* produite par le C.A.U.E. de Loire-Atlantique,\
+2013 *\- VOIR LE DEDANS DES MURS* produite par le C.A.U.E. de Loire-Atlantique,\
 Cours d’accueil de l’ancienne maison d’arrêt de Nantes (solo)
 
 <br/>
