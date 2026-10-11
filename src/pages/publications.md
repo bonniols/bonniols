@@ -103,6 +103,11 @@ Réalisé en  Similigravure sur Papier Ensocoat 350g au Musée de l'Imprimerie d
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791626590/012_ovavnf.jpg)
 
+CHANTIERS CROISES\
+Edition de 79 cartes postales\
+Janvier 2017 - format 100 x 150 mm\
+Imprimeur : VALPG, Nantes
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791627285/011_rnlbg4.jpg)
