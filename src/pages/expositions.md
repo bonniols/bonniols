@@ -46,25 +46,29 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537907/009_loszo2.jpg)
 
+2014 - *Des industries et des hommes*, Hotel de Région des Pays de la Loire, Nantes (solo)
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537907/008_x9wi73.jpg)
+
+2014 - *Sky mass*, International Hipa Award, honorable mention
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791539406/Bonniol_CAUE44_eimxub.jpg)
 
-2013 *Voir le dedans des murs* produite par le C.A.U.E. de Loire-Atlantique,\
+2013 *\- Voir le dedans des murs* produite par le C.A.U.E. de Loire-Atlantique,\
 Cours d’accueil de l’ancienne maison d’arrêt de Nantes (solo)
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791538012/010_vxymzw.jpg)
 
-2012 *Visions acoustiques*, Galerie RDV et la 16è QPN, Nantes (solo)
+2012 - *Visions acoustiques*, Galerie RDV et la 16è QPN, Nantes (solo)
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537912/2010-voies-off_gnyrgr.jpg)
 
-2010 *Visions acoustiques*, Voies Off, Arles (collective)
+2010 - *Visions acoustiques*, Voies Off, Arles (collective)
