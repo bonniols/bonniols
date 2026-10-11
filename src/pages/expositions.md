@@ -8,6 +8,8 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315479/000_l2rthf.jpg)
 
+2025, *Simples Sauvages*, festival Confluence #2 prairie Cellier Goudy, Nantes
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791381434/007_tlozpf.jpg)
