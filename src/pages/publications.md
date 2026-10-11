@@ -182,11 +182,24 @@ Réalisé en  Similigravure sur Papier Ensocoat 350g au Musée de l'Imprimerie d
 
 <br/>
 
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791724809/019_ukdda6.jpg)
+
+<br/>
+
+*CHANTIERS CROISES*
+Edition D'un dépliant 
+Janvier 2017 - format 700 x 1000 mm (A0)
+Imprimeur : VALPG, Nantes
+
+<br/>
+
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791626590/012_ovavnf.jpg)
 
 <br/>
 
-CHANTIERS CROISES\
+*CHANTIERS CROISES*\
 Edition de 79 cartes postales\
 Janvier 2017 - format 100 x 150 mm\
 Imprimeur : VALPG, Nantes
@@ -230,7 +243,7 @@ Imprimeur : Chiffoleau, Nantes
 
 <br/>
 
-L'ARCHE DES ANIMAUX\
+*L'ARCHE DES ANIMAUX*\
 Edition d'un "carnet de voyage" en 16 cartes postales détachables\
 à l'occasion de l'exposition "L'arche des animaux",\
 l'art forain à l'Abbaye de Fontevraud.\
