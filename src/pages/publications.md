@@ -137,7 +137,8 @@ ISBN 2732478245
 <br/>
 
 R+14 - Fisheye Magazine (en ligne)\
-Article "La ville à travers des jumelles" de Lou Tsatsas
+Article "La ville à travers des jumelles" de Lou Tsatsas\
+Mars 2018
 
 <br/>
 
