@@ -8,13 +8,19 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791391454/006_hkopae.jpg)
 
-303 TRIMESTRIEL N°188 BÉTON\
+<br/>
+
+REVUE 303 N°188 / BÉTON\
 Février 2026 - 96 pages - Format : 225 x 300 mm \
 ISBN : 978-2-487296-16-9
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791628156/014_fzzxhp.jpg)
+
+<br/>
 
 ELEPHANTART Mémoires d'éléphants\
 Décembre 2025 - 1192 pages - Format : 225 x 300 x 65 mm - 3000 exemplaires\
@@ -23,9 +29,13 @@ Le catalogue du projet « *Mémoires d’éléphant* » pour la sauvegarde des
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791391452/005_gpktt4.jpg)
 
-303 N°186 PAQUEBOTS ET CHANTIERS DE SAINT-NAZAIRE\
+<br/>
+
+REVUE 303 N°186 / PAQUEBOTS ET CHANTIERS DE SAINT-NAZAIRE\
 Carte Blanche pour VISAGES D'UN CHANTIER NAVAL\
 Texte de Bernard Renoux "Les chantiers, un vaisseau spécial" \
 Juillet 2025 - 96 pages - Format : 225 x 300 mm\
@@ -34,7 +44,11 @@ Avec le soutien des Chantiers de l’Atlantique, Saint-Nazaire
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791721241/017_jhdj9c.jpg)
+
+<br/>
 
 A+U 648 24:09 Dwelling in France\
 TWIST HOUSE / Avignon Architecte\
@@ -44,7 +58,11 @@ ISBN : 9784900213074
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791536192/007_lg5jo8.jpg)
+
+<br/>
 
 CAHIER ARCHITECTURE / CAHIER GRAPHIQUE\
 Documentation de chantier de la Halle 6 Est à Nantes de 2018 à 2021\
@@ -56,9 +74,13 @@ Juin 2021 - 96 pages - Format : 160 x 220 mm\
 Edition NG + BB + SB\
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791629051/015_fdqi1g.jpg)
 
-303 TRIMESTRIEL N°174 LA HAUTEUR\
+<br/>
+
+REVUE 303 N°174 / LA HAUTEUR\
 Carte Blanche pour *R+14*
 \
 Texte de Bertrand Charles "R+14 ou le paysage déréalisé" \
@@ -67,22 +89,37 @@ ISBN : 979-10-93572-86-4
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791721239/016_wazvdb.jpg)
+
+<br/>
 
 A VIVRE trimestriel, hors série n°50 Spécial Outdoor\
 Couverture et portfolio TOPLESS HOUSE - Avignon Architecte\
 Mai 2021 - 100 pages - Format 210 x 280 mm\
 ISSN : 1625-7456
 
+<br/>
+
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317331/001_dfijzv.jpg)
 
-303 HORS-SÉRIE N°156 LA MER Direction éditoriale : Thierry Pelloquet\
+<br/>
+
+REVUE 303 HORS-SÉRIE N°156 / LA MER \
+Direction éditoriale : Thierry Pelloquet\
 Avril 2019 - 256 pages - Format : 220 x 300 mm\
 ISBN : 979-10-93572-37-6
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791536392/009_onnc8x.jpg)
+
+<br/>
 
 VISAGES D'UN CHANTIER NAVAL - Editions de La Martinière\
 Photographies et textes : Sylvain Bonniol\
@@ -93,14 +130,22 @@ ISBN 2732478245
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791716147/002_ordln1.jpg)
+
+<br/>
 
 R+14 - Fisheye Magazine (en ligne)\
 Article "La ville à travers des jumelles" de Lou Tsatsas
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791391449/004_jjbjen.jpg)
+
+<br/>
 
 303 HORS-SÉRIE N°175 PAYSAGES PHOTOGRAPHIÉS\
 Avril 2023 - 256 pages - Format : 225 x 300 mm\
@@ -108,7 +153,11 @@ ISBN : 979-10-93572-87-1
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317333/003_cywqoc.jpg)
+
+<br/>
 
 A VIVRE  n°102 - Visitez 500 maisons d'archtiectes\
 Couverture et portfolio ALL OUT HOUSE - Avignon Architecte \
@@ -117,7 +166,11 @@ ISSN : 1625-7456
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791539197/_DSC9775_ubst1y.jpg)
+
+<br/>
 
 EXPEDITION SUR PLACE RECOMMANDEE\
 16 carte postales d'architecture moderne\
@@ -126,7 +179,11 @@ Edition conjointe : galerie RDV, Comité de Vigilance Brutaliste\
 Réalisé en  Similigravure sur Papier Ensocoat 350g au Musée de l'Imprimerie de Nantes\
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791626590/012_ovavnf.jpg)
+
+<br/>
 
 CHANTIERS CROISES\
 Edition de 79 cartes postales\
@@ -135,9 +192,13 @@ Imprimeur : VALPG, Nantes
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791627285/011_rnlbg4.jpg)
 
-DES INDUSTRIES ET DES HOMMES\
+<br/>
+
+*DES INDUSTRIES ET DES HOMMES*\
 Catalogue de l'exposition éponyme, \
 carte blanche photographique confiée par la Région des Pays de la Loire \
 sur la diversité du tissu industriel ligérien.\
@@ -146,9 +207,13 @@ Impression : Grenier (94). Imprimé sur papier PEFC avec les encres végétales
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791626590/012_ovavnf.jpg)
 
-CACUSIO \
+<br/>
+
+*CACUSIO* \
 Atelier Polyhedre / Baptiste Ymonet & Vincent Jousseaume \
 Dépliant édité pour l'inauguration du 1% artistique pour la construction\
 du Ceisam, institut de chimie moléculaire,  Université de Nantes,\
@@ -158,7 +223,11 @@ Imprimeur : Chiffoleau, Nantes
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791627545/3951-01_bs9dh5.jpg)
+
+<br/>
 
 L'ARCHE DES ANIMAUX\
 Edition d'un "carnet de voyage" en 16 cartes postales détachables\
@@ -166,3 +235,7 @@ Edition d'un "carnet de voyage" en 16 cartes postales détachables\
 l'art forain à l'Abbaye de Fontevraud.\
 Juin 2009 - 16 pages - 110 mm x 180 mm \
 ISBN 9782951328150
+
+<br/>
+
+<br/>
