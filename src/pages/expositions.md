@@ -59,7 +59,7 @@ Centre d'Interprétation de l'Architecture et du Patrimoine, Rezé
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537908/011_cnmtwr.jpg)
 
-2015 - *L'AGE DE L'AIR*\
+2015 - *L'AGE DE L'AIR* (collective)\
 Biennale Usimages organisée par Diaphane Centre photographique\
 des Hauts de France
 
