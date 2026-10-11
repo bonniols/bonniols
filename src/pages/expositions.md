@@ -24,7 +24,7 @@ des Hauts de France
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315480/001_d1d9cf.jpg)
 
 2019 - *INTERMISSIONS* (solo)\
-Produite par Smart Appart et organisé par DI MEZZO au Le Cloître Ouvert, Paris 8e 
+Organisé par Di Mezzo au Le Cloître Ouvert, Paris 8e 
 
 <br/>
 
@@ -38,7 +38,7 @@ Galerie Hazy, Le Pouliguen
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791379002/004_bgfgdr.jpg)
 
 2018 - *J'AI POSE LE MONDE SUR LA TABLE* (collective)\
-Ecole SUpérieure des Beaux Arts TALM, Le Mans 
+Ecole Supérieure des Beaux Arts TALM, Le Mans 
 
 <br/>
 
@@ -52,7 +52,7 @@ Ecole SUpérieure des Beaux Arts TALM, Le Mans
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791538853/chantiercroises_bsdntz.jpg)
 
 2017 - *CHANTIERS CROISES* (solo)\
-Inauguration du Chronographe, Rezé 
+Inauguration du Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine à Rezé 
 
 <br/>
 
