@@ -54,6 +54,11 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791539406/Bonniol_CAUE44_eimxub.jpg)
 
+2013 *Voir le dedans des murs* produite par le C.A.U.E. de Loire-Atlantique,\
+Cours d’accueil de l’ancienne maison d’arrêt de Nantes (solo)
+
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791538012/010_vxymzw.jpg)
 
 2012 *Visions acoustiques*, Galerie RDV et la 16è QPN, Nantes (solo)
@@ -61,3 +66,5 @@ invert_text_color: false
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537912/2010-voies-off_gnyrgr.jpg)
+
+2010 *Visions acoustiques*, Voies Off, Arles (collective)
