@@ -60,6 +60,7 @@ Edition NG + BB + SB\
 
 303 TRIMESTRIEL N°174 LA HAUTEUR\
 Carte Blanche pour *R+14*
+\
 Texte de Bertrand Charles "R+14 ou le paysage déréalisé" \
 Janvier 2023 - 96 pages - Format : 225 x 300 mm\
 ISBN : 979-10-93572-86-4
@@ -96,8 +97,6 @@ ISBN 2732478245
 
 R+14 - Fisheye Magazine (en ligne)\
 Article "La ville à travers des jumelles" de Lou Tsatsas
-
-
 
 <br/>
 
