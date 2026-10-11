@@ -81,7 +81,7 @@ International Hipa Award, honorable mention
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791539406/Bonniol_CAUE44_eimxub.jpg)
 
 2013 *\- VOIR LE DEDANS DES MURS* (solo)\
-Produite par C.A.U.E. de Loire-Atlantique,\
+Organisé par C.A.U.E. de Loire-Atlantique,\
 Cours d’accueil de l’ancienne maison d’arrêt de Nantes 
 
 <br/>
