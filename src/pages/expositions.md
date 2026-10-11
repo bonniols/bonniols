@@ -8,15 +8,15 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315479/000_l2rthf.jpg)
 
-2025 - *SIMPLES SAUVAGES*\
-festival Confluence #2 prairie Cellier Goudy, Nantes (solo)
+2025 - *SIMPLES SAUVAGES* (solo)\
+Festival Confluence #2, prairie Cellier Goudy, Nantes 
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791381434/007_tlozpf.jpg)
 
 2025 - *VISAGES D'UN CHANTIER NAVAL* (collective)\
-Biennale USIMAGES organisée par Diaphane Centre photographique\
+Biennale USIMAGES irganisée par Diaphane Centre photographique\
 des Hauts de France
 
 <br/>
@@ -24,7 +24,7 @@ des Hauts de France
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315480/001_d1d9cf.jpg)
 
 2019 - *INTERMISSIONS* (solo)\
-Organisé par DI MEZZO au Le Cloître Ouvert, Paris 8e 
+Produite par Smart Appart et organisé par DI MEZZO au Le Cloître Ouvert, Paris 8e 
 
 <br/>
 
@@ -80,8 +80,9 @@ International Hipa Award, honorable mention
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791539406/Bonniol_CAUE44_eimxub.jpg)
 
-2013 *\- VOIR LE DEDANS DES MURS* produite par le C.A.U.E. de Loire-Atlantique,\
-Cours d’accueil de l’ancienne maison d’arrêt de Nantes (solo)
+2013 *\- VOIR LE DEDANS DES MURS* (solo)\
+Produite par C.A.U.E. de Loire-Atlantique,\
+Cours d’accueil de l’ancienne maison d’arrêt de Nantes 
 
 <br/>
 
