@@ -8,7 +8,8 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315479/000_l2rthf.jpg)
 
-2025 - *SIMPLES SAUVAGES*, festival Confluence #2 prairie Cellier Goudy, Nantes
+2025 - *SIMPLES SAUVAGES*\
+festival Confluence #2 prairie Cellier Goudy, Nantes (solo)
 
 <br/>
 
