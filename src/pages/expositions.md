@@ -56,6 +56,8 @@ invert_text_color: false
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791538012/010_vxymzw.jpg)
 
+2012 *Visions acoustiques*, Galerie RDV et la 16è QPN, Nantes (solo)
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791537912/2010-voies-off_gnyrgr.jpg)
