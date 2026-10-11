@@ -54,8 +54,10 @@ gallery:
 >
 > 1 impression pigmentaire, montage sur dibond, encadrement caisse américaine chêne 112 x 140 cm
 >
+> <br/>
+>
 > Exposition :
 >
-> 2o25, festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France (solo)
+> 2o25, *Visages d'un chantier naval*,festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France (solo)
 >
 > 2019, *Visages d'un chantier naval*, Galerie Hazy, Le Pouliguen (solo)
