@@ -48,11 +48,25 @@ gallery:
 
 <br/>
 
-Lieu d’accueil pour les scientifiques travaillant avec les quatre télescopes géants du VLT (Very Large Telescope), cet hotel totalement coupé du monde est basé sur les flancs du mont Paranal à 2600m d’altitude, dans le désert côtier de l’Atacama au Chili.
+StarTrack est un voyage dans la cordilière des Andes, vers les siteschiliens d'observation astronomique. 
 
-Le bâtiment parfaitement intégré à la pente du site présente toute-fois une singularité peu commune pour un hôtel : il est déserté à la tombée de la nuit du fait de l’usage nocturne du VLT.
+Routes,pistes, sentiers, traces. 
 
-A l’intérieur de l’hotel, la coupole de verre - par laquelle une végétation luxuriante s’abreuve de lumière pour réguler l’hygrométrie du bâti-ment est occultée la nuit afin que la pureté du ciel ne soit parasité d’aucune source lumineuse durant l’observation des étoiles.
+Lechantier des antennes géantes d'ALMA en attente d'un ordre demarche. 
+
+L'hoteldéserté à la tombée de la nuit pour l'usage nocturne du VLT. 
+
+
+
+
+
+
+
+Very Large Telescope. Mont Paranal, 2400m d'altitude, Chili.
+
+Atacama Large Millimeter/Submillimiter Array. Plateau de Chajnantor , 5000m d'altitude, Chili.
+
+
 
 <br/>
 
