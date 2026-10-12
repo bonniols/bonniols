@@ -239,9 +239,7 @@ Impression : Grenier (94)
 
 *CACUSIO* \
 Atelier Polyhedre / Baptiste Ymonet & Vincent Jousseaume \
-Dépliant édité pour l'inauguration du 1% artistique pour la construction\
-du Ceisam, institut de chimie moléculaire,  Université de Nantes,\
-par l'agence Forma 6.\
+Dépliant édité pour l'inauguration du 1% artistique pour la construction du Ceisam, institut de chimie moléculaire,  Université de Nantes, par l'agence Forma 6.\
 2013 - Format A1 841 mm x 594 mm\
 Imprimeur : Chiffoleau, Nantes
 
