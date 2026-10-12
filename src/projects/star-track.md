@@ -34,7 +34,13 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_083_pzn3sd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/_DSC7117_cryj83.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773607/Bonniol_photographie_085_olm9ds.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773598/BONNIOL_086_tbghmu.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1791799663/S.Bonniol_Bolivie_juin10_017_t34psb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1791799662/assemblage16_dodf5r.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1791799660/S.Bonniol_Bolivie_juin10_039_rbtdih.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1791799656/S.Bonniol_Bolivie_juin10_005_esmghv.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1791799653/GrandTelescope1_w7cid4.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1791799648/ALMA_054_wh14hs.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1791799648/assemblage5.4_uwb1ph.jpg
 ---
 # 2010
 
