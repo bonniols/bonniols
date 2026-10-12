@@ -33,14 +33,13 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_081_zhrx2s.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773606/Panorama_sans_titre100_exc3mr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773602/Bonniol_photographie_082_qibbhk.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1791803837/S.Bonniol_Bolivie_juin10_035_lcszmm.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773584/_DSC7162_x4bbam.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773595/Bonniol_photographie_084_sjrxjq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_083_pzn3sd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773607/Bonniol_photographie_085_olm9ds.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799653/GrandTelescope1_w7cid4.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/_DSC7117_cryj83.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799648/assemblage5.4_uwb1ph.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/_DSC7117_cryj83.jpg
 ---
 # 2010
 
