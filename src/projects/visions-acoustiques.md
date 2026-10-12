@@ -2,7 +2,7 @@
 title: VISIONS ACOUSTIQUES
 order: 8
 show_in_nav: true
-background_color: "#cdbfbf"
+background_color: "#eaf0ff"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790344956/038_gcg3kr.jpg
@@ -19,10 +19,10 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790343658/009_wm37h0.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081971/Visions_acoustiques_028_cv8mux.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790344799/251121_acoustic_institute_027_oyafpy.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790344802/251121_acoustic_institute_051_3_sn2twf.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790330745/Visions_acoustiques_030_xbull3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081961/Visions_acoustiques_023_zul1sm.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790340537/002_jlbsyf.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790344802/251121_acoustic_institute_051_3_sn2twf.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790330745/Visions_acoustiques_030_xbull3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790330747/Visions_acoustiques_032_auulcn.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790330756/Visions_acoustiques_036_lg1xtj.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790330749/Visions_acoustiques_034_lntgp3.jpg
