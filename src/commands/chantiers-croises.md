@@ -15,6 +15,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791728202/150528_CIAP_HD_072_norq0k.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791728195/140619_CIAP_021_v9qa9t.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791728206/150528_CIAP_HD_079_qnlb1t.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1791805734/140703_CIAP_028_wpjqdx.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791728199/140709_CIAP_034_modjmb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243782/150217_w7q3li.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243771/140703_j1ymqh.jpg
