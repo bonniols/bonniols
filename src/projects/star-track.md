@@ -27,12 +27,13 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773599/ALMA_102_lfutys.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799663/S.Bonniol_Bolivie_juin10_017_t34psb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773589/Bonniol_photographie_077_tlo02e.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773602/Bonniol_photographie_082_qibbhk.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799662/assemblage16_dodf5r.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773603/Bonniol_photographie_079_ewtx3g.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773584/_DSC6662.3_lhpmsb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773591/Bonniol_photographie_080_olijro.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_081_zhrx2s.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773606/Panorama_sans_titre100_exc3mr.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773602/Bonniol_photographie_082_qibbhk.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773584/_DSC7162_x4bbam.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773595/Bonniol_photographie_084_sjrxjq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_083_pzn3sd.jpg
