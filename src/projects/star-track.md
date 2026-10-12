@@ -53,3 +53,11 @@ Lieu d’accueil pour les scientifiques travaillant avec les quatre télescopes
 Le bâtiment parfaitement intégré à la pente du site présente toute-fois une singularité peu commune pour un hôtel : il est déserté à la tombée de la nuit du fait de l’usage nocturne du VLT.
 
 A l’intérieur de l’hotel, la coupole de verre - par laquelle une végétation luxuriante s’abreuve de lumière pour réguler l’hygrométrie du bâti-ment est occultée la nuit afin que la pureté du ciel ne soit parasité d’aucune source lumineuse durant l’observation des étoiles.
+
+<br/>
+
+> Parution :\
+> Juillet 2011 - Ca m'intéresse - "Le chantier de la démesure" texte de Mathieu Grousson\
+> 2010 - La banque des savoirs (Essone) - "Une nuit au VLT"
+>
+>
