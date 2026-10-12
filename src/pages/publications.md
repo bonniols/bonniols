@@ -196,6 +196,7 @@ Musée de l'Imprimerie de Nantes\
 <br/>
 
 *CHANTIERS CROISES*
+\
 Edition D'un dépliant\
 Janvier 2017 - format 700 x 1000 mm (A0)\
 Imprimeur : VALPG, Nantes
