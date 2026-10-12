@@ -25,6 +25,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799648/ALMA_054_wh14hs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773605/Bonniol_Portfolio_049_g8il2u.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773599/ALMA_102_lfutys.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1791799663/S.Bonniol_Bolivie_juin10_017_t34psb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773589/Bonniol_photographie_077_tlo02e.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773602/Bonniol_photographie_082_qibbhk.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799662/assemblage16_dodf5r.jpg
@@ -42,8 +43,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/_DSC7117_cryj83.jpg
 ---
 # 2010
-
-
 
 <br/>
 
@@ -67,4 +66,4 @@ Crépuscules, nébuleuses, constellations, horizon.
 
 > Parutions :\
 > Juillet 2011 - Ca m'intéresse - "Le chantier de la démesure" texte de Mathieu Grousson\
-> 2010 - La banque des savoirs (Essone) - "Une nuit au VLT"
+> Septembre 2010 - La banque des savoirs (Essone) - "Une nuit au VLT"
