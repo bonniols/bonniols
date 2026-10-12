@@ -48,30 +48,21 @@ gallery:
 
 <br/>
 
-StarTrack est un voyage dans la cordilière des Andes, vers les siteschiliens d'observation astronomique. 
+*Star Track* est un voyage dans la cordillère des Andes, à travers les déserts d'Uyuni, du sud Lipez, de l'Atacama et les sites chiliens d'observation astronomique.
 
-Routes,pistes, sentiers, traces. 
+Routes, pistes, sentiers, traces. \
+Roche, sable, sel, poussière. \
+Telescopes, paraboles, optiques, asphalte.
 
-Lechantier des antennes géantes d'ALMA en attente d'un ordre demarche. 
+Le chantier des antennes géantes d'ALMA<sup>1</sup> en attente d'un ordre de marche. \
+L'hôtel déserté à la tombée de la nuit pour l'usage nocturne du VLT <sup>2</sup>. 
 
-L'hoteldéserté à la tombée de la nuit pour l'usage nocturne du VLT. 
-
-
-
-
-
-
-
-Very Large Telescope. Mont Paranal, 2400m d'altitude, Chili.
-
-Atacama Large Millimeter/Submillimiter Array. Plateau de Chajnantor , 5000m d'altitude, Chili.
-
-
+> <sup>1</sup> *Very Large Telescope*. Mont Paranal, 2400m d'altitude, Chili.
+>
+> <sup>2</sup> *Atacama Large Millimeter/Submillimiter Array*. Plateau de Chajnantor , 5000m d'altitude, Chili.
 
 <br/>
 
-> Parution :\
+> Parutions :\
 > Juillet 2011 - Ca m'intéresse - "Le chantier de la démesure" texte de Mathieu Grousson\
 > 2010 - La banque des savoirs (Essone) - "Une nuit au VLT"
->
->
