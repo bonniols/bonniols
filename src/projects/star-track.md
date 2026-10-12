@@ -19,6 +19,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773604/Bonniol_photographie_088_gppyfz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773604/Bonniol_photographie_087_nn4aha.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773604/Bonniol_photographie_089_bmph1y.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1791803837/S.Bonniol_Bolivie_juin10_035_lcszmm.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791803834/ALMA_028_zpfnuc.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773603/Bonniol_Portfolio_045_lo9xwr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799648/ALMA_054_wh14hs.jpg
