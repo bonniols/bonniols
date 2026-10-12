@@ -50,12 +50,15 @@ gallery:
 
 *Star Track* est un voyage dans la cordillère des Andes, à travers les déserts d'Uyuni, du sud Lipez, de l'Atacama et les sites chiliens d'observation astronomique.
 
-Routes, pistes, sentiers, traces. \
-Roche, sable, sel, poussière. \
-Telescopes, paraboles, optiques, asphalte.
-
 Le chantier des antennes géantes d'ALMA<sup>1</sup> en attente d'un ordre de marche. \
 L'hôtel déserté à la tombée de la nuit pour l'usage nocturne du VLT <sup>2</sup>. 
+
+Routes, pistes, sentiers, traces. 
+Roches, sable, sel, poussières. 
+Téléscopes, paraboles, optiques, balises.
+Crépuscules, nébuleuses, constellations, horizon.
+
+<br/>
 
 > <sup>1</sup> *Very Large Telescope*. Mont Paranal, 2400m d'altitude, Chili.
 >
