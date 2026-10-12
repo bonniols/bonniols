@@ -6,8 +6,6 @@ background_color: "#0a2028"
 invert_text_color: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/06062010-_DSC7789_wwobo4.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773593/06062010-_DSC7798_gpje9p.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773589/06062010-_DSC7794_wd7ytj.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773740/S.Bonniol_Bolivie_juin10_044_clooqf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773676/S.Bonniol_Bolivie_juin10_027_2_p5pkzt.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773806/S.Bonniol_Bolivie_juin10_047_oneqmd.jpg
