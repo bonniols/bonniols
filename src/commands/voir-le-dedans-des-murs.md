@@ -13,6 +13,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243695/Bonniol_photographie_008_vhmler.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243689/039_hluoes.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243694/Bonniol_photographie_006_zud7hx.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790243689/170.1_e7zrnw.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243694/Bonniol_photographie_007_wis3x2.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243693/bonniol_architecture_019_owgych.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243693/bonniol_architecture_018_ze6wgu.jpg
