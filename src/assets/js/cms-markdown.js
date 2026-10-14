@@ -4,6 +4,7 @@
         ['center', 'md-align-center'],
         ['right', 'md-align-right'],
         ['left', 'md-align-left'],
+        ['narrow', 'md-narrow'],
     ];
 
     function addAlignContainers(md) {

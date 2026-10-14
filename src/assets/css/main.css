@@ -219,7 +219,17 @@
             @apply text-left;
         }
 
-        :is(.md-align-center, .md-align-right, .md-align-left) > * + * {
+        .md-narrow {
+            @apply w-full;
+        }
+
+        @media (min-width: 768px) {
+            .md-narrow {
+                max-width: 478px;
+            }
+        }
+
+        :is(.md-align-center, .md-align-right, .md-align-left, .md-narrow) > * + * {
             @apply mt-4;
         }
     }
