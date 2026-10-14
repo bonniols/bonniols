@@ -10,11 +10,11 @@ Pendant plus de quinze ans j’ai travaillé en immersion photographique dans le
 
 Agir avec le paysage peut nous mettre en chemin. 
 
-A mon sens, le paysage n’est pas qu'une description des étendues bornées par une administration ou par la vue.  J’aime le voir au contraire comme un chantier participatif aux motifs géographiques changeant et aux capacités transformatrices convoquant villes et campagnes, humains et *autres qu’humains* <sup>2</sup> à interagir en permanence. 
+A mon sens, le paysage n’est pas qu'une description des étendues bornées par une administration ou par la vue.  J’aime le voir comme un chantier participatif aux motifs géographiques changeant et aux capacités transformatrices, convoquant villes et campagnes, humains et *autres qu’humains* <sup>2</sup> à interagir en permanence. 
 
 Ainsi je m’appuie sur cet univers de signes fluctuants pour sentir la variété des expressions paysagères : les photographier me permet de les traduire en récits visuels pour suggérer toutes sortes de relations entre les lieux et leurs occupants. 
 
-La portée politique et psychique de ces espaces propices à *la robustesse du vivant* <sup>3</sup> sont quelques unes des raisons éthiques et esthétiques que le photographe peut promouvoir avec le paysage.
+La portée  psychique et politique de ces espaces propices à *la robustesse du vivant* <sup>3</sup> sont quelques unes des raisons éthiques et esthétiques que je souhaite promouvoir avec le paysage.
 
 <br/>
 

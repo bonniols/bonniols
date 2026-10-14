@@ -12,8 +12,8 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/bonniol_architecture_010_oqwqoc.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243695/Bonniol_photographie_008_vhmler.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243689/039_hluoes.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790243689/170.1_e7zrnw.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243694/Bonniol_photographie_006_zud7hx.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790243689/170.1_e7zrnw.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243694/Bonniol_photographie_007_wis3x2.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243693/bonniol_architecture_019_owgych.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243693/bonniol_architecture_018_ze6wgu.jpg
@@ -26,6 +26,8 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44004_nsgqoz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44002_yy5yrg.jpg
 ---
+
+
 # 2010 - 2012
 
 ## Chantier de réhabilitation de l’ancien Palais de Justice de Nantes.
@@ -33,6 +35,10 @@ gallery:
 ## Carte Blanche confiée par Altarea Cogedim.
 
 <br/>
+
+<br/>
+
+:::right
 
 > *Voir le dedans des murs*
 >
@@ -51,6 +57,10 @@ gallery:
 > *Apaiserait.*
 >
 > *Eugène Guillevic – Exécutoire, 1947*
+
+:::
+
+<br/>
 
 <br/>
 
@@ -72,7 +82,7 @@ gallery:
 >
 > Exposition (CAUE 44)  :
 >
-> "Voir le dedans des murs" produite par le C.A.U.E. de Loire-Atlantique, Cours d’accueil de l’ancienne maison d’arrêt de Nantes, 2013. 
+> 2013 *\- VOIR LE DEDANS DES MURS,* produite par le C.A.U.E. de Loire-Atlantique, Cours d’accueil de l’ancienne maison d’arrêt de Nantes (solo)
 >
 > Scénographie : Dany Cartron. 
 >

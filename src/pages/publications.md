@@ -6,7 +6,34 @@ invert_text_color: false
 ---
 <br/>
 
-![](https://res.cloudinary.com/yxpagolc/image/upload/v1791391454/006_hkopae.jpg)
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791392902/006_avx95z.jpg)
+
+<br/>
+
+REVUE 303 N°188 / BÉTON\
+Février 2026 - 96 pages - Format : 225 x 300 mm \
+ISBN : 978-2-487296-16-9
+
+<br/>
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791628156/014_fzzxhp.jpg)
+
+<br/>
+
+ELEPHANTART Mémoires d'éléphants\
+Décembre 2025 - 1192 pages - Format : 225 x 300 x 65 mm\
+3000 exemplaires\
+ISBN : 978-2-9553-7951-6\
+Le catalogue du projet « *Mémoires d’éléphant* » pour la sauvegarde\
+des espèces animales en voie de disparition, rassemble des œuvres\
+dédiées aux éléphants et reflète 952 pensées créatrices d’artistes\
+de 58 pays. Ces œuvres nous feront prendre conscience de \
+la disparition d’espèces animales, dont l’éléphant\
+est une des images emblématiques.
+
+<br/>
 
 <br/>
 
@@ -14,9 +41,85 @@ invert_text_color: false
 
 <br/>
 
+REVUE 303 N°186 / PAQUEBOTS ET CHANTIERS DE SAINT-NAZAIRE\
+Carte Blanche pour VISAGES D'UN CHANTIER NAVAL\
+Texte de Bernard Renoux "Les chantiers, un vaisseau spécial" \
+Juillet 2025 - 96 pages - Format : 225 x 300 mm\
+ISBN : 978-2-487296-02-2\
+Avec le soutien des Chantiers de l’Atlantique, Saint-Nazaire
+
+<br/>
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791721241/017_jhdj9c.jpg)
+
+<br/>
+
+A+U 648 24:09 Dwelling in France\
+TWIST HOUSE / Avignon Architecte\
+Editions Shinkenchiku-sha\
+Janvier 2024 - 168 pages - Format : 290 x 220 mm\
+ISBN : 9784900213074
+
+<br/>
+
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791536192/007_lg5jo8.jpg)
 
+<br/>
+
+CAHIER ARCHITECTURE / CAHIER GRAPHIQUE\
+Documentation de chantier de la Halle 6 Est à Nantes de 2018 à 2021\
+Conception architecturale : Banjamin Avignon\
+Graphisme et signalétique : Nicolas Gautron\
+Typographie : Benoît Bodhuin\
+Photographie : Sylvain Bonniol\
+Juin 2021 - 96 pages - Format : 160 x 220 mm\
+Edition NG + BB + SB\
+<br/>
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791629051/015_fdqi1g.jpg)
+
+<br/>
+
+REVUE 303 N°174 / LA HAUTEUR\
+Carte Blanche pour *R+14*
+\
+Texte de Bertrand Charles "R+14 ou le paysage déréalisé" \
+Janvier 2023 - 96 pages - Format : 225 x 300 mm\
+ISBN : 979-10-93572-86-4
+
+<br/>
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791721239/016_wazvdb.jpg)
+
+<br/>
+
+A VIVRE trimestriel, hors série n°50 Spécial Outdoor\
+Couverture et portfolio TOPLESS HOUSE - Avignon Architecte\
+Mai 2021 - 100 pages - Format 210 x 280 mm\
+ISSN : 1625-7456
+
+<br/>
+
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317331/001_dfijzv.jpg)
+
+<br/>
+
+REVUE 303 HORS-SÉRIE N°156 / LA MER \
+Direction éditoriale : Thierry Pelloquet\
+Avril 2019 - 256 pages - Format : 220 x 300 mm\
+ISBN : 979-10-93572-37-6
+
+<br/>
 
 <br/>
 
@@ -24,11 +127,26 @@ invert_text_color: false
 
 <br/>
 
-![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317332/002_vf1jov.jpg)
+VISAGES D'UN CHANTIER NAVAL - Editions de La Martinière\
+Photographies et textes : Sylvain Bonniol\
+Préface de Laurent Castaing, DG des Chantiers de l'Atlantique\
+Achevé d'imprimé en novembre 2017 sur les presses d'EBS en Italie\
+Janvier 2018 - 224 pages - 250 mm x 290 mm \
+ISBN 2732478245
 
 <br/>
 
-![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317333/003_cywqoc.jpg)
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791716147/002_ordln1.jpg)
+
+<br/>
+
+R+14 - Fisheye Magazine (en ligne)\
+Article "La ville à travers des jumelles" de Lou Tsatsas\
+Mars 2018
+
+<br/>
 
 <br/>
 
@@ -36,4 +154,110 @@ invert_text_color: false
 
 <br/>
 
+303 HORS-SÉRIE N°175 PAYSAGES PHOTOGRAPHIÉS\
+*"Photographe chercheur en immersion"*, texte de Mai Tran\
+Avril 2023 - 256 pages - Format : 225 x 300 mm\
+ISBN : 979-10-93572-87-1
+
+<br/>
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791317333/003_cywqoc.jpg)
+
+<br/>
+
+A VIVRE  n°102 - Visitez 500 maisons d'archtiectes\
+Couverture et portfolio *ALL OUT HOUSE* - Avignon Architecte \
+Juillet-Aout 2018 - 100 pages - Format 210 x 280 mm \
+ISSN : 1625-7456
+
+<br/>
+
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791539197/_DSC9775_ubst1y.jpg)
+
+<br/>
+
+*EXPEDITION SUR PLACE RECOMMANDEE*\
+16 carte postales d'architecture moderne\
+Novembre 2014 - 100 mm x 150 mm\
+25 exemplaires numérotés et signés\
+Edition conjointe : galerie RDV, Comité de Vigilance Brutaliste\
+Réalisé en  Similigravure sur Papier Ensocoat 350g\
+Musée de l'Imprimerie de Nantes\
+<br/>
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791724809/019_ukdda6.jpg)
+
+<br/>
+
+*CHANTIERS CROISES*
+\
+Edition d'un dépliant recto/verso\
+Janvier 2017 - format 700 x 1000 mm (A0)\
+Imprimeur : VALPG, Nantes
+
+<br/>
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791626911/20261010_111819-01_ym2yzv.jpg)
+
+<br/>
+
+*CHANTIERS CROISES*\
+Edition de 79 cartes postales\
+Janvier 2017 - format 100 x 150 mm\
+Imprimeur : VALPG, Nantes
+
+<br/>
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791627285/011_rnlbg4.jpg)
+
+<br/>
+
+*DES INDUSTRIES ET DES HOMMES*\
+Catalogue de l'exposition éponyme\
+Carte blanche confiée par la Région des Pays de la Loire \
+sur la diversité du tissu industriel ligérien\
+Janvier 2014 - 80 pages - 210 mm x 210 mm\
+Impression : Grenier (94)
+
+<br/>
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791626590/012_ovavnf.jpg)
+
+<br/>
+
+*CACUSIO* \
+Atelier Polyhedre / Baptiste Ymonet & Vincent Jousseaume \
+Dépliant édité pour l'inauguration du 1% artistique pour la construction du Ceisam, institut de chimie moléculaire,  Université de Nantes, par l'agence Forma 6.\
+2013 - Format A1 841 mm x 594 mm\
+Imprimeur : Chiffoleau, Nantes
+
+<br/>
+
+<br/>
+
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1791627545/3951-01_bs9dh5.jpg)
+
+<br/>
+
+*L'ARCHE DES ANIMAUX*\
+Edition d'un "carnet de voyage" en 16 cartes postales détachables\
+à l'occasion de l'exposition "L'arche des animaux",\
+l'art forain à l'Abbaye de Fontevraud.\
+Juin 2009 - 16 pages - 110 mm x 180 mm \
+ISBN 9782951328150
+
+<br/>
+
+<br/>

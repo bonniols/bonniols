@@ -28,4 +28,31 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243925/20210819_175005-01_thflfp.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243926/20210819_175037-01_lcixtb.jpg
 ---
-Carte blanche  sur le chantier des la halles 6 est, Nantes.
+# Documentation du chantier de 2018 à 2021
+
+Conception architecturale : Benjamin Avignon\
+Maitre d'ouvrage : Quartus Résidentiel
+
+<br/>
+
+*"Expérimenter l'espace dans toutes ses dimensions et révéler les singularités architecturales et patrimoniales du bâtiment.*\
+*Un jeu de calepinage et d'usinage de l'enveloppe pour faire apparaitre en spectre les traces du passé.*\
+*Une réécriture architecturale qui met en scène les situations de travail.*\
+*Mixité des espaces, traversée visuelles captant la lumière de toute part.*\
+*Un quartier dans le quartier de la création"*
+
+*Texte : Nicolas Gautron*
+
+<br/>
+
+> 96 m x 23 m x 14 m\
+> 6051m2
+>
+> RDC + 3 niveaux\
+> 1 rue intérieure\
+> 2 moteurs\
+> 3 atriums
+>
+> 44 bureaux\
+> 1 hôtel d'entreprises\
+> 2 incubateurs
