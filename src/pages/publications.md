@@ -4,6 +4,7 @@ slug: publications
 background_color: "#fff7a4"
 invert_text_color: false
 ---
+:::narrow
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791392902/006_avx95z.jpg)
@@ -26,12 +27,7 @@ ELEPHANTART Mémoires d'éléphants\
 Décembre 2025 - 1192 pages - Format : 225 x 300 x 65 mm\
 3000 exemplaires\
 ISBN : 978-2-9553-7951-6\
-Le catalogue du projet « *Mémoires d’éléphant* » pour la sauvegarde\
-des espèces animales en voie de disparition, rassemble des œuvres\
-dédiées aux éléphants et reflète 952 pensées créatrices d’artistes\
-de 58 pays. Ces œuvres nous feront prendre conscience de \
-la disparition d’espèces animales, dont l’éléphant\
-est une des images emblématiques.
+Le catalogue du projet « *Mémoires d’éléphant* » pour la sauvegarde des espèces animales en voie de disparition, rassemble des œuvres dédiées aux éléphants et reflète 952 pensées créatrices d’artistes de 58 pays. Ces œuvres nous feront prendre conscience de la disparition d’espèces animales, dont l’éléphant est une des images emblématiques.
 
 <br/>
 
@@ -261,3 +257,4 @@ ISBN 9782951328150
 <br/>
 
 <br/>
+:::
