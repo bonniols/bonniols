@@ -2,8 +2,8 @@
 title: STARESO
 order: 3
 show_in_nav: true
-background_color: "#b8ab90"
-invert_text_color: false
+background_color: "#515031"
+invert_text_color: true
 use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350327/2019_STARESO_HD_001_hboha6.jpg
@@ -37,7 +37,7 @@ gallery:
 ---
 # 2019
 
-## Résidence photographique, Station de Recherches Sous-marines et Océanographiques de Calvi, Corse
+# Résidence photographique, Station de Recherches Sous-marines et Océanographiques de Calvi, Corse
 
 <br/>
 
