@@ -2,7 +2,7 @@
 title: JARDIN EXTRAORDINAIRE
 order: 0
 show_in_nav: true
-background_color: "#FFFFFF"
+background_color: "#fdff8e"
 invert_text_color: false
 use_background_color_in_slider: true
 gallery:
