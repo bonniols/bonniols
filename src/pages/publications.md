@@ -112,6 +112,7 @@ ISSN : 1625-7456
 
 REVUE 303 HORS-SÉRIE N°156 / LA MER \
 Direction éditoriale : Thierry Pelloquet\
+Texte de David Liaudet "le chantier naval"\
 Avril 2019 - 256 pages - Format : 220 x 300 mm\
 ISBN : 979-10-93572-37-6
 
