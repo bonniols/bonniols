@@ -22,7 +22,7 @@ Festival Confluence #2, prairie Cellier Goudy, Nantes
 <br/>
 
 2025 - *VISAGES D'UN CHANTIER NAVAL* (collective)\
-Biennale USIMAGES irganisée par Diaphane Centre photographique\
+Biennale USIMAGES irganisée par Diaphane Centre photographique
 des Hauts de France
 
 <br/>
@@ -78,7 +78,7 @@ Ecole Supérieure des Beaux Arts TALM, Le Mans
 <br/>
 
 2017 - *CHANTIERS CROISES* (solo)\
-Inauguration du Chronographe, \
+Inauguration du Chronographe,
 Centre d'Interprétation de l'Architecture et du Patrimoine, Rezé 
 
 <br/>
@@ -90,7 +90,7 @@ Centre d'Interprétation de l'Architecture et du Patrimoine, Rezé
 <br/>
 
 2015 - *L'AGE DE L'AIR* (collective)\
-Biennale Usimages organisée par Diaphane Centre photographique\
+Biennale Usimages organisée par Diaphane, Centre photographique
 des Hauts de France
 
 <br/>
