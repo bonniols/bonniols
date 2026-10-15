@@ -2,9 +2,9 @@
 title: CHANTIERS CROISES
 order: 5
 show_in_nav: true
-background_color: "#f8ffce"
+background_color: "#e3ffe7"
 invert_text_color: false
-use_background_color_in_slider: false
+use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243772/140709_1_sfss1r.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243766/140604_w5s72w.jpg
