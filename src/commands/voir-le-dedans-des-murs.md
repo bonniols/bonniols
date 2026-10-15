@@ -2,7 +2,7 @@
 title: VOIR LE DEDANS DES MURS
 order: 6
 show_in_nav: true
-background_color: "#553e5f"
+background_color: "#513357"
 invert_text_color: true
 use_background_color_in_slider: true
 gallery:
