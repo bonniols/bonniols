@@ -1,6 +1,6 @@
 ---
 title: CHANTIERS CROISES
-order: 3
+order: 5
 show_in_nav: true
 background_color: "#f8ffce"
 invert_text_color: false
