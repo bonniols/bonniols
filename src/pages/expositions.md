@@ -4,6 +4,7 @@ slug: Expositions
 background_color: "#ffd9d9"
 invert_text_color: false
 ---
+:::narrow
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791315479/000_l2rthf.jpg)
@@ -148,3 +149,4 @@ Galerie RDV et la 16è QPN, Nantes
 
 2010 - VISIONS ACOUSTIQUES \
 Festival Voies Off, Arles (collective)
+:::
