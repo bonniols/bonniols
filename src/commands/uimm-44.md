@@ -59,4 +59,4 @@ gallery:
 
 > Edition :\
 > Portfolio "Regard sur l'industrie" : 16 panoramiques au format 460 x 220 mm (sujet en 64 photos)\
-> Brochure du rapport annuel 2017-2018 UIMM 44 / La Fabrique d'avenri
+> Brochure du rapport annuel 2017-2018 UIMM 44 / La Fabrique d'avenir
