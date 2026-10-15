@@ -249,8 +249,8 @@ Imprimeur : Chiffoleau, Nantes
 <br/>
 
 *L'ARCHE DES ANIMAUX*\
-Edition d'un "carnet de voyage" en 16 cartes postales détachables\
-à l'occasion de l'exposition "L'arche des animaux",\
+Edition d'un "carnet de voyage" en 16 cartes postales détachables
+à l'occasion de l'exposition "L'arche des animaux",
 l'art forain à l'Abbaye de Fontevraud.\
 Juin 2009 - 16 pages - 110 mm x 180 mm \
 ISBN 9782951328150
