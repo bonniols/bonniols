@@ -5,6 +5,25 @@ show_in_nav: true
 background_color: "#FFFFFF"
 invert_text_color: false
 use_background_color_in_slider: true
+gallery:
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069587/180525_man_HD_002_vhp38r.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069576/180523_Bouhyer_HD_008_ampk8h.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069586/180525_man_HD_007_uw895l.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069584/180525_esapce_HD_009_q5jya4.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069583/180525_esapce_HD_008_ereynu.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069583/180523_Toyota_011_bx0kvo.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069582/180524_Crown_HD_001_jsribb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069583/180523_Toyota_003_r3tkov.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069583/180524_Crown_HD_003_endxpm.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069580/180523_Toyota_007_uqgfho.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069577/180523_Toyota_002_kz3apr.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069575/180522_RT_Defense_HD_005_vzgmrx.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069576/180522_Naval_HD_007_imyftm.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069576/180523_Bouhyer_HD_005_gxhzpn.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069576/180523_Bouhyer_HD_006_fdibak.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069573/180518_Lydall_HD_043_swdfkb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069575/180522_Naval_HD_006_ucn54c.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069575/180522_Naval_HD_002_c50hen.jpg
 ---
 <br/>
 
