@@ -4,6 +4,7 @@ order: 3
 show_in_nav: true
 background_color: "#b8ab90"
 invert_text_color: false
+use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350327/2019_STARESO_HD_001_hboha6.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273677/2019_STARESO_HD_009_1_gwluji.jpg
