@@ -1,45 +1,43 @@
 ---
 title: UIMM 44
 order: 2
-show_in_nav: true
-background_color: "#FFFFFF"
-invert_text_color: false
+show_in_nav: false
+background_color: "#4f3838"
+invert_text_color: true
 use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069587/180525_man_HD_002_vhp38r.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069576/180523_Bouhyer_HD_008_ampk8h.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069586/180525_man_HD_007_uw895l.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069584/180525_esapce_HD_009_q5jya4.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069583/180525_esapce_HD_008_ereynu.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069583/180523_Toyota_011_bx0kvo.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069582/180524_Crown_HD_001_jsribb.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069583/180523_Toyota_003_r3tkov.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069583/180524_Crown_HD_003_endxpm.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069582/180524_Crown_HD_001_jsribb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069580/180523_Toyota_007_uqgfho.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069577/180523_Toyota_002_kz3apr.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069583/180523_Toyota_011_bx0kvo.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069583/180523_Toyota_003_r3tkov.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069575/180522_RT_Defense_HD_005_vzgmrx.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069576/180522_Naval_HD_007_imyftm.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069576/180523_Bouhyer_HD_005_gxhzpn.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069576/180523_Bouhyer_HD_006_fdibak.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069576/180523_Bouhyer_HD_005_gxhzpn.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069576/180523_Bouhyer_HD_008_ampk8h.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069573/180518_Lydall_HD_043_swdfkb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069575/180522_Naval_HD_006_ucn54c.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069575/180522_Naval_HD_002_c50hen.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069574/180522_FRAMATOME_HD_011_abyomo.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069568/180516_FMGC_HD_030_ordqlq.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069576/180522_Naval_HD_007_imyftm.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069574/180522_FRAMATOME_HD_005_bulu9p.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069574/180518_STX_HD_052_w7wnjk.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069574/180522_FRAMATOME_HD_011_abyomo.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069573/180522_FRAMATOME_HD_001_shomb3.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_034_rdo6km.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_027_q2mklz.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069568/180516_FMGC_HD_030_ordqlq.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069567/180514_Halgand_HD_010_xhkton.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069570/180514_Selva_HD_006_w6138a.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069570/180514_Selva_HD_008_qjdylq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069573/180518_STX_HD_046_ifjner.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069572/180518_Lydall_HD_042_cvhggt.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069574/180518_STX_HD_052_w7wnjk.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069572/180518_Lydall_HD_045_uvpmgc.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_Idra_HD_024_qg3fth.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_Idra_HD_018_gcu9gg.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_034_rdo6km.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_027_q2mklz.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069570/180514_Selva_HD_008_qjdylq.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069570/180514_Selva_HD_006_w6138a.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069570/180514_Halgand_HD_013_xjtf2e.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069567/180514_Halgand_HD_010_xhkton.jpg
 ---
 <br/>
 
