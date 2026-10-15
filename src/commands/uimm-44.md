@@ -39,6 +39,10 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_Idra_HD_024_qg3fth.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_Idra_HD_018_gcu9gg.jpg
 ---
+
+
+# 2018 - Carte blanche confié par l'UIMM Loire Atlantique
+
 <br/>
 
 *«Voici un souvenir prégnant du début de mes études aux Beaux-Arts : un stage de six mois chez* Duchemin, Maîtres Orfèvres et Forgerons *au Mans. Du métal, j’en avais presque peur, mélange de fascination et de crainte. Mais ces artisans m’ont conduit à appréhender autrement ce matériau. Non pas froid mais ardent, non pas rude mais d’une infinie souplesse.*
@@ -54,5 +58,5 @@ gallery:
 <br/>
 
 > Edition :\
-> Portfolio de 16 panoramiques au format 460 x 220 mm (sujet en 64 photos)\
-> 2018 - Rapport annuel / UIMM Loire Atlantique
+> Portfolio "Regard sur l'industrie" : 16 panoramiques au format 460 x 220 mm (sujet en 64 photos)\
+> Brochure du rapport annuel 2017-2018 UIMM 44 / La Fabrique d'avenri
