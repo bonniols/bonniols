@@ -2,7 +2,7 @@
 title: UIMM 44
 order: 2
 show_in_nav: false
-background_color: "#4f3838"
+background_color: "#3e2525"
 invert_text_color: true
 use_background_color_in_slider: true
 gallery:
