@@ -6,7 +6,6 @@ background_color: "#3e2532"
 invert_text_color: true
 use_background_color_in_slider: true
 gallery:
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792085481/2015_lagedelair_010_lqtz50.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792085128/180525_man_HD_005_xhg6ql.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069587/180525_man_HD_002_vhp38r.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069586/180525_man_HD_007_uw895l.jpg
