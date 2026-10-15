@@ -1,6 +1,6 @@
 ---
 title: VISAGES D'UN CHANTIER NAVAL
-order: 3
+order: 4
 show_in_nav: true
 background_color: "#e8f7ff"
 invert_text_color: false
