@@ -4,6 +4,7 @@ order: 8
 show_in_nav: true
 background_color: "#eaf0ff"
 invert_text_color: false
+use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790344956/038_gcg3kr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790344799/037_plawnq.jpg
