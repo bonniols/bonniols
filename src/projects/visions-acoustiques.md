@@ -36,7 +36,8 @@ gallery:
 
 <br/>
 
-*"Visions acoustiques constitue une immersion photographique dans des laboratoires dédiés à l’acoustique (industrie, sciences et création sonore) où les phénomènes ondulatoires étudiés ne se formalisent pas dans le visible. Le travail photographique propose ici deux apporche : la première vise à documenter la découverte des lieux tels qu'ils m'apparaissent lors de mes visite, la deuxième réalisée dans un second temos s’attache à recomposer une image mentale de ces chambres d’études et tente de capter la part visuelle de l’invisible de l’onde acoustique."*
+*"Visions acoustiques est une immersion photographique dans des laboratoires dédiés à l’acoustique (industrie, sciences et création sonore)* \
+*Le travail photographique propose ici deux approches : la première vise à documenter les lieux pas à pas. La deuxième, réalisée dans un second temps, s’attache à recomposer une image mentale de ces chambres d’études et tente de capter la part visuelle de l’invisible des ondes acoustiques."*
 
 *Texte, Sylvain Bonniol*
 
@@ -49,15 +50,11 @@ gallery:
 > \- Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
 >  100 X 150 cm. 5 exemplaires signés et numérotés
 >
-> <br/>
->
 > Distinctions :
 >
 > \- Mention spéciale à la Bourse du Talent # 40
 >
 > \- Sélection aux Voies Off d’Arles 2010
->
-> <br/>
 >
 > Expositions :
 >
