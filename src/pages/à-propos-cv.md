@@ -8,7 +8,7 @@ invert_text_color: false
 
 <br/>
 
-« Les hommes se trompent quand ils se croient libres, opinion qui consiste en cela seul qu'ils sont conscients de leurs actes et ignorants des causes qui les déterminent » \
+« Les hommes se trompent quand ils se croient libres, opinion qui consiste en cela seul qu'ils sont conscients de leurs actes et ignorants des causes qui les déterminent. » \
 Spinoza (Ethique)
 
 :::
