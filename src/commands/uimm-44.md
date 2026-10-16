@@ -39,13 +39,13 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_034_rdo6km.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_027_q2mklz.jpg
 ---
-# 2018 - Carte blanche confié par l'UIMM Loire Atlantique
+# 2018 - Carte blanche confiée par l'UIMM Loire Atlantique
 
 <br/>
 
-*Voici un souvenir prégnant du début de mes études aux Beaux-Arts : un stage de plusieurs mois chez* Duchemin, Maîtres Orfèvres et Forgerons *au Mans. Du métal, j’en avais presque peur, mélange de fascination et de crainte. Mais ces artisans m’ont conduit à appréhender autrement ce matériau. Non pas froid mais ardent, non pas rude mais d’une infinie souplesse.*
+*Voici un souvenir prégnant de mes études : un stage de plusieurs mois chez* Duchemin, Maîtres Orfèvres et Forgerons *au Mans. Du métal, j’en avais presque peur, mélange de fascination et de crainte. Mais ces artisans m’ont conduit à appréhender autrement ce matériau. Non pas froid mais ardent, non pas rude mais d’une infinie souplesse.*
 
-*Lorsque que l’UIMM Loire-Atlantique m’a contacté pour réaliser un travail photographique sur le monde de la métallurgie industrielle, j’y ai vu l’opportunité de "forger" un peu plus mon regard. Pour révéler les arcanes de cet univers aux richesses iconographiques inépuisables, j’ai choisi de l'interpréter comme une fresque industrielle et patrimoniale. Mettre en perspective les jeux échelles, comprendre la pluralité des métaux, leurs façonnages, leurs usages, lerus visages, leurs lieux.*
+*Lorsque que l’UIMM Loire-Atlantique m’a contacté pour réaliser un travail photographique sur le monde de la métallurgie industrielle, j’y ai vu l’opportunité de "forger" un peu plus mon regard sur les arcanes de cet univers. A travers cette fresque industrielle, j'ai choisi de mettre en perspective les jeux échelles, comprendre la pluralité des métaux, leurs façonnages, leurs usages, leurs visages et leurs lieux.*
 
 *Je souhaite dédier que ce portfolio à la communauté de passionnés que j’ai eu la chance de rencontrer dans ces entreprises, "sans distinction de couleur de col". Merci à eux pour leur accueil et leur disponibilité.*
 
@@ -56,8 +56,6 @@ gallery:
 > Edition :\
 > Portfolio "Regard sur l'industrie" : 16 panoramiques au format 460 x 220 mm (sujet en 64 photos)\
 > Brochure du rapport annuel 2017-2018 UIMM 44 / La Fabrique d'avenir
->
-> <br/>
 >
 > Avec l'aimable coopération de :
 >
@@ -92,5 +90,3 @@ gallery:
 > NAVAL Group
 >
 > CHANTIER DE L'ATLANTIQUE
->
->
