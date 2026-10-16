@@ -34,30 +34,34 @@ gallery:
 
 ::: right
 
-"Le cosmos n’est pas la fondation des choses, il est leur mélange".  *Emmanuele Coccia, La vie des plantes, une métaphysique du mélange, édition Payot & Rivages, 2016.*
+*" Si les pensées sont vivantes et si ce qui vit pense,* \
+*alors peut-être le monde vivant est-il enchanté "* \
+*Edwardo Kohn <sup>1</sup>*
 
-"La vie croît en relation à ce qu’elle n’est pas". *Edwardo Kohn, Comment pensent les forêts : vers une anthropologie au-delà de l’humain, édition Zones sensibles, 2017.*
+
 :::
 
 <br/>
 
-*Lorsque nous arrivons avec ma compagne au fond du vallon de l’Ilette en 2018 dans le but d’y installer un atelier de peinture et un studio photo, je ne prête aucune attention au terrain qui agrémente la parcelle. Le confinement sera pourtant propice à une exploration approfondie de cet espace. Il se présente comme une friche à la lisère d’un bosquet et d’une prairie humide, classée ZNIEFF<sup>1</sup>, le long d’un corridor ornithologique.*
+*Lorsque nous arrivons avec ma compagne au fond du vallon de l’Ilette en 2018 dans le but d’y installer un atelier de peinture et un studio photo, je ne prête aucune attention au terrain qui agrémente la parcelle. Le confinement sera pourtant propice à une exploration approfondie de cet espace. Il se présente comme une friche à la lisère d’un bosquet et d’une prairie humide, classée ZNIEFF<sup>2</sup>, le long d’un corridor ornithologique.*
 
 *Dès 2019 je m’exile dehors, à ciel ouvert, intrigué par le caractère touffu et inextricable de cet environnement. Je documente activement mes explorations jusqu’aux méandre de l’Ilette, mais aussi mes gestes d’apprentissage de jardinier. Au gré des saisons, un paysage prend forme au-delà des limites de parcelle, suggérant d’autres parcours, d’autres points de vue, d’autres champs.*
 
-*Ici les marges du monde des humains sont le centre du monde des autres qu’humain<sup>2</sup>. Ce mélange et la profusion de signes qui en résulte me pousse à reconnaître, inventorier, herboriser. Mais pas seulement. Peu à peu, je tends l’oreille aux bruissements des animaux nocturnes, je prête une intériorité - une âme - aux présences fantomatiques du marais, aux insectes mimétiques et à l’altérité végétale. Le jardin, à la croisée d’autres mondes visibles et invisibles, s’enrichie de nourritures terrestres et spirituelles et prend part aux divers écotones<sup>3</sup> alentours.*
+*Ici les marges du monde des humains sont le centre du monde des autres qu’humain<sup>3</sup>. Ce mélange et la profusion de signes qui en résulte me pousse à reconnaître, inventorier, herboriser. Mais pas seulement. Peu à peu, je tends l’oreille aux bruissements des animaux nocturnes, je prête une intériorité - une âme - aux présences fantomatiques du marais, aux insectes mimétiques et à l’altérité végétale. Le jardin, à la croisée d’autres mondes visibles et invisibles, s’enrichie de nourritures terrestres et spirituelles et prend part aux divers écotones<sup>4</sup> alentours.*
 
-*Mon approche photographique, loin d’une tentative de « geler une icône paysagère close comme un musée »<sup>4</sup> se propose de travailler par hybridation d’images et résonances : agencer observations pédestres, gestes de semailles et de récoltes, déplacements  oniriques et pratique buissonnière de l’auto-portrait. Ces champs d’investigations suggèrent non plus l’enceinte d’un jardin, mais une succession de décentrements paysagers que le photographe vise à amplifier.* 
+*Mon approche photographique, loin d’une tentative de « geler une icône paysagère close comme un musée »<sup>5</sup> se propose de travailler par hybridation d’images et résonances : agencer observations pédestres, gestes de semailles et de récoltes, déplacements  oniriques et pratique buissonnière de l’auto-portrait. Ces champs d’investigations suggèrent non plus l’enceinte d’un jardin, mais une succession de décentrements paysagers que le photographe vise à amplifier.* 
 
 <br/>
 
-> *<sup>1</sup> ZNIEFF, zone nationale d’intérêt écologique faunistique et floristique.*
+> *<sup>1</sup> How forests think : Toward an Anthropology Beyond the Human, University of californa Press, 2013 (page 139 de l'édition française, 2017)*
 >
-> *<sup>2</sup> Autres qu’humains, expression de Philippe Descola, désigne les non-humains.*
+> *<sup>2</sup> ZNIEFF, zone nationale d’intérêt écologique faunistique et floristique.*
 >
-> *<sup>3</sup> Ecotones, désignent les transitions entres deux écosystèmes.*
+> *<sup>3</sup> Autres qu’humains, expression de Philippe Descola, désigne les non-humains.*
 >
-> *<sup>4</sup> Augustain Berque, La pensée paysagère qu’est-ce que cela veut dire, Paris, Pavillon de l’Arsenal, Conférence, 9 décembre 2017.*
+> *<sup>4</sup> Ecotones, désignent les transitions entres deux écosystèmes.*
+>
+> *<sup>5</sup> Augustain Berque, La pensée paysagère qu’est-ce que cela veut dire, Paris, Pavillon de l’Arsenal, Conférence, 9 décembre 2017.*
 
 \
 *Texte : Sylvain Bonniol*
