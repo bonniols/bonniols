@@ -29,7 +29,7 @@ Ainsi je m’appuie sur cet univers de signes fluctuants pour *sentir* la varié
 
 <br/>
 
-<sup>1</sup> Expression employée par Philippe Descola, pour définir humains etnon-humains.
+<sup>1</sup> Expression employée par Philippe Descola, pour définir humains et non-humains.
 
 <sup>2</sup> Olivier Hamant, « Antidote au culte de la performance / Larobustesse du vivant ». Tract Gallimard n°50, août 2023.
 
