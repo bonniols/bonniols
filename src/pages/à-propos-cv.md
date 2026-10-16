@@ -17,8 +17,9 @@ Spinoza (Ethique)
 
 <br/>
 
-Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y interroger la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. Pourtant derrière le théâtre fascinant de ces opérations prométhéennes, une question à la fois individuelle et collective persiste : comment désirons-nous vivre dans ce monde ? \
-Le confinement imposé lors de la pandémie de Covid m’a conduit comme beaucoup à méditer cette question de façon plus « situé ». Cette nouvelle disposition me projetait désormais dans un tout autre paradigme non plus observer ce qui s'impose, mais *agir avec le paysage*. 
+Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. Pourtant derrière le théâtre fascinant de ces opérations prométhéennes, une question individuelle et collective persiste : comment désirons-nous vivre dans ce monde ? 
+
+Le confinement imposé lors de la pandémie de Covid m’a conduit comme beaucoup à méditer cette question de façon plus « situé ». Cette nouvelle disposition me projetait désormais dans un tout autre paradigme : non plus observer ce qui s'impose, mais *agir avec le paysage*. 
 
 Mais le paysage n’est pas seulement la description des étendues bornées par une administration ou par la vue. Il est pluriel : naturel, urbain, industriel, scientifique, social. Contextuel par essence. Il est un chantier participatif aux motifs géographiques changeant et aux capacités transformatrices, convoquant villes et campagnes, humains et *autres qu’humains<sup>1</sup>* à interagir en permanence. 
 
