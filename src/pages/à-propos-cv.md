@@ -17,11 +17,11 @@ invert_text_color: false
 
 <br/>
 
-Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. Pourtant derrière le théâtre fascinant de ces opérations prométhéennes, une question individuelle et collective persiste : comment désirons-nous vivre dans ce monde ? 
+Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. Pourtant derrière le théâtre fascinant de ces opérations prométhéennes sans limites, une question individuelle et collective persiste : comment désirons-nous vivre dans ce monde ? 
 
-Le confinement imposé lors de la pandémie de Covid m’a conduit comme beaucoup à méditer cette question de façon plus « situé ». Cette nouvelle disposition me projetait désormais dans un tout autre paradigme : non plus observer ce qui s'impose, mais *agir avec le paysage*. 
+Le confinement imposé lors de la pandémie de Covid m’a conduit comme beaucoup à méditer cette question de façon plus « situé ». Cette nouvelle disposition me projetait désormais dans un tout autre paradigme photogrpahique : non plus observer ce qui s'impose, mais *agir avec le paysage*. 
 
-Le paysage n’est pas seulement la description des étendues bornées par une administration ou par la vue. Si le mot est devenu fourre-tout (paysages naturels, urbains, industriels, scientifiques, artistiques, sociaux, politiques...) il reste contextuel par essence. Et en tant que photographe il est un chantier participatif aux motifs géographiques changeant et aux capacités transformatrices, convoquant villes et campagnes, humains et *autres qu’humains<sup>1</sup>* à interagir en permanence. 
+Pourquoi le paysage ? Le paysage n’est pas seulement la description des étendues bornées par une administration ou par la vue. Si le mot est devenu fourre-tout (paysages naturels, urbains, industriels, scientifiques, artistiques, psyichiques, sociaux, politiques...) il reste contextuel par essence. A mes yeux il est un chantier participatif aux motifs géographiques changeant et aux capacités transformatrices, convoquant villes et campagnes, humains et *autres qu’humains<sup>1</sup>* à interagir en permanence. 
 
 Ainsi je m’appuie sur cet univers de signes fluctuants pour *sentir* la variété des expressions paysagères : les photographier pour suggérer toutes sortes de relations entre les lieux et leurs occupants. La portée psychique et politique de ces espaces propices à la *robustesse du vivant <sup>2</sup>* sont quelques unes des raisons éthiques et esthétiques que je souhaite promouvoir avec le paysage. 
 
