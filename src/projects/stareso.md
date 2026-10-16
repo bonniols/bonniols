@@ -2,7 +2,7 @@
 title: STARESO
 order: 3
 show_in_nav: true
-background_color: "#515031"
+background_color: "#282c16"
 invert_text_color: true
 use_background_color_in_slider: true
 gallery:
