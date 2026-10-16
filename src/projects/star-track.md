@@ -9,7 +9,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791804605/30052010-_DSC6220_lbru7u.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791804605/29052010-_DSC6140_qfvh2n.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791811220/SBonniol_Bolivie_juin10_005_ievic1.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1791811437/SBonniol_Bolivie_juin10_003_2_k3o7ne.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773676/SBonniol_Bolivie_juin10_027_2_p5pkzt.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773740/SBonniol_Bolivie_juin10_044_clooqf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799660/SBonniol_Bolivie_juin10_039_rbtdih.jpg
@@ -17,7 +16,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773603/Bonniol_Portfolio_046_qie5be.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773605/Bonniol_photographie_090_amogjo.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773604/Bonniol_photographie_089_bmph1y.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1791803837/SBonniol_Bolivie_juin10_035_lcszmm.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773603/Bonniol_Portfolio_045_lo9xwr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799648/ALMA_054_wh14hs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773605/Bonniol_Portfolio_049_g8il2u.jpg
@@ -28,16 +26,16 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799662/assemblage16_dodf5r.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773603/Bonniol_photographie_079_ewtx3g.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773584/_DSC66623_lhpmsb.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773591/Bonniol_photographie_080_olijro.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_081_zhrx2s.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773606/Panorama_sans_titre100_exc3mr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773584/_DSC7162_x4bbam.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/_DSC7117_cryj83.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773595/Bonniol_photographie_084_sjrxjq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_083_pzn3sd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773607/Bonniol_photographie_085_olm9ds.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1791799653/GrandTelescope1_w7cid4.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1791799648/assemblage54_uwb1ph.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/_DSC7117_cryj83.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792171485/16_xjcgzi.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792171486/vly2_xtgm9w.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792171484/vlt1_timipr.jpg
 ---
 # 2010
 
