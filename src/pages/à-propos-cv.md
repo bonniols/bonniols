@@ -32,9 +32,10 @@ Ainsi je m’appuie sur cet univers de signes fluctuants pour *sentir* la varié
 
 <br/>
 
-*« Les hommes se trompent quand ils se croient libres, opinion qui consiste en cela seul qu'ils sont conscients de leurs actes et ignorants des causes qui les déterminent. »* 
+*« Les hommes se trompent quand ils se croient libres, opinion qui consiste en cela seul qu'ils sont conscients de leurs actes et ignorants des causes qui les déterminent. »* \
 *Spinoza, L'Ethique*
 
-*« Ne me demandez pas qui je suis et ne me dites pas de rester le même : c'est une morale d'état civil. »* *Michel Foucault*
+*« Ne me demandez pas qui je suis et ne me dites pas de rester le même : c'est une morale d'état civil. »*\
+*Michel Foucault*
 
 :::
