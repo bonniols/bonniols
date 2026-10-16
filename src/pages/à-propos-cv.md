@@ -19,9 +19,9 @@ invert_text_color: false
 
 <br/>
 
-Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. Pourtant derrière le théâtre fascinant de ces opérations prométhéennes sans limites, une question individuelle et collective persiste : comment désirons-nous vivre dans ce monde ? 
+Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. Pourtant une question persiste à laquelle le théâtre fascinant de ces opérations prométhéennes ne répond toujours pas : comment désirons-nous vivre dans ce monde ? 
 
-Le confinement imposé lors de la pandémie de Covid m’a conduit comme beaucoup à méditer cette question de façon plus « situé ». Une tautologie pour un photographe ? Cette nouvelle disposition me projetait pourtant dans un tout autre paradigme photographique : ne plus observer ce qui s'impose de façon spectaculaire, mais *interférer avec nos paysages.*
+Le confinement imposé lors de la pandémie de Covid m’a conduit dans l'après-coup à méditer cette question de façon plus située et pour ainsi dire "à ciel ouvert". Une tautologie pour un photographe ? Cette nouvelle disposition me projetait néanmoins dans un tout autre paradigme photographique : ne plus observer ce qui en impose, mais *interférer avec nos paysages d'affects.*
 
 Pourquoi paysage ? Le paysage n’est pas seulement la description des étendues bornées par une administration ou par la vue. Si le mot est devenu fourre-tout (paysages naturels, urbains, industriels, scientifiques, artistiques, psychiques, sociaux, politiques...) il reste contextuel par essence. A mes yeux il est un chantier participatif aux motifs géographiques changeant et aux capacités transformatrices, convoquant villes et campagnes, humains et *autres qu’humains<sup>1</sup>* à interagir en permanence.
 
