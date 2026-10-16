@@ -39,19 +39,17 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_034_rdo6km.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_027_q2mklz.jpg
 ---
-
-
 # 2018 - Carte blanche confié par l'UIMM Loire Atlantique
 
 <br/>
 
-*«Voici un souvenir prégnant du début de mes études aux Beaux-Arts : un stage de six mois chez* Duchemin, Maîtres Orfèvres et Forgerons *au Mans. Du métal, j’en avais presque peur, mélange de fascination et de crainte. Mais ces artisans m’ont conduit à appréhender autrement ce matériau. Non pas froid mais ardent, non pas rude mais d’une infinie souplesse.*
+*«Voici un souvenir prégnant du début de mes études aux Beaux-Arts : un stage de plusieurs mois chez* Duchemin, Maîtres Orfèvres et Forgerons *au Mans. Du métal, j’en avais presque peur, mélange de fascination et de crainte. Mais ces artisans m’ont conduit à appréhender autrement ce matériau. Non pas froid mais ardent, non pas rude mais d’une infinie souplesse.*
 
-*Lorsque que l’UIMM Loire-Atlantique m’a contacté pour réaliser un travail photographique sur le monde de la métallurgie industrielle et ses secteurs d’activité, j’y ai vu immédiatement l’opportunité de forger un peu plus mon regard sur cet univers, d’en poursuivre l’exploration de ses arcanes : mettre en perspective les échelles gigantesques des chantiers navals et lu monde microscopique de l’électronique ; découvrir les matérialités métalliques les plus contrastées, les alchimies les plus secrètes, les usinages les plus rutilants.*
+*Lorsque que l’UIMM Loire-Atlantique m’a contacté pour réaliser un travail photographique sur le monde de la métallurgie industrielle, j’y ai vu immédiatement l’opportunité de "forger" un peu plus mon regard sur cet univers, d’en poursuivre l’exploration de ses arcanes : mettre en perspective les échelles paysagère des chantiers navals et du monde microscopique de l’électronique ; découvrir les matérialités métalliques contrastées, les alchimies concrètes, les usinages rutilants.*
 
-*C’est tout cela que m’a permis de photographier l’UIMM Loire-Atlantique pour ce portfolio que j’ai choisi d’interpréter comme une fresque, un panorama industriel et technique. Comprendre la pluralité des métaux, de leurs façonnages, de leurs usages.*
+*J’ai choisi d’interpréter ce monde métallurgique comme une fresque, un panorama industriel et technique. Comprendre la pluralité des métaux, leurs façonnages, leurs usages.*
 
-*Enfin je souhaite dédier que ce portfolio à cette communauté de passionnés, que j’ai eu la chance de rencontrer sur un ensemble de sites industriels d’une incroyable richesse iconographique. Merci à eux et aux entreprises qui m’ont accueilli.»*
+*Je souhaite dédier que ce portfolio à la communauté de passionnés que j’ai eu la chance de rencontrer dans ces entreprises, "sans distinction de couleur de col". Merci à eux pour leur accueil et leur disponibilité.»*
 
 *Texte : Sylvain Bonniol - Rapport annuel 2017-2018 UIMM Loire Atlantique*
 
@@ -60,3 +58,41 @@ gallery:
 > Edition :\
 > Portfolio "Regard sur l'industrie" : 16 panoramiques au format 460 x 220 mm (sujet en 64 photos)\
 > Brochure du rapport annuel 2017-2018 UIMM 44 / La Fabrique d'avenir
+>
+> <br/>
+>
+> Avec l'aimable coopération de :
+>
+> AIRBUS Operations SAS
+>
+> STELIA Aerospace
+>
+> ARQUUS
+>
+> LYDALL Thermique Acoustique
+>
+> SELVA
+>
+> FRAMATOME
+>
+> E.S.P.A.C.E.
+>
+> ALGAND
+>
+> MAN Diesel & Turbo France
+>
+> TOYOTA Material Handing Manufacturing France SAS
+>
+> CROWN Emballage France
+>
+> FMGC 
+>
+> FONDERIE BOUHYER
+>
+> IDRA Novaco
+>
+> NAVAL Group
+>
+> CHANTIER DE L'ATLANTIQUE
+>
+>
