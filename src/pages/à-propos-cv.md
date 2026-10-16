@@ -6,7 +6,7 @@ invert_text_color: false
 ---
 <br/>
 
-Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. Pourtant une question persiste à laquelle le théâtre fascinant de ces opérations prométhéennes ne répond toujours pas : comment désirons-nous vivre dans ce monde ? 
+Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. Pourtant une question persiste et à laquelle le théâtre fascinant de ces opérations prométhéennes ne répond pas : comment désirons-nous vivre dans ce monde ? 
 
 Le confinement imposé lors de la pandémie de Covid m’a conduit dans l'après-coup à méditer cette question de façon plus "située" tant sur le plan économique que sociétal. Cette nouvelle disposition me projetait dans un tout autre paradigme photographique : ne plus seulement observer "ce qui en impose", mais *interférer avec nos paysages d'affects.*
 
