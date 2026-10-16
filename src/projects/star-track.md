@@ -43,26 +43,27 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799648/assemblage54_uwb1ph.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/_DSC7117_cryj83.jpg
 ---
-
 # 2010
 
 <br/>
 
-_Star Track_ est un voyage dans la cordillère des Andes, à travers les déserts d'Uyuni, du sud Lipez, de l'Atacama et les sites chiliens d'observation astronomique.
+*Star Track* est un voyage dans la cordillère des Andes, à travers les déserts d'Uyuni, du sud Lipez, de l'Atacama et des sites chiliens d'observation astronomique.
+
+Routes, pistes, sentiers, traces.\
+Roches, sable, sel, poussière.
 
 Le chantier des antennes géantes d'ALMA<sup>1</sup> en attente d'un ordre de marche. \
 L'hôtel déserté à la tombée de la nuit pour l'usage nocturne du VLT <sup>2</sup>.
 
-Routes, pistes, sentiers, traces.
-Roches, sable, sel, poussières.
-Téléscopes, paraboles, optiques, balises.
+
+Téléscopes, paraboles, optiques, balises.\
 Crépuscules, nébuleuses, constellations, horizon.
 
 <br/>
 
-> <sup>1</sup> _Very Large Telescope_. Mont Paranal, 2400m d'altitude, Chili.
+> <sup>1</sup> *Very Large Telescope*. Mont Paranal, 2400m d'altitude, Chili.
 >
-> <sup>2</sup> _Atacama Large Millimeter/Submillimiter Array_. Plateau de Chajnantor , 5000m d'altitude, Chili.
+> <sup>2</sup> *Atacama Large Millimeter/Submillimiter Array*. Plateau de Chajnantor , 5000m d'altitude, Chili.
 
 <br/>
 
