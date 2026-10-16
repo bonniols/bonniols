@@ -37,14 +37,10 @@ gallery:
 ---
 # 2019
 
-# Résidence photographique, Station de Recherches Sous-marines et Océanographiques de Calvi, Corse
+Station de Recherches Sous-marines et Océanographiques de Calvi, Corse. Université de Lèges, architecte Claude Strebelle (1972)
 
 <br/>
 
-::: right
-*Station de Recherche Sous-marine*, **Université de Liège.** Architecte Claude Strebelle 1968-1972
-:::
 
-*" Ca a été réalisé par des ouvriers français de qualité inima-ginable. On avait dessiné des formes très courbes difficiles à réaliseret ils ont fait ça admirablement en béton et en pierre du pays, soitbrute, soit lissée par le temps".*
-
+*" Ca a été réalisé par des ouvriers français de qualité inimaginable. On avait dessiné des formes très courbes difficiles à réaliser et ils ont fait ça admirablement en béton et en pierre du pays, soit brute, soit lissée par le temps".* \
 *Claude Strebelle, au micro de François Chaslin, Métropolitain 392, 26 décembre 2007, à l’antenne de France Culture.*
