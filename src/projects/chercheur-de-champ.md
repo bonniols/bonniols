@@ -32,14 +32,16 @@ gallery:
 
 <br/>
 
+<br/>
+
 ::: right
 
 *" Si les pensées sont vivantes et si ce qui vit pense,* \
 *alors peut-être le monde vivant est-il enchanté "* \
 *Edwardo Kohn <sup>1</sup>*
-
-
 :::
+
+<br/>
 
 <br/>
 
