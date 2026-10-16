@@ -2,7 +2,7 @@
 title: HALLE 6 EST
 order: 1
 show_in_nav: true
-background_color: "#e9cacb"
+background_color: "#f8dede"
 invert_text_color: false
 use_background_color_in_slider: true
 gallery:
