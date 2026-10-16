@@ -28,7 +28,7 @@ Ainsi je m’appuie sur cet univers de signes fluctuants pour *sentir* la varié
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791316103/20240801_093123-01-02_axqyth.jpg)
 
-
+<br/>
 
 :::right
 
