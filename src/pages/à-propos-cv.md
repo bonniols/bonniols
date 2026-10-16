@@ -4,30 +4,37 @@ slug: infos
 background_color: "#c2e0f7"
 invert_text_color: false
 ---
-Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y interroger la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. La pandémie de Covid et le confinement, que j'ai vécu comme un prolongement de cet isolement, m’ont conduit comme beaucoup à interroger mon rapport au monde de façon plus situé. C'est depuis cette situation que j'ai repensé peu à peu ma pratique photographique,  à ciel ouvert, comme pour mettre pied à terre et battre la campagne.
+<br/>
 
-*La nature aime à se voiler* <sup>1</sup>. Cet aphorisme d’Héraclite commenté depuis 2500 ans ne semble plus faire débat à notre époque d’extractivisme marchand. Derrière le théâtre des opérations prométhéennes se pose cette question aussi complexe qu’urgente : comment souhaitons-nous vivre dans ce monde ?
+« Les hommes se trompent quand ils se croient libres, \
+opinion qui consiste en cela seul qu'ils sont conscientes de leurs actes \
+et ignorants des causes qui les déterminent » \
+Spinoza (Ethique)
 
-Agir avec le paysage peut nous mettre en chemin. 
+<br/>
 
-A mon sens, le paysage n’est pas qu'une description des étendues bornées par une administration ou par la vue.  J’aime le voir comme un chantier participatif aux motifs géographiques changeant et aux capacités transformatrices, convoquant villes et campagnes, humains et *autres qu’humains* <sup>2</sup> à interagir en permanence. 
+Pendantplus de quinze ans j’ai travaillé en immersion photographique dansles domaines des sciences, de l’architecture et de l’industrie.J’ai pu y interroger la place des travailleurs et des chercheurs ausein d’univers technophiles souvent coupés du monde extérieur.Pourtant derrière le théâtre fascinant de ces opérationsprométhéennes, la question à la fois individuelle et collectivepersiste : comment désirons-nous vivre dans ce monde ? 
 
-Ainsi je m’appuie sur cet univers de signes fluctuants pour sentir la variété des expressions paysagères : les photographier me permet de les traduire en récits visuels pour suggérer toutes sortes de relations entre les lieux et leurs occupants. 
+Leconfinement imposé lors de la pandémie de Covid m’a conduit commebeaucoup à méditer cette question de façon plus « situé ».Cette nouvelle disposition pouvait se résumer ainsi : agiravec le paysage*.*
 
-La portée  psychique et politique de ces espaces propices à *la robustesse du vivant* <sup>3</sup> sont quelques unes des raisons éthiques et esthétiques que je souhaite promouvoir avec le paysage.
+Lepaysage n’est pas seulement la description des étendues bornéespar une administration ou par la vue. Il est à mes yeux unchantier participatif aux motifs géographiques changeant et auxcapacités transformatrices, convoquant villes et campagnes, humainset autres qu’humains<sup>1</sup> à interagir enpermanence. 
+
+Ainsi jem’appuie sur cet univers de signes fluctuants pour *sentir* lavariété des expressions paysagères : les photographier poursuggérer toutes sortes de relations entre les lieux et leursoccupants. 
+
+Laportée psychique et politique de ces espaces propices à larobustesse du vivant <sup>2</sup> sont quelques unes desraisons éthiques et esthétiques que je souhaite promouvoir *avecle paysage*.
 
 <br/>
 
 <br/>
 
-<sup>1</sup> Traduction et commentaire de l’aphorisme « Physis kruptesthai philei » d’Heraclite dans « Le Voile d’Isis », Pierre Hadot, éditions Gallimard, 2004. 
+<sup>1</sup>Expression employée par Philippe Descola, pour définir humains etnon-humains.
 
-<sup>2</sup> Expression employée par Philippe Descola, pour définir humains et non-humains.
-
-<sup>3</sup> Olivier Hamant, « Antidote au culte de la performence / La robustesse du vivant ». Tract Gallimard n°50, août 2023.
+<sup>2</sup>Olivier Hamant, « Antidote au culte de la performance / Larobustesse du vivant ». Tract Gallimard n°50, août 2023.
 
 <br/>
 
 <br/>
+
+
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791316103/20240801_093123-01-02_axqyth.jpg)
