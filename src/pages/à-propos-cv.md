@@ -25,7 +25,7 @@ Le confinement imposé lors de la pandémie de Covid m’a conduit comme beaucou
 
 Pourquoi le paysage ? Le paysage n’est pas seulement la description des étendues bornées par une administration ou par la vue. Si le mot est devenu fourre-tout (paysages naturels, urbains, industriels, scientifiques, artistiques, psychiques, sociaux, politiques...) il reste contextuel par essence. A mes yeux il est un chantier participatif aux motifs géographiques changeant et aux capacités transformatrices, convoquant villes et campagnes, humains et *autres qu’humains<sup>1</sup>* à interagir en permanence.
 
-Ainsi je m’appuie sur cet univers de signes fluctuants pour *sentir* la variété des expressions paysagères : les photographier pour suggérer toutes sortes de relations entre les lieux et leurs occupants, moi y compris. La portée psychique et politique de ces espaces propices à la *robustesse du vivant <sup>2</sup>* sont quelques unes des raisons éthiques et esthétiques que je souhaite promouvoir avec le paysage.
+Ainsi je m’appuie sur cet univers de signes fluctuants pour *sentir* la variété des expressions paysagères : les photographier pour suggérer toutes sortes de relations d'affects entre les lieux et leurs occupants, moi y compris. La portée psychique et politique de ces espaces propices à la *robustesse du vivant <sup>2</sup>* sont quelques unes des raisons éthiques et esthétiques que je souhaite promouvoir avec le paysage.
 
 <br/>
 
