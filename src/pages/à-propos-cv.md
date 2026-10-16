@@ -28,9 +28,9 @@ Ainsi je m’appuie sur cet univers de signes fluctuants pour *sentir* la varié
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791316103/20240801_093123-01-02_axqyth.jpg)
 
-:::right
 
-<br/>
+
+:::right
 
 *« Les hommes se trompent quand ils se croient libres, opinion qui consiste en cela seul qu'ils sont conscients de leurs actes et ignorants des causes qui les déterminent. »* \
 *Spinoza, L'Ethique*
