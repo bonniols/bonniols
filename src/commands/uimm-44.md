@@ -43,13 +43,11 @@ gallery:
 
 <br/>
 
-*«Voici un souvenir prégnant du début de mes études aux Beaux-Arts : un stage de plusieurs mois chez* Duchemin, Maîtres Orfèvres et Forgerons *au Mans. Du métal, j’en avais presque peur, mélange de fascination et de crainte. Mais ces artisans m’ont conduit à appréhender autrement ce matériau. Non pas froid mais ardent, non pas rude mais d’une infinie souplesse.*
+*Voici un souvenir prégnant du début de mes études aux Beaux-Arts : un stage de plusieurs mois chez* Duchemin, Maîtres Orfèvres et Forgerons *au Mans. Du métal, j’en avais presque peur, mélange de fascination et de crainte. Mais ces artisans m’ont conduit à appréhender autrement ce matériau. Non pas froid mais ardent, non pas rude mais d’une infinie souplesse.*
 
-*Lorsque que l’UIMM Loire-Atlantique m’a contacté pour réaliser un travail photographique sur le monde de la métallurgie industrielle, j’y ai vu immédiatement l’opportunité de "forger" un peu plus mon regard sur cet univers, d’en poursuivre l’exploration de ses arcanes : mettre en perspective les échelles paysagère des chantiers navals et du monde microscopique de l’électronique ; découvrir les matérialités métalliques contrastées, les alchimies concrètes, les usinages rutilants.*
+*Lorsque que l’UIMM Loire-Atlantique m’a contacté pour réaliser un travail photographique sur le monde de la métallurgie industrielle, j’y ai vu l’opportunité de "forger" un peu plus mon regard. Pour révéler les arcanes de cet univers aux richesses iconographiques insoupçonnées, j’ai choisi de l'interpréter comme une fresque industrielle et patrimoniale. Mettre en perspective les jeux échelles, comprendre la pluralité des métaux, leurs façonnages, leurs usages, leurs lieux.*
 
-*J’ai choisi d’interpréter ce monde métallurgique comme une fresque, un panorama industriel et technique. Comprendre la pluralité des métaux, leurs façonnages, leurs usages.*
-
-*Je souhaite dédier que ce portfolio à la communauté de passionnés que j’ai eu la chance de rencontrer dans ces entreprises, "sans distinction de couleur de col". Merci à eux pour leur accueil et leur disponibilité.»*
+*Je souhaite dédier que ce portfolio à la communauté de passionnés que j’ai eu la chance de rencontrer dans ces entreprises, "sans distinction de couleur de col". Merci à eux pour leur accueil et leur disponibilité.*
 
 *Texte : Sylvain Bonniol - Rapport annuel 2017-2018 UIMM Loire Atlantique*
 
