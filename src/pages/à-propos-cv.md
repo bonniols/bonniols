@@ -17,6 +17,8 @@ Spinoza (Ethique)
 
 <br/>
 
+<br/>
+
 Pendant plus de quinze ans j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. Pourtant derrière le théâtre fascinant de ces opérations prométhéennes, une question individuelle et collective persiste : comment désirons-nous vivre dans ce monde ? 
 
 Le confinement imposé lors de la pandémie de Covid m’a conduit comme beaucoup à méditer cette question de façon plus « situé ». Cette nouvelle disposition me projetait désormais dans un tout autre paradigme : non plus observer ce qui s'impose, mais *agir avec le paysage*. 
@@ -29,9 +31,9 @@ Ainsi je m’appuie sur cet univers de signes fluctuants pour *sentir* la varié
 
 <br/>
 
-<sup>1</sup> Expression employée par Philippe Descola, pour définir humains et non-humains.
-
-<sup>2</sup> Olivier Hamant, « Antidote au culte de la performance / Larobustesse du vivant ». Tract Gallimard n°50, août 2023.
+> <sup>1</sup> Expression employée par Philippe Descola, pour définir humains et non-humains.
+>
+> <sup>2</sup> Olivier Hamant, « Antidote au culte de la performance / Larobustesse du vivant ». Tract Gallimard n°50, août 2023.
 
 <br/>
 
