@@ -15,6 +15,8 @@ invert_text_color: false
 
 <br/>
 
+<br/>
+
 Pendant plus de quinze ans, jusqu'en 2019, j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés du monde extérieur. 
 
 Le confinement imposé lors de la pandémie de Covid m’a conduit à problématiser mon activité de façon plus "située". Quel rôle je joue dans ce théâtre fascinant d'opérations prométhéennes ? Cette nouvelle disposition m'a alors projeté dans un tout autre paradigme photographique : *interférer avec mes paysages d'affects.*
