@@ -21,7 +21,7 @@ Le confinement imposé lors de la pandémie de Covid m’a conduit à problémat
 
 A mes yeux le paysage ne se limite pas à la description des étendues bornées par une administration ou par la vue. Si le mot est devenu fourre-tout (paysages naturels, urbains, industriels, culturels, politiques...) il reste contextuel par essence. Si nos affects influent sur notre environnement, les contextes façonnent tout autant nos affects. Avant tout chantiers participatifs aux capacités transformatrices et aux motifs géographiques changeant, nos paysages d'affects convoquent villes et campagnes, histoire et prospective, humains et *autres qu’humains<sup>1</sup>* à interagir en permanence.
 
-Ainsi je m’appuie sur cet univers de signes fluctuants pour *sentir* la variété des expressions paysagères et y prendre place : les photographier peut suggérer toutes sortes de relations d'affects entre les lieux et leurs occupants, moi y compris. La portée poétique et politique de ces paysages d'affects, propices à la *robustesse du vivant <sup>2</sup>,* sont quelques unes des raisons éthiques et esthétiques que je désire promouvoir.
+Ainsi je m’appuie sur cet univers de signes fluctuants pour *sentir* la variété des expressions paysagères et y prendre place : les photographier peut suggérer toutes sortes de relations entre les lieux et leurs occupants, moi y compris. La portée poétique et politique de ces paysages d'affects, propices à la *robustesse du vivant <sup>2</sup>,* sont quelques unes des raisons éthiques et esthétiques que je désire promouvoir.
 
 <br/>
 
