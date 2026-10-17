@@ -19,7 +19,7 @@ invert_text_color: false
 
 Pendant plus de quinze ans, jusqu'en 2019, j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers technophiles souvent coupés de certaines réalités du monde extérieur. 
 
-Le confinement imposé lors de la pandémie de Covid m’a conduit à problématiser mon activité de façon plus "située". Quel rôle je joue dans ce théâtre néanmoins fascinant d'opérations prométhéennes ? Cette nouvelle disposition m'a alors projeté dans un tout autre paradigme photographique : *interférer avec mes paysages d'affects.*
+Le confinement imposé lors de la pandémie de Covid m’a conduit à problématiser mon activité de façon plus "située". Quel rôle je joue dans ce théâtre néanmoins fascinant d'opérations prométhéennes ? Cette nouvelle disposition m'a alors projeté dans un tout autre paradigme photographique : *interférer avec des paysages d'affects.*
 
 A mes yeux le paysage ne se limite pas à la description des étendues bornées par une administration ou par la vue. Si le mot est devenu fourre-tout (paysages naturels, urbains, industriels, culturels, politiques...) il reste contextuel par essence : nos affects influent sur notre environnement et les contextes qui en découlent façonnent en retour nos affects. Avant tout chantiers participatifs aux capacités transformatrices et aux motifs géographiques changeant, ces paysages d'affects convoquent villes et campagnes, humains et *autres qu’humains<sup>1</sup>,* récits et réalité, à interagir en permanence.
 
