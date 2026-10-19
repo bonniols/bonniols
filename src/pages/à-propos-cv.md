@@ -17,13 +17,15 @@ invert_text_color: false
 
 <br/>
 
-Pendant plus de quinze ans, jusqu'en 2019, j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers souvent coupés de certaines réalités du monde extérieur. 
+Pendant plus de quinze ans, jusqu'en 2019, j’ai travaillé en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers très variés de production et de savoir. 
 
-Le confinement imposé lors de la pandémie de Covid m’a conduit à problématiser mon activité de façon plus "située". Quel rôle jouer dans ce théâtre d'opérations prométhéennes ? Cette nouvelle disposition requiert un tout autre paradigme photographique et critique : *interférer avec des paysages d'affects* pour sortir de la seule fascinationtechnophile. 
+Cependant le confinement imposé lors de la pandémie de Covid m’a conduit à problématiser mon activité de façon plus "située" : quel rôle joue-t on vraiment dans ce théâtre d'opérations prométhéennes ? Cette nouvelle disposition requiert au photographe un tout autre paradigme critique : *interférer avec des paysages d'affects* pour sortir de la seule fascinationtechnique. 
 
-A mes yeux le paysage ne se limite pas à la description des étendues bornées par une administration ou par la vue. Si le mot est devenu fourre-tout (paysages naturels, urbains, industriels, culturels, politiques...) il reste contextuel par essence : nos affects influent sur notre environnement et les contextes qui en découlent façonnent en retour nos affects. Avant tout chantiers participatifs aux capacités transformatrices et aux motifs géographiques changeant, ces paysages d'affects convoquent villes et campagnes, humains et *autres qu’humains<sup>1</sup>,* récits et réalité, à interagir en permanence.
+A mes yeux le paysage ne se limite pas à la description des étendues bornées par une administration ou par la vue. Si le mot est devenu valise (paysages naturels, urbains, industriels, culturels, politiques...) il reste contextuel par essence : nos affects influent sur notre environnement et les contextes qui en découlent façonnent en retour nos récits culturels et nos actions culturales. 
 
-Ainsi je m’appuie sur cet univers de signes fluctuants pour *sentir* la variété des expressions paysagères et y prendre place : les photographier peut suggérer toutes sortes de relations entre les lieux et leurs occupants, moi y compris. La portée poétique et politique de ces paysages d'affects, propices à la *robustesse du vivant <sup>2</sup>,* sont quelques unes des raisons éthiques et esthétiques que je désire promouvoir.
+Avant tout chantiers participatifs aux capacités transformatrices et aux motifs géographiques changeant, ces paysages d'affects convoquent villes et campagnes, humains et *autres qu’humains<sup>1</sup>,* récits et réalité, à interagir en permanence. Ces dernières années je m’appuie donc sur cet univers de signes fluctuants pour *sentir* la variété des expressions paysagères  : les photographier peut suggérer toutes sortes de relations entre les lieux et leurs occupants, moi y compris. 
+
+La portée poétique et politique de ces paysages d'affects, propices à la *robustesse du vivant <sup>2</sup>,* sont quelques unes des raisons éthiques et esthétiques que je désire promouvoir désormais.
 
 <br/>
 
