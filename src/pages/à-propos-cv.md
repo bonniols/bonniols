@@ -17,9 +17,9 @@ invert_text_color: false
 
 <br/>
 
-Pendant près de quinze ans, j’ai travaillé jusqu'en 2019 en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers très variés de production et de savoir. 
+Pendant près de quinze ans, jusqu'en 2019, j’ai travaillé  en immersion photographique dans les domaines des sciences, de l’architecture et de l’industrie. J’ai pu y observer la place des travailleurs et des chercheurs au sein d’univers très variés de production et de savoir. 
 
-Cependant le confinement imposé lors de la pandémie de Covid combiné au réchauffement climatique m’ont conduit à problématiser mon activité de façon plus "située" : quel rôle joue-t on vraiment dans ce théâtre d'opérations prométhéennes ? Cette nouvelle disposition requiert pour le photographe que j'étais, un tout autre paradigme critique : *retrouver le chemin de mes paysages d'affects* pour sortir de la seule fascination technique. 
+Cependant le confinement imposé lors de la pandémie de Covid combiné au réchauffement climatique m’ont conduit à problématiser mon activité de façon plus "située" : quel rôle joue-t on vraiment dans ce théâtre d'opérations prométhéennes ? Cette nouvelle disposition requérait pour le photographe que j'étais, un tout autre paradigme critique : retrouver le chemin demes *paysages d'affects* que la fascination technique m'avait fait perdre. 
 
 A mes yeux le paysage ne se limite pas à la description des étendues bornées par une administration ou par la vue. Si le mot est devenu valise (paysages naturels, urbains, industriels, culturels, politiques...) il reste contextuel par essence : nos affects influent sur notre environnement et les contextes qui en découlent façonnent en retour nos représentations culturelles.
 
