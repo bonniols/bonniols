@@ -6,6 +6,12 @@ invert_text_color: false
 ---
 <br/>
 
+# PAYSAGES D'AFFECTS
+
+
+
+<br/>
+
 :::right
 
 *«Les hommes se trompent quand ils se croient libres, opinion qui consiste en cela seul qu'ils sont conscients de leurs actes et ignorants des causes qui les déterminent.»* \
@@ -23,9 +29,9 @@ Cependant le confinement imposé lors de la pandémie de Covid combiné au réch
 
 A mes yeux le paysage ne se limite pas à la description des étendues bornées par une administration ou par la vue. Si le mot est devenu valise (paysages naturels, urbains, industriels, culturels, politiques...) il reste contextuel par essence : nos affects influent sur notre environnement et les contextes qui en découlent façonnent en retour nos représentations culturelles.
 
-Avant tout chantiers participatifs aux capacités transformatrices, ces paysages d'affects aux motifs géographiques changeant convoquent villes et campagnes, humains et *autres qu’humains<sup>1</sup>,* récits et réalité, à interagir en permanence. Ces dernières années je m’appuie donc sur cet univers de signes fluctuants pour *sentir* la variété des expressions paysagères  : les photographier peut suggérer toutes sortes de relations entre les lieux et leurs occupants, moi y compris. 
+Avant tout chantiers participatifs aux capacités transformatrices, ces paysages d'affects aux motifs géographiques changeant convoquent villes et campagnes, humains et *autres qu’humains<sup>1</sup>,* récits et réalité, à interagir en permanence. 
 
-La portée poétique et politique de ces paysages d'affects, propices à la *robustesse du vivant <sup>2</sup>,* sont quelques unes des raisons éthiques et esthétiques que je désire promouvoir désormais.
+Ces dernières années je m’appuie donc sur cet univers de signes fluctuants pour *sentir* la variété des expressions paysagères  : les photographier peut suggérer toutes sortes de relations entre les lieux et leurs occupants, moi y compris. La portée poétique et politique de ces paysages d'affects, propices à la *robustesse du vivant <sup>2</sup>,* sont quelques unes des raisons éthiques et esthétiques que je désire promouvoir désormais.
 
 <br/>
 
