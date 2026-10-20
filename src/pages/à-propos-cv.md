@@ -6,19 +6,22 @@ invert_text_color: false
 ---
 <br/>
 
-Diplômé de l’Ecole Supérieure des Beaux-Arts de Nantes en 2000, SylvainBonniol vient à la photographie aux tournant des années 2006 et 2007 après une courte expérience dans l'enseignement de la photographie et du dessin perspective.
 
-Architecture, formes urbaines, science et métiers de l'industrie constituent la trame des espaces qu'il photographie pendant près de quinze ans. Passionné par les lieux de production et leurs occupants, il consacre sa démarche professionnelle entre commandes publiques et privées au sein de divers chantiers, laboratoires, usines et ateliers.
 
-En parallèle il développe un volet plus personnel de son travail au sein de résidences de recherches et de cartes blanches collaboratives. Il y questionne de façon sensible une approche du paysage liée au corps et aux affects. Convoquant villes et campagnes, *humains et autres qu’humains<sup>1</sup>,* il s'attache à observer leurs interactions  productrices d'écosystèmes. C'est dans celles-ci qu'il entend révéler la portée poétique de contexte paysager propices à la *robustesse du vivant <sup>2</sup>*.
+# Parcours
 
-Le travail de Sylvain bonniol, impliquant à la fois des préoccupations documentaires et artistiques, se déploie dans divers cadres éditoriaux et à travers la production d'expositions institutionnelles et privées, prenant place aussi bien dans l'espace public que dans les galeries.
+<br/>
+
+Diplômé de l’Ecole Supérieure des Beaux-Arts de Nantes en 2000, Sylvain Bonniol s'engage dans la photographie dès 2007 après une courte expérience dans l'enseignement. Pendant près de quinze ans, il se consacre essentiellement à des commandes publiques et privées au sein de divers chantiers, laboratoires, usines et ateliers.
+
+Plus récemment il développe des projets au sein de résidences de recherches et de cartes blanches collaboratives et il s'intéresse à la question du paysage liée au corps et aux affects. En convoquant villes et campagnes, *humains et autres qu’humains 1,* il s'attache de façon sensible  à observer ces contextes d'interactions comme des écosystèmes vulnérables et poétiques.
+
+
+Ainsi, le travail de Sylvain Bonniol se déploie dans une double perspective documentaires et artistique, aussi bien dans l'édition qu'à travers la production d'expositions institutionnelles et privées.
 
 <br/>
 
 > <sup>1</sup> Expression employée par Philippe Descola, pour définir humains et non-humains.
->
-> <sup>2</sup> Olivier Hamant, « Antidote au culte de la performance / La robustesse du vivant ». Tract Gallimard n°50, août 2023.
 
 <br/>
 
