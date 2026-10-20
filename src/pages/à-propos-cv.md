@@ -10,9 +10,9 @@ Diplômé de l’Ecole Supérieure des Beaux-Arts de Nantes en 2000, SylvainBonn
 
 Architecture, formes urbaines, science et métiers de l'industrie constituent la trame des espaces qu'il photographie pendant près de quinze ans. Passionné par les lieux des processus de production et leurs occupants (chantiers, laboratoires, usines, ateliers), il consacre sa démarche professionnelle entre commandes publiques et privées. 
 
-En parallèle il développe un volet plus personnel de son travail au sein de résidences de recherches et de cartes blanches collaboratives. Il y questionne de façon sensible une approche du paysage liée au corps : corps contemplateur, corps locomoteur, corps producteur. Convoquant villes et campagnes, *humains et autres qu’humains<sup>1</sup>,* Sylvain Bonniol s'attache à observer leurs interractions paysagères, productrices d'écosystèmes fluctuants et vulnérables, paradoxalement propices à la *robustesse du vivant <sup>2</sup>*.
+En parallèle il développe un volet plus personnel de son travail au sein de résidences de recherches et de cartes blanches collaboratives. Il y questionne de façon sensible une approche du paysage liée au corps : corps contemplateur, corps locomoteur, corps producteur. Convoquant villes et campagnes, *humains et autres qu’humains<sup>1</sup>,* ilol s'attache à observer leurs interactions paysagères, productrices d'écosystèmes fluctuants et vulnérables, paradoxalement propices à la *robustesse du vivant <sup>2</sup>*.
 
-Impliquant donc à la fois des préoccupations documentaires et artistiques, son travail se déploie dans le cadre éditorial et la productions d'expositions dans l'espace public, institutions et galeries.
+Le travail de Sylvain bonniol, impliquant à la fois des préoccupations documentaires et artistiques, se déploie dans le cadre éditorial et la productions d'expositions dans l'espace public, institutionnel et dans les galeries.
 
 
 
