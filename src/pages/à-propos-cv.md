@@ -14,7 +14,7 @@ invert_text_color: false
 
 Diplômé de l’Ecole Supérieure des Beaux-Arts de Nantes en 2000, Sylvain Bonniol s'engage dans la photographie dès 2007 après une courte expérience dans l'enseignement. Pendant près de quinze ans, il se consacre essentiellement à des commandes publiques et privées au sein de divers chantiers, laboratoires, usines et ateliers.
 
-Plus récemment il développe des projets au sein de résidences de recherches et de cartes blanches collaboratives et il s'intéresse à la question du paysage liée au corps et aux affects. En convoquant villes et campagnes, *humains et autres qu’humains 1,* il s'attache de façon sensible  à observer ces contextes d'interactions comme des écosystèmes vulnérables et poétiques.
+Plus récemment il développe des projets au sein de résidences de recherches et de cartes blanches collaboratives et s'intéresse à la question du paysage liée au corps et aux affects. En convoquant villes et campagnes, *humains et autres qu’humains 1,* il s'attache de façon sensible  à observer ces contextes comme des écosystèmes vulnérables et poétiques.
 
 
 Ainsi, le travail de Sylvain Bonniol se déploie dans une double perspective documentaires et artistique, aussi bien dans l'édition qu'à travers la production d'expositions institutionnelles et privées.
