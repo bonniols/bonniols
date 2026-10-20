@@ -12,7 +12,7 @@ Architecture, formes urbaines, science et métiers de l'industrie constituent la
 
 En parallèle il développe une approche plus personnelles de son travail au sein de résidences de recherches et de cartes blanches collaboratives. Il y questionne de façon sensible le corps au travail et ses représentations individuelles et collectives. 
 
-En 2019, la pandémie de covid le poussent à reconsidérer son approche qu'il ouvre aux contextes paysagers. Convoquant villes et campagnes, *humains et autres qu’humains<sup>1</sup>,* le travail de Sylvain Bonniol s'attache à observer la façon dont ils interagissent pour produire des écosystèmes en évolution constante, propices à la *robustesse du vivant <sup>2</sup>*.
+En 2019, la pandémie de covid le poussent à reconsidérer son approche qu'il ouvre plus spécifiquement aux contextes paysagers. Convoquant villes et campagnes, *humains et autres qu’humains<sup>1</sup>,* le travail de Sylvain Bonniol s'attache à observer la façon dont ils interagissent pour produire des écosystèmes en évolution constante, propices à la *robustesse du vivant <sup>2</sup>*.
 
 Impliquant donc à la fois des préoccupations documentaires et artistiques, son travail se déploie dans le cadre éditorial et la productions d'expositions dans l'espace public, institutions et galeries.
 
