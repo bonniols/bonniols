@@ -22,6 +22,8 @@ Ainsi, le travail de Sylvain Bonniol se déploie dans une double perspective doc
 
 <br/>
 
+<br/>
+
 ## Contacts
 
 Sylvain Bonniol artiste photographe\
@@ -29,21 +31,27 @@ Nantes (France) / bonniol-photo.com / 0664454360
 
 bonniols@gmail.com
 
+<br/>
+
+<br/>
+
 ## Liens
+
+<br/>
 
 #### Institutions / Galeries
 
-Diaphane
+Diaphane, Pôle Photographique en Haut-de-France
 
-Le Chronographe
+Le Chronographe, Centre d'Interprétation Arc
 
-Région Pays de la Loire
+Région des Pays de la Loire\
+https://www.cdr-copdl.fr/index.php?lvl=notice_display&id=41543
 
-CAUE Loire Atlantique
+CAUE Loire Atlantique\
+https://www.caue44.com/
 
-
-
-
+<br/>
 
 #### Editions
 
@@ -53,7 +61,9 @@ Editions 303
 
 Musée de l'Imprimerie de Nantes
 
+<br/>
 
+#### Textes critiques / Citations
 
 <br/>
 
