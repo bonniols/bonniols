@@ -6,7 +6,7 @@ invert_text_color: false
 ---
 <br/>
 
-# Parcours
+## Parcours
 
 <br/>
 
@@ -21,6 +21,39 @@ Ainsi, le travail de Sylvain Bonniol se déploie dans une double perspective doc
 > <sup>1</sup> Expression employée par Philippe Descola, pour définir les non-humains en tant qu'animaux, végétaux, esprits.
 
 <br/>
+
+## Contacts
+
+Sylvain Bonniol artiste photographe\
+Nantes (France) / bonniol-photo.com / 0664454360 
+
+bonniols@gmail.com
+
+## Liens
+
+#### Institutions / Galeries
+
+Diaphane
+
+Le Chronographe
+
+Région Pays de la Loire
+
+CAUE Loire Atlantique
+
+
+
+
+
+#### Editions
+
+Editions de la Martinière
+
+Editions 303
+
+Musée de l'Imprimerie de Nantes
+
+
 
 <br/>
 
