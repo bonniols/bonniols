@@ -62,6 +62,12 @@ ISBN : 9784900213074
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1792586169/guide-architecture_meo88x.jpg)
 
+Guide de l'architecture contemporaine Saint-Nazaire > Nantes
+TWIST HOUSE / Avignon Architecte
+Editions Joca Seria
+Novembre 2022 - 168 pages - Format : 290 x 220 mm
+ISBN : 978-2-84809-373-4
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791536192/007_lg5jo8.jpg)
