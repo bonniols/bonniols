@@ -55,11 +55,16 @@ https://www.caue44.com/
 
 #### Editions
 
-Editions de la Martinière
+Editions de la Martinière\
+https://www.editionsdelamartiniere.fr/
 
-Editions 303
+Editions 303\
+https://www.editions303.com/
 
 Musée de l'Imprimerie de Nantes
+
+Box Conseil Edition\
+https://www.boxconseil.fr/
 
 <br/>
 
