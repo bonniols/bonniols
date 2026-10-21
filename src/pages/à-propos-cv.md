@@ -4,8 +4,6 @@ slug: infos
 background_color: "#c2e0f7"
 invert_text_color: false
 ---
-
-
 <br/>
 
 ## Parcours
@@ -26,8 +24,6 @@ Ainsi, le travail de Sylvain Bonniol se déploie dans une double perspective doc
 
 <br/>
 
-
-
 ## Contacts
 
 Sylvain Bonniol artiste photographe\
@@ -39,11 +35,7 @@ bonniols@gmail.com
 
 <br/>
 
-
-
 ## Liens
-
-
 
 #### *Festivals / Lieux d'expositions*
 
@@ -98,8 +90,6 @@ https://h2-art.com/
 Musée de l'Imprimerie de Nantes
 https://musee-imprimerie.com/
 
-
-
 <br/>
 
 #### *Editions*
@@ -116,10 +106,11 @@ https://www.avivremagazine.fr/
 Editions Shinkenchiku-sha\
 https://au-magazine.com/
 
+Editions Joca Seria\
+https://www.jocaseria.fr/
+
 Box Conseil Editions\
 https://www.boxconseil.fr/
-
-
 
 <br/>
 
@@ -140,14 +131,12 @@ https://fisheyemagazine.fr/article/la-ville-a-travers-des-jumelles/
 
 "Voir le dedans des murs" Christophe Bouher
 
-
-
 <br/>
 
 ## Crédits
 
 Photographies © Sylvain Bonniol\
-Création et conception du site : Sylvère Armange\
+Création et conception du site : Sylvère Armange  - https://sylvere.fr\
 2026
 
 <br/>
