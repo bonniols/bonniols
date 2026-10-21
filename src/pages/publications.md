@@ -60,6 +60,8 @@ ISBN : 9784900213074
 
 <br/>
 
+![](https://res.cloudinary.com/yxpagolc/image/upload/v1792586169/guide-architecture_meo88x.jpg)
+
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791536192/007_lg5jo8.jpg)
