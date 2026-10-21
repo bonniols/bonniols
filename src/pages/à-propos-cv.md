@@ -39,17 +39,24 @@ bonniols@gmail.com
 
 <br/>
 
-#### Institutions / Galeries
+#### Institutions / Galeries / Festivals
 
 Diaphane, Pôle Photographique en Haut-de-France
 
-Le Chronographe, Centre d'Interprétation Arc
+Le Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine\
+https://lechronographe.nantesmetropole.fr/
 
 Région des Pays de la Loire\
 https://www.cdr-copdl.fr/index.php?lvl=notice_display&id=41543
 
 CAUE Loire Atlantique\
 https://www.caue44.com/
+
+Galerie HAZY, Centre photographique Le Pouliguen\
+https://galerierdv.com/
+
+Galerie RDV
+https://galerierdv.com/
 
 <br/>
 
@@ -61,10 +68,14 @@ https://www.editionsdelamartiniere.fr/
 Editions 303\
 https://www.editions303.com/
 
-Musée de l'Imprimerie de Nantes
+Musée de l'Imprimerie de Nantes\
+https://musee-imprimerie.com/
 
-Box Conseil Edition\
+Box Conseil Editions\
 https://www.boxconseil.fr/
+
+Avivre Editions\
+https://www.avivremagazine.fr/
 
 <br/>
 
