@@ -72,14 +72,19 @@ https://www.editionsdelamartiniere.fr/
 Editions 303\
 https://www.editions303.com/
 
+Avivre Editions
+https://www.avivremagazine.fr/
+
+Editions Shinkenchiku-sha\
+https://au-magazine.com/
+
 Musée de l'Imprimerie de Nantes\
 https://musee-imprimerie.com/
 
 Box Conseil Editions\
 https://www.boxconseil.fr/
 
-Avivre Editions\
-https://www.avivremagazine.fr/
+
 
 <br/>
 
