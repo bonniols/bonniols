@@ -60,12 +60,18 @@ ISBN : 9784900213074
 
 <br/>
 
+<br/>
+
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1792586169/guide-architecture_meo88x.jpg)
 
-Guide de l'architecture contemporaine Saint-Nazaire > Nantes (2010-2020)
-Coéditions : Maison régionale de l'architecture et Joca Seria éditions
-Novembre 2022 - 168 pages - Format : 220 x 140 mm
+<br/>
+
+Guide de l'architecture contemporaine Saint-Nazaire > Nantes (2010-2020)\
+Coéditions : Maison régionale de l'architecture et Joca Seria éditions\
+Novembre 2022 - 168 pages - Format : 220 x 140 mm\
 ISBN : 978-2-84809-373-4
+
+<br/>
 
 <br/>
 
