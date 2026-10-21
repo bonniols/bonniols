@@ -36,8 +36,8 @@ gallery:
 
 <br/>
 
-*"Visions acoustiques est une immersion photographique dans des laboratoires dédiés à l’acoustique (industrie, sciences et création sonore)* \
-*Le travail photographique propose ici deux approches : la première vise à documenter les lieux pas à pas. La deuxième, réalisée dans un second temps, s’attache à recomposer une image mentale de ces chambres d’études et tente de capter la part visuelle de l’invisible des ondes acoustiques."*
+*"Visions acoustiques est une immersion photographique dans des laboratoires dédiés à l’acoustique (industrie, sciences et création sonore).*\
+*Le travail photographique se présente en deux approches : la première vise à documenter les lieux pas à pas. La deuxième, réalisée dans un second temps, s’attache à recomposer une image mentale de ces chambres d’études et tente de capter la part visuelle de l’invisible des ondes acoustiques."*
 
 *Texte, Sylvain Bonniol*
 
