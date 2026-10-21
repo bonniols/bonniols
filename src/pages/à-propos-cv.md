@@ -51,7 +51,7 @@ https://www.festival-qpn.com/
 Festival Voix Off, Arles\
 https://festivaloffarles.com/
 
-Biennale du design de Saint-Etienne
+Biennale du design de Saint-Etienne\
 https://biennale-design.com/saint-etienne/2017/fr/programme/?ev=si-automatique--7
 
 Le Cloître Ouvert\
@@ -72,22 +72,22 @@ https://galerierdv.com/
 
 #### *Institutions / Musées*
 
-Le Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine
+Le Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine\
 https://lechronographe.nantesmetropole.fr/
 
-Région des Pays de la Loire
+Région des Pays de la Loire\
 https://www.cdr-copdl.fr/index.php?lvl=notice_display&id=41543
 
-CAUE Loire Atlantique
+CAUE Loire Atlantique\
 https://www.caue44.com/
 
-Ecole Supérieur d'Art et de Design TALM
+Ecole Supérieur d'Art et de Design TALM\
 https://esad-talm.fr/fr/actualites/perception-visuelle-et-geometrie-de-la-prise-de-vue-dessin-photographie
 
-H2/61.26, Espace Transdisciplinaire Art et Culture, Casablanca
+H2/61.26, Espace Transdisciplinaire Art et Culture, Casablanca\
 https://h2-art.com/
 
-Musée de l'Imprimerie de Nantes
+Musée de l'Imprimerie de Nantes\
 https://musee-imprimerie.com/
 
 <br/>
@@ -100,7 +100,7 @@ https://www.editionsdelamartiniere.fr/
 Editions 303\
 https://www.editions303.com/
 
-Avivre Editions
+Avivre Editions\
 https://www.avivremagazine.fr/
 
 Editions Shinkenchiku-sha\
