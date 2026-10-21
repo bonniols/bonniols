@@ -39,9 +39,13 @@ bonniols@gmail.com
 
 <br/>
 
-#### Institutions / Galeries / Festivals
+#### Expositions / Contributions
 
-Diaphane, Pôle Photographique en Haut-de-France
+Diaphane, Pôle Photographique en Haut-de-France\
+https://www.diaphane.org/
+
+Festivals Usimages\
+https://fisheyemagazine.fr/article/usimages-focus-sur-la-photographie-industrielle/
 
 Le Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine\
 https://lechronographe.nantesmetropole.fr/
