@@ -40,10 +40,10 @@ bonniols@gmail.com
 Diaphane, Pôle Photographique en Haut-de-France\
 https://www.diaphane.org/
 
-Biennale Usimages\
+Biennale Usimages, Creil\
 https://fisheyemagazine.fr/article/usimages-focus-sur-la-photographie-industrielle/
 
-Festival QPN\
+Festival QPN, Nantes\
 https://www.festival-qpn.com/
 
 Festival Voix Off, Arles\
@@ -52,19 +52,19 @@ https://festivaloffarles.com/
 Biennale du design de Saint-Etienne\
 https://biennale-design.com/saint-etienne/2017/fr/programme/?ev=si-automatique--7
 
-IPA Awards USA\
+IPA Awards, USA\
 https://www.photoawards.com/
 
-Le Cloître Ouvert\
+Le Cloître Ouvert, Paris\
 https://www.dimezzo.fr/lieux/le-cloitre-ouvert
 
-Smart-Appart Saint-Nazaire\
+Smart-Appart, Saint-Nazaire\
 https://www.smart-appart.fr/fr/hotels/saint-nazaire-smartappart-saint-nazaire
 
 Galerie HAZY, Centre photographique Le Pouliguen\
 https://galerierdv.com/
 
-Galerie RDV
+Galerie RDV, Nantes
 https://galerierdv.com/
 
 <br/>
