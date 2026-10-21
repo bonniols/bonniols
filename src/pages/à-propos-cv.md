@@ -52,6 +52,9 @@ https://festivaloffarles.com/
 Biennale du design de Saint-Etienne\
 https://biennale-design.com/saint-etienne/2017/fr/programme/?ev=si-automatique--7
 
+IPA Awards USA\
+https://www.photoawards.com/
+
 Le Cloître Ouvert\
 https://www.dimezzo.fr/lieux/le-cloitre-ouvert
 
