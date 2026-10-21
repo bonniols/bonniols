@@ -45,7 +45,7 @@ bonniols@gmail.com
 
 
 
-#### *Expositions / Contributions*
+#### *Festivals / Lieux d'expositions*
 
 Diaphane, Pôle Photographique en Haut-de-France\
 https://www.diaphane.org/
@@ -56,29 +56,47 @@ https://fisheyemagazine.fr/article/usimages-focus-sur-la-photographie-industriel
 Festival QPN\
 https://www.festival-qpn.com/
 
+Festival Voix Off, Arles\
+https://festivaloffarles.com/
+
 Biennale du design de Saint-Etienne
 https://biennale-design.com/saint-etienne/2017/fr/programme/?ev=si-automatique--7
 
-Le Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine\
-https://lechronographe.nantesmetropole.fr/
+Le Cloître Ouvert\
+https://www.dimezzo.fr/lieux/le-cloitre-ouvert
 
-Région des Pays de la Loire\
-https://www.cdr-copdl.fr/index.php?lvl=notice_display&id=41543
-
-CAUE Loire Atlantique\
-https://www.caue44.com/
-
-Ecole Supérieur d'Art et de Design TALM\
-https://esad-talm.fr/fr/actualites/perception-visuelle-et-geometrie-de-la-prise-de-vue-dessin-photographie
-
-H2/61.26, Espace Transdisciplinaire Art et Culture, Casablanca\
-https://h2-art.com/
+Smart-Appart Saint-Nazaire\
+https://www.smart-appart.fr/fr/hotels/saint-nazaire-smartappart-saint-nazaire
 
 Galerie HAZY, Centre photographique Le Pouliguen\
 https://galerierdv.com/
 
 Galerie RDV
 https://galerierdv.com/
+
+<br/>
+
+<br/>
+
+#### *Institutions / Musées*
+
+Le Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine
+https://lechronographe.nantesmetropole.fr/
+
+Région des Pays de la Loire
+https://www.cdr-copdl.fr/index.php?lvl=notice_display&id=41543
+
+CAUE Loire Atlantique
+https://www.caue44.com/
+
+Ecole Supérieur d'Art et de Design TALM
+https://esad-talm.fr/fr/actualites/perception-visuelle-et-geometrie-de-la-prise-de-vue-dessin-photographie
+
+H2/61.26, Espace Transdisciplinaire Art et Culture, Casablanca
+https://h2-art.com/
+
+Musée de l'Imprimerie de Nantes
+https://musee-imprimerie.com/
 
 
 
@@ -97,9 +115,6 @@ https://www.avivremagazine.fr/
 
 Editions Shinkenchiku-sha\
 https://au-magazine.com/
-
-Musée de l'Imprimerie de Nantes\
-https://musee-imprimerie.com/
 
 Box Conseil Editions\
 https://www.boxconseil.fr/
