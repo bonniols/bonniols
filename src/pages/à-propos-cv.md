@@ -16,7 +16,7 @@ Ainsi, le travail de Sylvain Bonniol se déploie dans une double perspective doc
 
 <br/>
 
-> <sup>1</sup> Expression employée par Philippe Descola, pour définir les non-humains en tant qu'animaux, végétaux, esprits.
+> <sup>1</sup> Expression employée par Philippe Descola, pour définir les non-humains vivants en tant qu'animaux, végétaux, esprits.
 
 <br/>
 
