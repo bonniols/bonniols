@@ -85,6 +85,9 @@ https://www.eso.org/public/about-eso/eso-and-chile/
 LHC du Cern, Geneve\
 https://home.cern/fr/science/accelerators/large-hadron-collider/
 
+UIMM Loire Atlantique\
+https://www.uimm-loire-atlantique.fr/
+
 Ecole Supérieure d'Art et de Design TALM\
 https://esad-talm.fr/fr/actualites/perception-visuelle-et-geometrie-de-la-prise-de-vue-dessin-photographie
 
@@ -96,13 +99,19 @@ https://musee-imprimerie.com/
 
 <br/>
 
-#### Entreprises
+<br/>
 
-Les chantiers de l'Atlantiques
+#### *Entreprises*
 
-Airbus
+Chantiers de l'Atlantiques\
+https://chantiers-atlantique.com/
 
+Airbus\
+https://www.airbus.com/fr
 
+<br/>
+
+<br/>
 
 #### *Editions*
 
