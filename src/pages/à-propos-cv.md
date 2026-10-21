@@ -66,8 +66,6 @@ https://galerierdv.com/
 
 <br/>
 
-<br/>
-
 #### *Institutions / Musées*
 
 Région des Pays de la Loire\
@@ -99,8 +97,6 @@ https://musee-imprimerie.com/
 
 <br/>
 
-<br/>
-
 #### *Entreprises*
 
 Chantiers de l'Atlantiques\
@@ -108,8 +104,6 @@ https://chantiers-atlantique.com/
 
 Airbus\
 https://www.airbus.com/fr
-
-<br/>
 
 <br/>
 
@@ -151,6 +145,8 @@ https://fisheyemagazine.fr/article/la-ville-a-travers-des-jumelles/
 "Chantiers croisés" Christophe Boucher
 
 "Voir le dedans des murs" Christophe Bouher
+
+<br/>
 
 <br/>
 
