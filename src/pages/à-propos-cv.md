@@ -50,8 +50,14 @@ bonniols@gmail.com
 Diaphane, Pôle Photographique en Haut-de-France\
 https://www.diaphane.org/
 
-Festivals Usimages\
+Biennale Usimages\
 https://fisheyemagazine.fr/article/usimages-focus-sur-la-photographie-industrielle/
+
+Festival QPN\
+https://www.festival-qpn.com/
+
+Biennale du design de Saint-Etienne
+https://biennale-design.com/saint-etienne/2017/fr/programme/?ev=si-automatique--7
 
 Le Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine\
 https://lechronographe.nantesmetropole.fr/
@@ -73,6 +79,8 @@ https://galerierdv.com/
 
 Galerie RDV
 https://galerierdv.com/
+
+
 
 <br/>
 
