@@ -27,7 +27,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44004_nsgqoz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44002_yy5yrg.jpg
 ---
-
 # 2010 - 2012
 
 ## Chantier de réhabilitation de l’ancien Palais de Justice de Nantes.
@@ -40,23 +39,23 @@ gallery:
 
 :::right
 
-> _Voir le dedans des murs_
+> *Voir le dedans des murs*
 >
-> _Ne nous est pas donné._
+> *Ne nous est pas donné.*
 >
-> _On a beau les casser_
+> *On a beau les casser*
 >
-> _Leur façade est montrée_
+> *Leur façade est montrée*
 >
-> _Bien sûr que c’est pareil_
+> *Bien sûr que c’est pareil*
 >
-> _En nous et dans les murs,_
+> *En nous et dans les murs,*
 >
-> _Mais voir_
+> *Mais voir*
 >
-> _Apaiserait._
+> *Apaiserait.*
 >
-> _Eugène Guillevic – Exécutoire, 1947_
+> *Eugène Guillevic – Exécutoire, 1947*
 
 :::
 
@@ -64,13 +63,13 @@ gallery:
 
 <br/>
 
-_« C’est pendant le chantier de 2010 à 2012, que le photographe Sylvain Bonniol a posé son regard sur l’évolution des lieux._
+*« C’est pendant le chantier de 2010 à 2012, que le photographe Sylvain Bonniol a posé son regard sur l’évolution des lieux.*
 
-_Entre ce qui n’est déjà plus un palais de Justice et ce qui n’est pas encore un hôtel, et loin de raconter la chronologie d’un chantier, ses images nous offrent le spectacle de percements, de reconstructions, de dispositifs éphémères, d’espaces transitoires et de lumières fugitives, qui sont autant de créations plastiques et de moment d’architecture à jamais disparus._
+*Entre ce qui n’est déjà plus un palais de Justice et ce qui n’est pas encore un hôtel, et loin de raconter la chronologie d’un chantier, ses images nous offrent le spectacle de percements, de reconstructions, de dispositifs éphémères, d’espaces transitoires et de lumières fugitives, qui sont autant de créations plastiques et de moment d’architecture à jamais disparus.*
 
-_Au delà de la qualité de l’oeuvre photographique, et du souhait de donner à voir ce qui n’est pas habituellement visible, il s’agit de participer à la réflexion sur la mutation des usages des édifices anciens préalable indispensable à leur réinvention architecturale et urbaine, et donc à leur préservation.»_
+*Au delà de la qualité de l’oeuvre photographique, et du souhait de donner à voir ce qui n’est pas habituellement visible, il s’agit de participer à la réflexion sur la mutation des usages des édifices anciens préalable indispensable à leur réinvention architecturale et urbaine, et donc à leur préservation.»*
 
-_Texte : Christophe Boucher_
+*Texte : Christophe Boucher*
 
 <br/>
 
@@ -80,9 +79,11 @@ _Texte : Christophe Boucher_
 >
 > 43 tirages sur dibond, dimensions variables.
 >
+> <br/>
+>
 > Exposition (CAUE 44) :
 >
-> 2013 _\- VOIR LE DEDANS DES MURS,_ produite par le C.A.U.E. de Loire-Atlantique, Cours d’accueil de l’ancienne maison d’arrêt de Nantes (solo)
+> 2013 *\- VOIR LE DEDANS DES MURS,* produite par le C.A.U.E. de Loire-Atlantique, Cours d’accueil de l’ancienne maison d’arrêt de Nantes (solo)
 >
 > Scénographie : Dany Cartron.
 >
