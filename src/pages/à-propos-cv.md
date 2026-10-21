@@ -62,6 +62,9 @@ https://www.cdr-copdl.fr/index.php?lvl=notice_display&id=41543
 CAUE Loire Atlantique\
 https://www.caue44.com/
 
+Ecole Supérieur d'Art et de Design TALM\
+https://esad-talm.fr/fr/actualites/perception-visuelle-et-geometrie-de-la-prise-de-vue-dessin-photographie
+
 Galerie HAZY, Centre photographique Le Pouliguen\
 https://galerierdv.com/
 
@@ -105,7 +108,7 @@ https://www.boxconseil.fr/
 "La ville à travers les jumelles" Lou Tsatsas
 https://fisheyemagazine.fr/article/la-ville-a-travers-des-jumelles/
 
-"Le chantier naval" David Liaudet
+"Le chantier naval, par Sylvain Bonniol" David Liaudet
 
 "Chantiers croisés" Christophe Boucher
 
