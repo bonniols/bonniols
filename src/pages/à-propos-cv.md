@@ -70,16 +70,22 @@ https://galerierdv.com/
 
 #### *Institutions / Musées*
 
-Le Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine\
-https://lechronographe.nantesmetropole.fr/
-
 Région des Pays de la Loire\
 https://www.cdr-copdl.fr/index.php?lvl=notice_display&id=41543
 
 CAUE Loire Atlantique\
 https://www.caue44.com/
 
-Ecole Supérieur d'Art et de Design TALM\
+Le Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine
+https://lechronographe.nantesmetropole.fr/
+
+ESO European Southern Observatory, Chile\
+https://www.eso.org/public/about-eso/eso-and-chile/
+
+LHC du Cern, Geneve\
+https://home.cern/fr/science/accelerators/large-hadron-collider/
+
+Ecole Supérieure d'Art et de Design TALM\
 https://esad-talm.fr/fr/actualites/perception-visuelle-et-geometrie-de-la-prise-de-vue-dessin-photographie
 
 H2/61.26, Espace Transdisciplinaire Art et Culture, Casablanca\
@@ -89,6 +95,14 @@ Musée de l'Imprimerie de Nantes\
 https://musee-imprimerie.com/
 
 <br/>
+
+#### Entreprises
+
+Les chantiers de l'Atlantiques
+
+Airbus
+
+
 
 #### *Editions*
 
