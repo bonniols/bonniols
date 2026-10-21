@@ -65,6 +65,9 @@ https://www.caue44.com/
 Ecole Supérieur d'Art et de Design TALM\
 https://esad-talm.fr/fr/actualites/perception-visuelle-et-geometrie-de-la-prise-de-vue-dessin-photographie
 
+H2/61.26, Espace Transdisciplinaire Art et Culture, Casablanca\
+https://h2-art.com/
+
 Galerie HAZY, Centre photographique Le Pouliguen\
 https://galerierdv.com/
 
