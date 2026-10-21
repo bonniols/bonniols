@@ -136,7 +136,7 @@ https://fisheyemagazine.fr/article/la-ville-a-travers-des-jumelles/
 ## Crédits
 
 Photographies © Sylvain Bonniol\
-Création et conception du site : Sylvère Armange  - https://sylvere.fr\
+Création et conception du site : Sylvère Armange \
 2026
 
 <br/>
