@@ -43,9 +43,9 @@ bonniols@gmail.com
 
 ## Liens
 
-<br/>
 
-#### Expositions / Contributions
+
+#### *Expositions / Contributions*
 
 Diaphane, Pôle Photographique en Haut-de-France\
 https://www.diaphane.org/
@@ -70,7 +70,7 @@ https://galerierdv.com/
 
 <br/>
 
-#### Editions
+#### *Editions*
 
 Editions de la Martinière\
 https://www.editionsdelamartiniere.fr/
@@ -94,7 +94,7 @@ https://www.boxconseil.fr/
 
 <br/>
 
-#### Textes critiques / Citations
+#### *Textes critiques / Citations*
 
 "Les Chantiers, un vaisseau spécial"  Bernard Renoux
 
@@ -115,7 +115,7 @@ https://fisheyemagazine.fr/article/la-ville-a-travers-des-jumelles/
 
 <br/>
 
-#### Crédits
+## Crédits
 
 Photographies © Sylvain Bonniol\
 Création et conception du site : Sylvère Armange\
