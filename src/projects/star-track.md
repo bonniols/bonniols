@@ -40,17 +40,13 @@ gallery:
 
 <br/>
 
-*Star Track* est un voyage dans la cordillère des Andes, à travers les déserts d'Uyuni, du sud Lipez, de l'Atacama et des sites chiliens d'observation astronomique.
-
-Routes, pistes, sentiers, traces.\
-Roches, sable, sel, poussière.
-
-Le chantier des antennes géantes d'ALMA<sup>1</sup> en attente d'un ordre de marche. \
-L'hôtel déserté à la tombée de la nuit pour l'usage nocturne du VLT <sup>2</sup>.
-
-
-Téléscopes, paraboles, optiques, balises.\
-Crépuscules, nébuleuses, constellations, horizon.
+Sable, sel, poussière.\
+"Star Track" est un voyage dans la cordillère des Andes, à travers les déserts d'Uyuni, du sud Lipez, de l'Atacama, et des sites d'observatoires astronomiques chiliens.\
+Routes, pistes, sentiers.\
+Le chantier des antennes géantes d'ALMA<sup>1</sup> en attente d'un ordre de marche.\
+Paraboles, optiques, balises.\
+L'hôtel déserté à la tombée de la nuit pour l'usage nocturne du VLT <sup>2</sup>.\
+Crépuscules, nébuleuses, horizon.
 
 <br/>
 
