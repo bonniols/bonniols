@@ -140,7 +140,7 @@ https://www.boxconseil.fr/
 
 "Sylvain Bonniol photographe en immersion" Mai Tran
 
-"La ville à travers les jumelles" Lou Tsatsas
+"La ville à travers les jumelles" Lou Tsatsas\
 https://fisheyemagazine.fr/article/la-ville-a-travers-des-jumelles/
 
 "Le chantier naval, par Sylvain Bonniol" David Liaudet
