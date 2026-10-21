@@ -96,6 +96,23 @@ https://www.boxconseil.fr/
 
 #### Textes critiques / Citations
 
+"Les Chantiers, un vaisseau spécial"  Bernard Renoux
+
+"R+14 ou le paysage déréalisé" Bertrand Charles
+
+"Sylvain Bonniol photographe en immersion" Mai Tran
+
+"La ville à travers les jumelles" Lou Tsatsas
+https://fisheyemagazine.fr/article/la-ville-a-travers-des-jumelles/
+
+"Le chantier naval" David Liaudet
+
+"Chantiers croisés" Christophe Boucher
+
+"Voir le dedans des murs" Christophe Bouher
+
+
+
 <br/>
 
 #### Crédits
