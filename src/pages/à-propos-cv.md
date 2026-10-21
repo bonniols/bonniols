@@ -4,6 +4,8 @@ slug: infos
 background_color: "#c2e0f7"
 invert_text_color: false
 ---
+
+
 <br/>
 
 ## Parcours
@@ -24,6 +26,8 @@ Ainsi, le travail de Sylvain Bonniol se déploie dans une double perspective doc
 
 <br/>
 
+
+
 ## Contacts
 
 Sylvain Bonniol artiste photographe\
@@ -34,6 +38,8 @@ bonniols@gmail.com
 <br/>
 
 <br/>
+
+
 
 ## Liens
 
@@ -89,6 +95,14 @@ https://www.boxconseil.fr/
 <br/>
 
 #### Textes critiques / Citations
+
+<br/>
+
+#### Crédits
+
+Photographies © Sylvain Bonniol\
+Création et conception du site : Sylvère Armange\
+2026
 
 <br/>
 
