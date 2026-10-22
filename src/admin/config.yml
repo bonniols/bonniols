@@ -72,7 +72,7 @@ collections:
         hint: "Activer pour utiliser la couleur de fond du projet dans le diaporama. Désactiver pour utiliser un gris neutre."
       - name: body
         label: Texte
-        widget: markdown
+        widget: richtext
       - name: gallery
         label: Images
         widget: image
@@ -128,7 +128,7 @@ collections:
         hint: "Activer pour utiliser la couleur de fond du projet dans le diaporama. Désactiver pour utiliser un gris neutre."
       - name: body
         label: Texte
-        widget: markdown
+        widget: richtext
       - name: gallery
         label: Images
         widget: image
@@ -169,7 +169,7 @@ collections:
         hint: "Activer pour afficher le texte en blanc (utile sur fond sombre)."
       - name: body
         label: Texte
-        widget: markdown
+        widget: richtext
 
   - name: navigation
     label: Navigation
@@ -284,5 +284,5 @@ collections:
             hint: "Laisser vide pour masquer le lien."
           - name: legals_body
             label: Texte mentions légales
-            widget: markdown
+            widget: richtext
             required: false
