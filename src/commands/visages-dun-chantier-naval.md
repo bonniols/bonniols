@@ -32,32 +32,38 @@ gallery:
 
 <br/>
 
-*"Les chantiers navals de Saint-Nazaire ont donné carte blanche à un jeune photographe de talent pour explorer toute la richesse visuelle et humaine de cette « ville dans la ville.*
+*"On arrive ici comme dans un ventre à ciel ouvert, une matrice aux propriétés presque organiques. Tout y pousse à l’image du règne végétal : pas assez vite pour assister à la croissance du navire en temps réel, mais suffisamment pour créer de nouveaux points de vue, de nouvelles circulations à chaque visite. Attineurs, accosteurs, pilotes, techniciens seront mes guides à la découverte de ce grand champ d’exploitation navale."*
 
-*Le chantier naval de Saint-Nazaire est en effet un des plus grands, un des plus anciens et en même temps un des plus innovants au monde. Tout y est gigantesque et spectaculaire.*
+*Texte : Sylvain Bonniol, extrait*
 
-*Sylvain Bonniol a pu en arpenter les 100 hectares de jour comme de nuit, pendant deux ans, en côtoyant au plus près les paquebots en construction, les ingénieurs dans les bureaux d’études, les charpentiers dans les ateliers, les temps forts des essais mer...*
-
-*Il en ressort un ouvrage étonnant, d’une grande richesse iconographique, porté par un regard d’auteur, où les portraits d’équipes au travail entrent en résonance avec les espaces de construction.*
-
-*Une immersion photographique passionnante dans un chantier naval hors-norme."*
-
-*Extrait du communiqué de presse des Editions de la Martinière*
+> \
+> **Editions de La Martinière**\
+> Photographies et textes : Sylvain Bonniol\
+> Préface de Laurent Castaing, DG des Chantiers de l'Atlantique\
+> Achevé d'imprimé en novembre 2017 sur les presses d'EBS en Italie\
+> Janvier 2018 - 224 pages - 250 mm x 290 mm\
+> ISBN 2732478245
 
 <br/>
 
-> Production (Smart-Appart) :
+> **Expositions :**
 >
-> 5 impressions pigmemtaires, montage sur pvc, encadrement bois blanc et verre minéral, 110 x 130 cm
+> 2o25, *Visages d'un chantier naval*, festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France (solo)
 >
-> 5 impressions pigmemtaires, montage sur dibond, encadrement caisse américaine chêne 170 X 80 cm
+> 2019, *Intermissions*, Le cloître ouvert, Paris (solo)
 >
-> 1 impression pigmentaire, montage sur dibond, encadrement caisse américaine chêne 112 x 140 cm
+> 2019, *Visages d'un chantier naval*, Galerie Hazy, Le Pouliguen (solo)
+>
+> 2018, *Visages d'un chantier naval*, Smart-Appart, Saint-Nazaire (solo)
 >
 > <br/>
 >
-> Exposition :
+> **Production tirages (Smart-Appart) :**
 >
-> 2o25, *Visages d'un chantier naval*,festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France (solo)
+> 5 impressions pigmemtaires, montage sur pvc, encadrement bois blanc et verre minéral, 110 x 130 cm\
+> 5 impressions pigmemtaires, montage sur dibond, encadrement caisse américaine chêne 170 X 80 cm\
+> 1 impression pigmentaire, montage sur dibond, encadrement caisse américaine chêne 112 x 140 cm
 >
-> 2019, *Visages d'un chantier naval*, Galerie Hazy, Le Pouliguen (solo)
+>
+>
+>
