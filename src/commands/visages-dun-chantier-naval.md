@@ -32,17 +32,28 @@ gallery:
 
 <br/>
 
+<br/>
+
+:::right
+
+**Editions de La Martinière**\
+Photographies et textes : Sylvain Bonniol\
+Préface de Laurent Castaing, DG des Chantiers de l'Atlantique\
+Achevé d'imprimé en novembre 2017 sur les presses d'EBS en Italie\
+Janvier 2018 - 224 pages - 250 mm x 290 mm\
+ISBN 2732478245
+
+:::
+
+<br/>
+
+<br/>
+
 *"On arrive ici comme dans un ventre à ciel ouvert, une matrice aux propriétés presque organiques. Tout y pousse à l’image du règne végétal : pas assez vite pour assister à la croissance du navire en temps réel, mais suffisamment pour créer de nouveaux points de vue, de nouvelles circulations à chaque visite. Attineurs, accosteurs, pilotes, techniciens seront mes guides à la découverte de ce grand champ d’exploitation navale."*
 
 *Texte : Sylvain Bonniol, extrait*
 
-> \
-> **Editions de La Martinière**\
-> Photographies et textes : Sylvain Bonniol\
-> Préface de Laurent Castaing, DG des Chantiers de l'Atlantique\
-> Achevé d'imprimé en novembre 2017 sur les presses d'EBS en Italie\
-> Janvier 2018 - 224 pages - 250 mm x 290 mm\
-> ISBN 2732478245
+
 
 <br/>
 
