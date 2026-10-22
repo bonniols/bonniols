@@ -165,4 +165,6 @@ Création et conception du site : Sylvère Armange \
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791316103/20240801_093123-01-02_axqyth.jpg)
 
+*Autoportrait à l'Angélique " qui sert à tenir la personne joyeusement", Olivier De Serres* 
+
 <br/>
