@@ -29,11 +29,7 @@ gallery:
 
 <br/>
 
-> Production :
->
-> 10 tirages Lambda en caisse américaine, 75 cm de largeur, longueurs variables
->
-> Expositions :
+> **Expositions :**
 >
 > 2019, *Intermissions*, Le Cloître Ouvert, Paris 8e (solo)
 >
@@ -42,3 +38,9 @@ gallery:
 > 2o17, *10e Biennale du design* de Saint Etienne (collective)
 >
 > 2o15, *L'âge de l'air*, festival USIMAGES /  Pôle photographique en Hauts-de-France (solo)
+>
+> <br/>
+>
+> **Production tirages :**
+>
+> 10 tirages Lambda en caisse américaine, 75 cm de largeur, longueurs variables
