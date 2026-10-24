@@ -31,8 +31,28 @@ gallery:
 ---
 # Documentation du chantier de 2018 à 2021
 
+<br/>
+
+<br/>
+
+:::right
+
 Conception architecturale : Benjamin Avignon\
 Maitre d'ouvrage : Quartus Résidentiel
+
+96 m x 23 m x 14 m\
+6051m2
+
+RDC + 3 niveaux\
+1 rue intérieure\
+2 moteurs\
+3 atriums
+
+44 bureaux\
+1 hôtel d'entreprises\
+2 incubateurs
+
+:::
 
 <br/>
 
@@ -46,14 +66,13 @@ Maitre d'ouvrage : Quartus Résidentiel
 
 <br/>
 
-> 96 m x 23 m x 14 m\
-> 6051m2
+> **Edition :**
 >
-> RDC + 3 niveaux\
-> 1 rue intérieure\
-> 2 moteurs\
-> 3 atriums
->
-> 44 bureaux\
-> 1 hôtel d'entreprises\
-> 2 incubateurs
+> CAHIER ARCHITECTURE / CAHIER GRAPHIQUE\
+> Documentation de chantier de la Halle 6 Est à Nantes de 2018 à 2021\
+> Conception architecturale : Banjamin Avignon\
+> Graphisme et signalétique : Nicolas Gautron\
+> Typographie : Benoît Bodhuin\
+> Photographie : Sylvain Bonniol\
+> Juin 2021 - 96 pages - Format : 160 x 220 mm\
+> Edition NG + BB + SB
