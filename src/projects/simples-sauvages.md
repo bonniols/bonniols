@@ -61,12 +61,12 @@ gallery:
 
 <br/>
 
-> Production (association ASLA) :
+> **Exposition :**
 >
-> 12 tirages pigmentaires adhésivés sur contreplaqué marine, 130 x 100 cm 
+> 2025, *Simples Sauvages*, festival Confluence #2 prairie Cellier Goudy, Nantes
 >
 > <br/>
 >
-> Exposition :
+> **Production tirages** (association ASLA) :
 >
-> 2025, *Simples Sauvages*, festival Confluence #2 prairie Cellier Goudy, Nantes
+> 12 tirages pigmentaires adhésivés sur contreplaqué marine, 130 x 100 cm
