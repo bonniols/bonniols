@@ -39,14 +39,10 @@ gallery:
 >
 > 2o15, *Multiples #5*, Galerie RDV, Nantes (collective)
 >
-> <br/>
->
-> **Production tirages :**
+> **Production :**
 >
 > Série de 16 cartes postales. 25 exemplaires numérotés signées.
 >
 > Similigravure sur presse typographique : Musée de l’imprimerie de Nantes.
 >
 > Collaboration éditoriale du Comité de Vigilance Brutaliste et Galerie RDV.
->
->
