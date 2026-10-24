@@ -53,40 +53,12 @@ gallery:
 
 <br/>
 
-> Edition :\
-> Portfolio "Regard sur l'industrie" : 16 panoramiques au format 460 x 220 mm (sujet en 64 photos)\
+> **Edition :**\
+> "Regard sur l'industrie" : 16 panoramiques au format 460 x 220 mm (sujet en 64 photos)\
 > Brochure du rapport annuel 2017-2018 UIMM 44 / La Fabrique d'avenir
->
-> Avec l'aimable coopération de :
->
-> AIRBUS Operations SAS
->
-> STELIA Aerospace
->
-> ARQUUS
->
-> LYDALL Thermique Acoustique
->
-> SELVA
->
-> FRAMATOME
->
-> E.S.P.A.C.E.
->
-> ALGAND
->
-> MAN Diesel & Turbo France
->
-> TOYOTA Material Handing Manufacturing France SAS
->
-> CROWN Emballage France
->
-> FMGC 
->
-> FONDERIE BOUHYER
->
-> IDRA Novaco
->
-> NAVAL Group
->
-> CHANTIER DE L'ATLANTIQUE
+
+<br/>
+
+Avec l'aimable coopération de :
+
+AIRBUS Operations SAS, STELIA Aerospace, ARQUUS, LYDALL Thermique Acoustique, SELVA, FRAMATOME, E.S.P.A.C.E., ALGAND, MAN Diesel & Turbo France, TOYOTA Material Handing Manufacturing France SAS, CROWN Emballage France, FMGC, FONDERIE BOUHYER, IDRA Novaco, NAVAL Group, CHANTIERS DE L'ATLANTIQUE
