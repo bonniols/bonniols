@@ -56,6 +56,6 @@ Crépuscules, nébuleuses, horizon.
 
 <br/>
 
-> Parutions :\
+> **Parutions :**\
 > Juillet 2011 - Ca m'intéresse - "Le chantier de la démesure" texte de Mathieu Grousson\
 > Septembre 2010 - La banque des savoirs (Essone) - "Une nuit au VLT"
