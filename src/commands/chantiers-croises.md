@@ -40,20 +40,22 @@ Chacune de ses images est devenue une mise en relation, un récit composéde m
 
 <br/>
 
-> Production :
+> **Exposition :**
+>
+> 2017, *Chantiers croisés*, inauguration du Chronographe, Rezé. Photographie et scénographie, Sylvain Bonniol. Graphisme, Nicolas Gautron. Textes, Christophe Boucher
+>
+> <br/>
+>
+> **Production :**
 >
 > 12 tirages sur bache 130 X 100 cm
 >
 > <br/>
 >
-> Edition :
+> **Edition :**
 >
 > 79 cartes postales 10 X 15 cm
 >
 > Poster dépliant recto-verso 100 X 70 cm
 >
-> <br/>
 >
-> Exposition : 
->
-> 2017, *Chantiers croisés*, inauguration du Chronographe, Rezé. Photographie et scénographie,  Sylvain Bonniol. Graphisme, Nicolas Gautron. Textes, Christophe Boucher
