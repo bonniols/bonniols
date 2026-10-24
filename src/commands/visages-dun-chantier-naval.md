@@ -34,19 +34,6 @@ gallery:
 
 <br/>
 
-:::right
-
-**Editions de La Martinière**\
-Photographies et textes : Sylvain Bonniol\
-Préface de Laurent Castaing, DG des Chantiers de l'Atlantique\
-Achevé d'imprimé en novembre 2017 sur les presses d'EBS en Italie\
-Janvier 2018 - 224 pages - 250 mm x 290 mm\
-ISBN 2732478245
-
-:::
-
-<br/>
-
 <br/>
 
 *"On arrive ici comme dans un ventre à ciel ouvert, une matrice aux propriétés presque organiques. Tout y pousse à l’image du règne végétal : pas assez vite pour assister à la croissance du navire en temps réel, mais suffisamment pour créer de nouveaux points de vue, de nouvelles circulations à chaque visite. Attineurs, accosteurs, pilotes, techniciens seront mes guides à la découverte de ce grand champ d’exploitation navale."*
@@ -55,6 +42,18 @@ ISBN 2732478245
 
 <br/>
 
+> **Edition :**
+>
+> VISAGES D'UN CHANTIER NAVAL\
+> Editions de la Martinière\
+> Photographies et textes : Sylvain Bonniol\
+> Préface de Laurent Castaing, DG des Chantiers de l'Atlantique\
+> Achevé d'imprimé en novembre 2017 sur les presses d'EBS en Italie\
+> Janvier 2018 - 224 pages - 250 mm x 290 mm\
+> ISBN 2732478245
+>
+> <br/>
+>
 > **Expositions :**
 >
 > 2o25, *Visages d'un chantier naval*, festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France (solo)
@@ -67,7 +66,7 @@ ISBN 2732478245
 >
 > <br/>
 >
-> **Production tirages (Smart-Appart) :**
+> **Production (Smart-Appart) :**
 >
 > 5 impressions pigmemtaires, montage sur pvc, encadrement bois blanc et verre minéral, 110 x 130 cm\
 > 5 impressions pigmemtaires, montage sur dibond, encadrement caisse américaine chêne 170 X 80 cm\
