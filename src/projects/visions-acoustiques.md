@@ -43,23 +43,29 @@ gallery:
 
 <br/>
 
-> Production :
->
-> \- Tirages Permajet Mat sur dibond 80 X 80 cm
->
-> \- Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
->  100 X 150 cm. 5 exemplaires signés et numérotés
->
-> Distinctions :
->
-> \- Mention spéciale à la Bourse du Talent # 40
->
-> \- Sélection aux Voies Off d’Arles 2010
->
-> Expositions :
+> **Expositions :**
 >
 > \- *Intermissions*, Le Cloître Ouvert, Paris 8e 2019 (solo)
 >
 > \- *J'ai posé le monde sur la table,* ESBA TALM, Le Mans 2018 (collective)
 >
 > \- *Visions acoustiques*, Galerie RDV et la 16è QPN, Nantes 2012 (solo)
+>
+> <br/>
+>
+> **Production :**
+>
+> \- Tirages Permajet Mat sur dibond 80 X 80 cm
+>
+> \- Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
+>  100 X 150 cm. 5 exemplaires signés et numérotés
+>
+> <br/>
+>
+> **Distinctions :**
+>
+> \- Mention spéciale à la Bourse du Talent # 40
+>
+> \- Sélection aux Voies Off d’Arles 2010
+>
+>
