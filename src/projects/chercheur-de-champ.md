@@ -28,12 +28,10 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793007599/20240925_tournesol_ltanhu.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500586/20240711_071215-01-01-01_dpl6fq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500593/20250103_185646_002_yi9et0.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793029649/06012026-_DSF2531_ymqbek.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500582/02022025-_DSF0854_yutzss.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/06012026-_DSF2549_rhsoi3.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500582/02022025-_DSF0854_yutzss.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793029652/06012026-_DSF2538_rll1ap.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790501147/03022025-_DSF0950_mypbjb.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790501148/03022025-_DSF0968_2_ghdz1k.jpg
 ---
 # Projet en cours depuis 2021
 
