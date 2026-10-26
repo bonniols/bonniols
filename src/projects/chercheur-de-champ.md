@@ -16,6 +16,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793007593/20240821_084208-01_onamlr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790501147/03022025-_DSF0950_mypbjb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500584/20240707_091655-01-01_xwejbf.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793009045/petite_taihmk.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793007841/20240421_aubepine_guglzl.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/20240718_tapis_210_297_kswvjs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500597/duo_recolte_bxgk6t.jpg
