@@ -10,29 +10,23 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500598/23012025-_DSF0258_1_dosaqm.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793007805/20250314_132705-01-01_nrwnhj.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500594/20240604_211540-01-01_ry7jxs.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500600/ete_compo_210_297_ymzqqf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/20240620_excargots_hitnmb.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793007593/20240821_084208-01_onamlr.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/06012026-_DSF2549_rhsoi3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500584/20240707_091655-01-01_xwejbf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793007841/20240421_aubepine_guglzl.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/20240718_tapis_210_297_kswvjs.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500597/duo_recolte_bxgk6t.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500600/ete_compo_210_297_ymzqqf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500584/08082025-_DSF2050_jdgqxk.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793007592/20240723_102115-01_qvcyks.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500589/20240829_112822-01-01__thzupo.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793007592/20240829_112822-01-01_hpcxd6.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500594/20251103_164659-01-01_h7bggw.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793007599/141086554_2181609388639481_6209160698293564465_n_oahnf4.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793010416/recolte_hwjudj.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791316103/20240801_093123-01-02_axqyth.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793007599/141086554_2181609388639481_6209160698293564465_n_oahnf4.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793007593/20240821_084208-01_onamlr.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500594/20251103_164659-01-01_h7bggw.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/20240929_164442-01_gyz2h3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793007599/20240925_tournesol_ltanhu.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500586/20240711_071215-01-01-01_dpl6fq.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/06012026-_DSF2549_rhsoi3.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790501147/03022025-_DSF0950_mypbjb.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500582/02022025-_DSF0854_yutzss.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500593/20250103_185646_002_yi9et0.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793007595/20240801_093123-01-02_dktmpk.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793010416/recolte_hwjudj.jpg
 ---
 # Projet en cours depuis 2021
 
