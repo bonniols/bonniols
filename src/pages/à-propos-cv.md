@@ -161,8 +161,11 @@ Box Conseil Editions\
 
 ## Crédits
 
-Création et conception du site : [Sylvère Armange](https://sylvere.fr/) 2026\
-All images © Sylvain Bonniol
+Création et conception du site : [Sylvère Armange](https://sylvere.fr/) \
+All images © Sylvain Bonniol\
+2026
+
+
 
 <br/>
 
