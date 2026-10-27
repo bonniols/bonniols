@@ -36,7 +36,13 @@ gallery:
 *"À Saint-Lupien aussi, Sylvain Bonniol a pris position, et choisi de poser son appareil sous les gradins de terre, ou au milieu de l’herbe et des échafau-dages, ou en surplomb de la ville et de l’eau.
 Chacune de ses images est devenue une mise en relation, un récit composéde matières, de lumières, de géométries, de présences humaines, de repèreslointains ou de signes ténus, d’indices, de « presque riens » essentiels.Au-delà de l’anecdote, les acteurs des chantiers nous rappellent ici, commeles petits personnages de certaines peintures de Poussin, qu’il faut l’activitédes hommes pour produire un paysage, une ville, une architecture."* 
 
-*Texte : Christophe Boucher, CAUE 44*
+:::small
+
+:::right
+
+*Christophe Boucher, CAUE 44*
+
+:::
 
 <br/>
 
@@ -57,5 +63,3 @@ Chacune de ses images est devenue une mise en relation, un récit composéde m
 > 79 cartes postales 10 X 15 cm
 >
 > Poster dépliant recto-verso 100 X 70 cm
->
->
