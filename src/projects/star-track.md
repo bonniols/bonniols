@@ -51,9 +51,13 @@ Dans le sable, le sel et la poussières.
 
 <br/>
 
+:::small
+
 > <sup>1</sup> *Very Large Telescope*. Mont Paranal, 2400m d'altitude, Chili.
 >
 > <sup>2</sup> *Atacama Large Millimeter/Submillimiter Array*. Plateau de Chajnantor , 5000m d'altitude, Chili.
+
+:::
 
 <br/>
 
