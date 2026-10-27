@@ -16,9 +16,13 @@ Ainsi, le travail de Sylvain Bonniol se déploie dans une double perspective éc
 
 <br/>
 
+:::small
+
 > <sup>1</sup> Expression employée par Philippe Descola, pour définir les "non-humains" vivants en tant qu'animaux, végétaux, esprits.
 >
 > <sup>2</sup> Olivier Hamant, « Antidote au culte de la performance / La robustesse du vivant ». Tract Gallimard n°50, août 2023.
+
+:::
 
 <br/>
 
