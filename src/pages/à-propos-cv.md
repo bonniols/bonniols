@@ -158,13 +158,12 @@ https://fisheyemagazine.fr/article/la-ville-a-travers-des-jumelles/
 ## Crédits
 
 All images © Sylvain Bonniol\
-Création et conception du site : Sylvère Armange \
-2026
+Création et conception du site : Sylvère Armange 2026
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791316103/20240801_093123-01-02_axqyth.jpg)
 
-*Autoportrait à l'Angélique " qui sert à tenir la personne joyeusement", Olivier De Serres* 
+
 
 <br/>
