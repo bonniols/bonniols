@@ -49,21 +49,35 @@ gallery:
 
 *Le travail photographique est ici une tentative de laisser ces plantes s’enraciner, croître dans notre imaginaire et révéler leur génie stationnaire.* 
 
+:::right
+
+:::small
+
+*Sylvain Bonniol*
+
+:::
+
+:::small
+
 *<br/>*
 
 > *<sup>1</sup> « Plant blindness », est un concept des botanistes James Wandersee et Elisabeth Schussler(1998) qui décrit le biais cognitif d’aveuglement aux espèces végétales, principalement dans les sociétés occidentales actuelles.*
 >
 > *<sup>2</sup> Citation de l’ouvrage « La plante compagne » (1998). Pierre Lieutaghi (1939-2023) est un ethnobotaniste français, auteur du célèbre ouvrage « Le Livre des bonnes herbes » (1966) et créateur d’un jardin ethnobotanique à Mane dans les Alpes-de-Haute-Provence.*
 
+:::
+
 <br/>
 
-*Texte, Sylvain Bonniol*
+
 
 <br/>
 
 > **Exposition :**
 >
 > 2025, *Simples Sauvages*, festival Confluence #2 prairie Cellier Goudy, Nantes
+>
+> <br/>
 >
 > **Production** (association ASLA) **:**
 >
