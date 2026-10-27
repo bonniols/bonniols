@@ -7,7 +7,6 @@ invert_text_color: false
 use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790344956/038_gcg3kr.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790344799/037_plawnq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081962/Visions_acoustiques_025_kjfoaf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790081962/Visions_acoustiques_026_tr8mxm.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790340537/026_bbh2zs.jpg
@@ -57,16 +56,12 @@ gallery:
 >
 > \- *Visions acoustiques*, Galerie RDV et la 16è QPN, Nantes 2012 (solo)
 >
-> <br/>
->
 > **Production :**
 >
 > \- Tirages Permajet Mat sur dibond 80 X 80 cm
 >
 > \- Tirages Permajet Mat sur dibond, encadrement haute feuillure chêne massif. 
 >  100 X 150 cm. 5 exemplaires signés et numérotés
->
-> <br/>
 >
 > **Distinctions :**
 >
