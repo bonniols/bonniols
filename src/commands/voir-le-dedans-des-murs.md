@@ -56,8 +56,6 @@ gallery:
 > *Mais voir*
 >
 > *Apaiserait.*
->
->
 
 :::small
 
