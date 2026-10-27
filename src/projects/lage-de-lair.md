@@ -25,7 +25,13 @@ gallery:
 
 *Les évolutions technologiques et humaines mettent ici en perspective l’aéronautique du début du XXIème siècle en donnant à la commande photographique un sens patrimonial qui témoigne de la curiosité que le monde industriel porte sur lui-même."*
 
-*Texte : Sylvain Bonniol*
+:::small
+
+:::right
+
+*Sylvain Bonniol*
+
+:::
 
 <br/>
 
