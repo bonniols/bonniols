@@ -45,6 +45,8 @@ gallery:
 >
 > 2015, *Multiples #5*, Galerie RDV, Nantes (collective)
 >
+> <br/>
+>
 > **Production :**
 >
 > Série de 16 cartes postales. 25 exemplaires numérotés signées.
