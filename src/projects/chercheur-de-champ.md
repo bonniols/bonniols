@@ -23,15 +23,15 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793007599/141086554_2181609388639481_6209160698293564465_n_oahnf4.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500589/20240829_112822-01-01__thzupo.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500594/20251103_164659-01-01_h7bggw.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793029652/06012026-_DSF2538_rll1ap.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500582/02022025-_DSF0854_yutzss.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/06012026-_DSF2549_rhsoi3.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790501147/03022025-_DSF0950_mypbjb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793029654/14012017-_DSF7765_z6fanp.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/20240929_164442-01_gyz2h3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793007599/20240925_tournesol_ltanhu.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500586/20240711_071215-01-01-01_dpl6fq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500593/20250103_185646_002_yi9et0.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793029652/06012026-_DSF2538_rll1ap.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500582/02022025-_DSF0854_yutzss.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790500591/06012026-_DSF2549_rhsoi3.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790501147/03022025-_DSF0950_mypbjb.jpg
 ---
 # Projet en cours depuis 2021
 
