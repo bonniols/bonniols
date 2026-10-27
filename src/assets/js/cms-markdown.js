@@ -5,6 +5,7 @@
         ['right', 'md-align-right'],
         ['left', 'md-align-left'],
         ['narrow', 'md-narrow'],
+        ['small', 'md-small'],
     ];
 
     function addAlignContainers(md) {
@@ -23,7 +24,27 @@
         return md;
     }
 
+    // Keep in sync with addExternalLinkTargets in lib/markdown-setup.js
+    function addExternalLinkTargets(md) {
+        var defaultRender =
+            md.renderer.rules.link_open ||
+            function (tokens, idx, options, env, self) {
+                return self.renderToken(tokens, idx, options);
+            };
+
+        md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
+            var token = tokens[idx];
+            if ((token.attrGet('href') || '').indexOf('://') !== -1) {
+                token.attrSet('target', '_blank');
+                token.attrSet('rel', 'noopener noreferrer');
+            }
+            return defaultRender(tokens, idx, options, env, self);
+        };
+
+        return md;
+    }
+
     window.createCmsMarkdownRenderer = function () {
-        return addAlignContainers(window.markdownit({ html: true }));
+        return addExternalLinkTargets(addAlignContainers(window.markdownit({ html: true })));
     };
 })();
