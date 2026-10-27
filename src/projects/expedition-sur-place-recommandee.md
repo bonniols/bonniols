@@ -31,6 +31,8 @@ gallery:
 
 :::small 
 
+:::right
+
 *David Liaudet / Comité de Vigilance Brutaliste.*
 
 :::
