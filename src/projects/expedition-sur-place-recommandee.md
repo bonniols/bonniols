@@ -41,9 +41,9 @@ gallery:
 
 > **Expositions :**
 >
-> 2o18, *J’ai posé le monde sur la table,* Ecole Supérieure des Beaux-Arts TALM (collective)
+> 2018, *J’ai posé le monde sur la table,* Ecole Supérieure des Beaux-Arts TALM (collective)
 >
-> 2o15, *Multiples #5*, Galerie RDV, Nantes (collective)
+> 2015, *Multiples #5*, Galerie RDV, Nantes (collective)
 >
 > **Production :**
 >
