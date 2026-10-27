@@ -38,7 +38,13 @@ gallery:
 
 *"On arrive ici comme dans un ventre à ciel ouvert, une matrice aux propriétés presque organiques. Tout y pousse à l’image du règne végétal : pas assez vite pour assister à la croissance du navire en temps réel, mais suffisamment pour créer de nouveaux points de vue, de nouvelles circulations à chaque visite. Attineurs, accosteurs, pilotes, techniciens seront mes guides à la découverte de ce grand champ d’exploitation navale."*
 
-*Texte : Sylvain Bonniol, extrait*
+:::small
+
+:::right
+
+*Sylvain Bonniol, extrait*
+
+:::
 
 <br/>
 
