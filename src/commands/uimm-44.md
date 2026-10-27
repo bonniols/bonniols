@@ -49,7 +49,13 @@ gallery:
 
 *Je souhaite dédier que ce portfolio à la communauté de passionnés que j’ai eu la chance de rencontrer dans ces entreprises, "sans distinction de couleur de col". Merci à eux pour leur accueil et leur disponibilité.*
 
-*Texte : Sylvain Bonniol - Rapport annuel 2017-2018 UIMM Loire Atlantique*
+:::small
+
+:::right
+
+*Sylvain Bonniol - Rapport annuel 2017-2018 UIMM Loire Atlantique*
+
+:::
 
 <br/>
 
@@ -57,8 +63,10 @@ gallery:
 > "Regard sur l'industrie" : 16 panoramiques au format 460 x 220 mm (sujet en 64 photos)\
 > Brochure du rapport annuel 2017-2018 UIMM 44 / La Fabrique d'avenir
 
+:::small
+
 <br/>
 
-Avec l'aimable coopération de :
+> Avec l'aimable coopération de AIRBUS Operations SAS, STELIA Aerospace, ARQUUS, LYDALL Thermique Acoustique, SELVA, FRAMATOME, E.S.P.A.C.E., ALGAND, MAN Diesel & Turbo France, TOYOTA Material Handing Manufacturing France SAS, CROWN Emballage France, FMGC, FONDERIE BOUHYER, IDRA Novaco, NAVAL Group, CHANTIERS DE L'ATLANTIQUE
 
-AIRBUS Operations SAS, STELIA Aerospace, ARQUUS, LYDALL Thermique Acoustique, SELVA, FRAMATOME, E.S.P.A.C.E., ALGAND, MAN Diesel & Turbo France, TOYOTA Material Handing Manufacturing France SAS, CROWN Emballage France, FMGC, FONDERIE BOUHYER, IDRA Novaco, NAVAL Group, CHANTIERS DE L'ATLANTIQUE
+:::
