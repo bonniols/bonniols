@@ -69,8 +69,6 @@ gallery:
 
 <br/>
 
-
-
 <br/>
 
 > **Exposition :**
