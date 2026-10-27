@@ -41,6 +41,8 @@ gallery:
 
 :::small
 
+:::right
+
 *Sylvain Bonniol*
 
 :::
