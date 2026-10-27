@@ -42,7 +42,9 @@ gallery:
 
 :::right
 
-*Sylvain Bonniol, extrait*
+*Sylvain Bonniol,*\
+*extrait du livre VISAGES D'UN CHANTIER NAVAL*\
+*aux éditions de la Martinière*
 
 :::
 
