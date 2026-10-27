@@ -69,13 +69,17 @@ gallery:
 
 *Au delà de la qualité de l’oeuvre photographique, et du souhait de donner à voir ce qui n’est pas habituellement visible, il s’agit de participer à la réflexion sur la mutation des usages des édifices anciens préalable indispensable à leur réinvention architecturale et urbaine, et donc à leur préservation.»*
 
-*Texte : Christophe Boucher*
+:::small
+
+:::right
+
+*Christophe Boucher*
+
+:::
 
 <br/>
 
 <br/>
-
-
 
 > **Exposition** (CAUE 44) :
 >
