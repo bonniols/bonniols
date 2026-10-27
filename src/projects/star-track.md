@@ -49,9 +49,19 @@ gallery:
 *"Star Track" est un voyage dans la cordillère des Andes, à travers les déserts d'Uyuni, du sud Lipez, de l'Atacama, et des sites d'observatoires astronomiques chiliens.*\
 *Dans le sable, le sel et la poussières.*
 
+:::small
+
+:::right
+
+*Sylvain Bonniol*
+
+:::
+
 <br/>
 
 :::small
+
+
 
 > <sup>1</sup> *Very Large Telescope*. Mont Paranal, 2400m d'altitude, Chili.
 >
