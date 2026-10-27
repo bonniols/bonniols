@@ -21,9 +21,9 @@ gallery:
 
 <br/>
 
-*"L‘âge de l’air est un corpus photographique s’appuyant sur cinq années (2010-2015) de collaborations avec AIRBUS à Nantes et Saint-Nazaire, ainsi que STELIA Aerospace (Airbus Group entity) à Saint-Nazaire, à Méaulte et à Rochefort.*
+*L‘âge de l’air est un corpus photographique s’appuyant sur cinq années (2010-2015) de collaborations avec AIRBUS à Nantes et Saint-Nazaire, ainsi que STELIA Aerospace (Airbus Group entity) à Saint-Nazaire, à Méaulte et à Rochefort.*
 
-*Les évolutions technologiques et humaines mettent ici en perspective l’aéronautique du début du XXIème siècle en donnant à la commande photographique un sens patrimonial qui témoigne de la curiosité que le monde industriel porte sur lui-même."*
+*Les évolutions technologiques et humaines mettent ici en perspective l’aéronautique du début du XXIème siècle en donnant à la commande photographique un sens patrimonial qui témoigne de la curiosité que le monde industriel porte sur lui-même.*
 
 :::small
 
