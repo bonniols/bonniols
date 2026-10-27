@@ -39,6 +39,8 @@ gallery:
 
 :::right
 
+:
+
 > *Voir le dedans des murs*
 >
 > *Ne nous est pas donné.*
@@ -55,7 +57,11 @@ gallery:
 >
 > *Apaiserait.*
 >
-> *Eugène Guillevic – Exécutoire, 1947*
+>
+
+:::small
+
+*Eugène Guillevic – Exécutoire, 1947*
 
 :::
 
