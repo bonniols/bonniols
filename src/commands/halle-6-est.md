@@ -37,6 +37,8 @@ gallery:
 
 :::right
 
+:::small
+
 Conception architecturale : Benjamin Avignon\
 Maitre d'ouvrage : Quartus Résidentiel
 
@@ -56,13 +58,19 @@ RDC + 3 niveaux\
 
 <br/>
 
-*"Expérimenter l'espace dans toutes ses dimensions et révéler les singularités architecturales et patrimoniales du bâtiment.*\
+*Expérimenter l'espace dans toutes ses dimensions et révéler les singularités architecturales et patrimoniales du bâtiment.*\
 *Un jeu de calepinage et d'usinage de l'enveloppe pour faire apparaitre en spectre les traces du passé.*\
 *Une réécriture architecturale qui met en scène les situations de travail.*\
 *Mixité des espaces, traversée visuelles captant la lumière de toute part.*\
-*Un quartier dans le quartier de la création"*
+*Un quartier dans le quartier de la création.*
 
-*Texte : Nicolas Gautron*
+:::small
+
+:::right
+
+*Nicolas Gautron*
+
+:::
 
 <br/>
 
