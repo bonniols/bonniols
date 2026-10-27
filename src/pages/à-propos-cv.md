@@ -47,7 +47,7 @@ Diaphane, Pôle Photographique en Haut-de-France\
 <https://www.diaphane.org/>
 
 Biennale Usimages, Creil\
-https://fisheyemagazine.fr/article/usimages-focus-sur-la-photographie-industrielle/
+<https://fisheyemagazine.fr/article/usimages-focus-sur-la-photographie-industrielle/>
 
 Festival QPN, Nantes\
 <https://www.festival-qpn.com/>
@@ -56,7 +56,7 @@ Festival Voix Off, Arles\
 <https://festivaloffarles.com/>
 
 Biennale du design de Saint-Etienne\
-https://biennale-design.com/saint-etienne/2017/fr/programme/?ev=si-automatique--7
+<https://biennale-design.com/saint-etienne/2017/fr/programme/?ev=si-automatique--7>
 
 IPA Awards, USA\
 <https://www.photoawards.com/>
@@ -70,7 +70,7 @@ Smart-Appart, Saint-Nazaire\
 Galerie HAZY, Centre photographique Le Pouliguen\
 <https://galerierdv.com/>
 
-Galerie RDV, Nantes
+Galerie RDV, Nantes\
 <https://galerierdv.com/>
 
 <br/>
