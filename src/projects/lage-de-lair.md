@@ -45,6 +45,8 @@ gallery:
 >
 > 2o15, *L'âge de l'air*, festival USIMAGES /  Pôle photographique en Hauts-de-France (solo)
 >
+> <br/>
+>
 > **Production :**
 >
 > 10 tirages Lambda en caisse américaine, 75 cm de largeur, longueurs variables
