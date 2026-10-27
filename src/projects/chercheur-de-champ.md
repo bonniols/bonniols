@@ -58,6 +58,16 @@ gallery:
 
 *Mon approche photographique, loin d’une tentative de « geler une icône paysagère close comme un musée » <sup>5</sup> se propose de travailler par hybridation d’images et résonances : agencer observations pédestres, gestes de semailles et de récoltes, déplacements  oniriques et pratique buissonnière de l’auto-portrait. Ces champs d’investigations suggèrent non plus l’enceinte d’un jardin, mais une succession de décentrements paysagers que la photographie vise à amplifier.* 
 
+:::small
+
+:::right
+
+*Sylvain Bonniol*
+
+:::
+
+:::small
+
 <br/>
 
 > *<sup>1</sup> How forests think : Toward an Anthropology Beyond the Human, University of californa Press, 2013 (page 139 de l'édition française, 2017)*
@@ -70,5 +80,4 @@ gallery:
 >
 > *<sup>5</sup> Augustain Berque, La pensée paysagère qu’est-ce que cela veut dire, Paris, Pavillon de l’Arsenal, Conférence, 9 décembre 2017.*
 
-\
-*Texte : Sylvain Bonniol*
+:::
