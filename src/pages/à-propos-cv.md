@@ -40,97 +40,97 @@ bonniols@gmail.com
 #### *Festivals / Lieux d'expositions*
 
 Diaphane, Pôle Photographique en Haut-de-France\
-https://www.diaphane.org/
+<https://www.diaphane.org/>
 
 Biennale Usimages, Creil\
 https://fisheyemagazine.fr/article/usimages-focus-sur-la-photographie-industrielle/
 
 Festival QPN, Nantes\
-https://www.festival-qpn.com/
+<https://www.festival-qpn.com/>
 
 Festival Voix Off, Arles\
-https://festivaloffarles.com/
+<https://festivaloffarles.com/>
 
 Biennale du design de Saint-Etienne\
 https://biennale-design.com/saint-etienne/2017/fr/programme/?ev=si-automatique--7
 
 IPA Awards, USA\
-https://www.photoawards.com/
+<https://www.photoawards.com/>
 
 Le Cloître Ouvert, Paris\
-https://www.dimezzo.fr/lieux/le-cloitre-ouvert
+<https://www.dimezzo.fr/lieux/le-cloitre-ouvert>
 
 Smart-Appart, Saint-Nazaire\
-https://www.smart-appart.fr/fr/hotels/saint-nazaire-smartappart-saint-nazaire
+<https://www.smart-appart.fr/fr/hotels/saint-nazaire-smartappart-saint-nazaire>
 
 Galerie HAZY, Centre photographique Le Pouliguen\
-https://galerierdv.com/
+<https://galerierdv.com/>
 
 Galerie RDV, Nantes
-https://galerierdv.com/
+<https://galerierdv.com/>
 
 <br/>
 
 #### *Institutions / Musées*
 
 Région des Pays de la Loire\
-https://www.cdr-copdl.fr/index.php?lvl=notice_display&id=41543
+<https://www.cdr-copdl.fr/index.php?lvl=notice_display&id=41543>
 
 CAUE Loire Atlantique\
-https://www.caue44.com/
+<https://www.caue44.com/>
 
 Le Chronographe, Centre d'Interprétation de l'Architecture et du Patrimoine
-https://lechronographe.nantesmetropole.fr/
+<https://lechronographe.nantesmetropole.fr/>
 
 ESO European Southern Observatory, Chile\
-https://www.eso.org/public/about-eso/eso-and-chile/
+<https://www.eso.org/public/about-eso/eso-and-chile/>
 
 LHC du Cern, Geneve\
-https://home.cern/fr/science/accelerators/large-hadron-collider/
+<https://home.cern/fr/science/accelerators/large-hadron-collider/>
 
 UIMM Loire Atlantique\
-https://www.uimm-loire-atlantique.fr/
+<https://www.uimm-loire-atlantique.fr/>
 
 Ecole Supérieure d'Art et de Design TALM\
-https://esad-talm.fr/fr/actualites/perception-visuelle-et-geometrie-de-la-prise-de-vue-dessin-photographie
+<https://esad-talm.fr/fr/actualites/perception-visuelle-et-geometrie-de-la-prise-de-vue-dessin-photographie>
 
 H2/61.26, Espace Transdisciplinaire Art et Culture, Casablanca\
-https://h2-art.com/
+<https://h2-art.com/>
 
 Musée de l'Imprimerie de Nantes\
-https://musee-imprimerie.com/
+<https://musee-imprimerie.com/>
 
 <br/>
 
 #### *Entreprises*
 
 Chantiers de l'Atlantiques\
-https://chantiers-atlantique.com/
+<https://chantiers-atlantique.com/>
 
 Airbus\
-https://www.airbus.com/fr
+<https://www.airbus.com/fr>
 
 <br/>
 
 #### *Editions*
 
 Editions de la Martinière\
-https://www.editionsdelamartiniere.fr/
+<https://www.editionsdelamartiniere.fr/>
 
 Editions 303\
-https://www.editions303.com/
+<https://www.editions303.com/>
 
 Avivre Editions\
-https://www.avivremagazine.fr/
+<https://www.avivremagazine.fr/>
 
 Editions Shinkenchiku-sha\
-https://au-magazine.com/
+<https://au-magazine.com/>
 
 Editions Joca Seria\
-https://www.jocaseria.fr/
+<https://www.jocaseria.fr/>
 
 Box Conseil Editions\
-https://www.boxconseil.fr/
+<https://www.boxconseil.fr/>
 
 <br/>
 
@@ -143,7 +143,7 @@ https://www.boxconseil.fr/
 "Sylvain Bonniol photographe en immersion" Mai Tran
 
 "La ville à travers les jumelles" Lou Tsatsas\
-https://fisheyemagazine.fr/article/la-ville-a-travers-des-jumelles/
+<https://fisheyemagazine.fr/article/la-ville-a-travers-des-jumelles/>
 
 "Le chantier naval, par Sylvain Bonniol" David Liaudet
 
@@ -157,13 +157,11 @@ https://fisheyemagazine.fr/article/la-ville-a-travers-des-jumelles/
 
 ## Crédits
 
-All images © Sylvain Bonniol\
-Création et conception du site : Sylvère Armange 2026
+Création et conception du site : [Sylvère Armange](https://sylvere.fr/) 2026\
+All images © Sylvain Bonniol
 
 <br/>
 
 ![](https://res.cloudinary.com/yxpagolc/image/upload/v1791316103/20240801_093123-01-02_axqyth.jpg)
-
-
 
 <br/>
