@@ -41,7 +41,7 @@ gallery:
 
 :::small
 
-*Texte, Sylvain Bonniol*
+*Sylvain Bonniol*
 
 :::
 
