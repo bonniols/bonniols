@@ -1,5 +1,5 @@
 ---
-title: Jardin Extraordinaire
+title: JARDIN EXTRAORDINAIRE
 order: 0
 show_in_nav: true
 background_color: "#fdff8e"
