@@ -8,7 +8,7 @@ invert_text_color: false
 
 ## Parcours
 
-Diplômé de l’Ecole Supérieure des Beaux-Arts de Nantes en 2000, Sylvain Bonniol s'engage dans la photographie dès 2007 après une courte expérience dans l'enseignement. Pendant près de quinze ans, passionné par les lieux de production, il se consacre essentiellement à des commandes publiques et privées au sein de divers chantiers, laboratoires, usines et ateliers.
+Diplômé de l’Ecole Supérieure des Beaux-Arts de Nantes en 2000, Sylvain Bonniol s'engage dans la photographie dès 2007 après une expérience dans l'enseignement. Pendant près de quinze ans, passionné par les lieux de production, il se consacre essentiellement à des commandes publiques et privées au sein de divers chantiers, laboratoires, usines et ateliers.
 
 Plus récemment, il développe des projets en résidences ainsi que des cartes blanches collaboratives où il s'intéresse à la question du paysage, liée au corps et aux affects. En convoquant villes et campagnes, *humains et autres qu’humains <sup>1</sup>,* il s'attache de façon sensible à observer ces contextes comme d'autres types de production : des écosystèmes *robustes <sup>2</sup>* où l'homme est un maillon parmi les autres.
 
