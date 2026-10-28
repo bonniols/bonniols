@@ -34,6 +34,16 @@ gallery:
 
 <br/>
 
+*"Pendant deux années, investi dans sa mission, il a arpenté nos bureaux, nos cales et nos ateliers, identifiant les lieux et les gens, explorant chaque recoin, composant avec les espaces et leurs contraintes, avec le beau et le mauvais temps, avec l’intensité de l’activité qui laissait peu de disponibilité, avec l’humeur des modèles, mais au final convainquant même les plus résistants de venir livrer une partie d’eux-mêmes jamais révélée."*
+
+:::small
+
+:::right
+
+*Laurent Castaing, Directeur Général (extrait de la préface)*
+
+:::
+
 <br/>
 
 *"On arrive ici comme dans un ventre à ciel ouvert, une matrice aux propriétés presque organiques. Tout y pousse à l’image du règne végétal : pas assez vite pour assister à la croissance du navire en temps réel, mais suffisamment pour créer de nouveaux points de vue, de nouvelles circulations à chaque visite. Attineurs, accosteurs, pilotes, techniciens seront mes guides à la découverte de ce grand champ d’exploitation navale."*
@@ -42,9 +52,7 @@ gallery:
 
 :::right
 
-*Sylvain Bonniol,*\
-*extrait du livre VISAGES D'UN CHANTIER NAVAL*\
-*aux éditions de la Martinière*
+*Sylvain Bonniol (extrait du texte de l'auteur)*
 
 :::
 
