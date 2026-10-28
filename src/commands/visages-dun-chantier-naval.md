@@ -1,5 +1,5 @@
 ---
-title: VISAGES D'UN CHANTIER NAVAL
+title: Visages d'un chantier naval
 order: 4
 show_in_nav: true
 background_color: "#e8f7ff"
@@ -60,8 +60,6 @@ gallery:
 > Janvier 2018 - 224 pages - 250 mm x 290 mm\
 > ISBN 2732478245
 >
-> <br/>
->
 > **Expositions :**
 >
 > 2o25, *Visages d'un chantier naval*, festival USIMAGES organisé par Diaphane, Centre photographique des Hauts de France (solo)
@@ -71,8 +69,6 @@ gallery:
 > 2019, *Visages d'un chantier naval*, Galerie Hazy, Le Pouliguen (solo)
 >
 > 2018, *Visages d'un chantier naval*, Smart-Appart, Saint-Nazaire (solo)
->
-> <br/>
 >
 > **Production (Smart-Appart) :**
 >
