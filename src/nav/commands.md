@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: commands
-  title: Commandes
+  title: COMMANDES
   order: 3
 permalink: false
 ---
