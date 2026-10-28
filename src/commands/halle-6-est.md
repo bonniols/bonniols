@@ -1,5 +1,5 @@
 ---
-title: Halles 6 Est
+title: HALLE 6 EST
 order: 1
 show_in_nav: true
 background_color: "#3c3232"
