@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: projects
-  title: Projets
+  title: PROJETS
   order: 2
 permalink: false
 ---
