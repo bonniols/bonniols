@@ -1,5 +1,5 @@
 ---
-title: JARDIN EXTRAORDINAIRE
+title: Jardin Extraordinaire
 order: 0
 show_in_nav: true
 background_color: "#fdff8e"
@@ -56,8 +56,6 @@ gallery:
 
 > **Maîtrise d'ouvrage :**\
 > Nantes métropole Aménagement
->
-> <br/>
 >
 > **Maîtrise d'oeuvre :**\
 > Mabire-Reich Architectes mandataires
