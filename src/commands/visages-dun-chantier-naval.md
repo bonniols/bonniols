@@ -1,5 +1,5 @@
 ---
-title: Visages d'un chantier naval
+title: VISAGES D'UN CHANTIER NAVAL
 order: 4
 show_in_nav: true
 background_color: "#e8f7ff"
