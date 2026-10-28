@@ -1,5 +1,5 @@
 ---
-title: Visions acoustiques
+title: VISIONS ACOUSTIQUES
 order: 8
 show_in_nav: true
 background_color: "#eaf0ff"
