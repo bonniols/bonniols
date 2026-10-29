@@ -18,8 +18,10 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793276468/ronchamp_001_mru0gq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793276470/ronchamp020__onkrkl.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265652/012_wlkogv.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265651/002_iwuqqv.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793278986/F1000035_iqelf2.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793278985/F1000031.1_ccprtr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273540/chambord003_nbuh96.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265651/002_iwuqqv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265650/001_dqo39t.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265659/F1010007.1_phd5ck.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793274302/F1020010_d1cplb.jpg
