@@ -26,5 +26,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273387/MtStMich2_cxtcc2.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273387/MtStMich_ckjeoe.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273387/troca_u6gj60.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265651/010_y3tclu.jpg
 ---
 wggtd
