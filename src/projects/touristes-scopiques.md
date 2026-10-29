@@ -18,16 +18,17 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273540/chambord003_nbuh96.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793274302/F1020010_d1cplb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265659/F1010007.1_phd5ck.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265654/013_x7jj2m.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265658/e%CC%81quipe%CC%81e_06_kyvb1o.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265649/008_ihg9k4.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265659/011_ogww41.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273385/Montenvers_rte4zk.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265657/018_v7eol3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265655/017_xyuh8t.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265654/014_uppsgi.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265654/013_x7jj2m.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793274304/F1030032_kjqpvd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793274305/F1040002_flcbpx.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265651/010_y3tclu.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265649/008_ihg9k4.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265652/012_wlkogv.jpg
 ---
 wggtd
