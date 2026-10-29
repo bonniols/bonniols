@@ -6,9 +6,8 @@ background_color: "#FFFFFF"
 invert_text_color: false
 use_background_color_in_slider: false
 gallery:
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793277499/003_adf1ut.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273387/MtStMich_ckjeoe.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793273387/MtStMich2_cxtcc2.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265654/016_j37rlt.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273387/troca_u6gj60.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265659/009_rsb3jz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273539/5264_lkfea2.jpg
