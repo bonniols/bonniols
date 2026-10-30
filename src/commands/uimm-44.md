@@ -6,6 +6,8 @@ background_color: "#3e2532"
 invert_text_color: true
 use_background_color_in_slider: true
 gallery:
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379450/2015_lagedelair_010_ohvj5d.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379452/131003_058_c9tamo.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379484/180525_man_HD_005_nutlh2.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379484/180525_man_HD_007_jsidji.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379485/180525_esapce_HD_009_dnhyhk.jpg
@@ -22,36 +24,23 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379473/180523_Bouhyer_HD_006_wcxeiv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379472/180522_Naval_HD_007_ip7ztd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379472/180522_Naval_HD_006_hb9fh7.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792085576/180518_Lydall_HD_040_qvooez.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069573/180518_Lydall_HD_043_swdfkb.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069572/180518_Lydall_HD_045_uvpmgc.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379462/180518_Lydall_HD_040_ssde4y.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379464/180518_Lydall_HD_043_gdputl.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379468/180518_Lydall_HD_045_pvyqhr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379473/180522_FRAMATOME_HD_001_j3a60x.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379471/180522_FRAMATOME_HD_011_ljk7by.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_Idra_HD_024_qg3fth.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379480/180516_Idra_HD_025_cppmom.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069570/180514_Selva_HD_006_w6138a.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069567/180514_Halgand_HD_010_xhkton.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069570/180514_Selva_HD_008_qjdylq.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792085546/180518_STX_HD_048_f75uft.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379470/180518_STX_HD_052_jzip9j.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069573/180518_STX_HD_046_ifjner.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069568/180516_FMGC_HD_030_ordqlq.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_034_rdo6km.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_027_q2mklz.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379468/180518_Lydall_HD_045_pvyqhr.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379450/2015_lagedelair_010_ohvj5d.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379468/180518_STX_HD_048_iryi9m.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379467/180516_FMGC_HD_027_chb7nr.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379466/180518_STX_HD_046_pahy6l.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379464/180518_Lydall_HD_043_gdputl.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379462/180518_Lydall_HD_040_ssde4y.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379460/180514_Selva_HD_006_cgybmb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379459/180516_Idra_HD_024_eaauov.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379458/180516_FMGC_HD_034_gjnxty.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379480/180516_Idra_HD_025_cppmom.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379460/180514_Selva_HD_006_cgybmb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379456/180514_Halgand_HD_010_anhhoa.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379456/180516_FMGC_HD_030_deullu.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069570/180514_Selva_HD_008_qjdylq.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379468/180518_STX_HD_048_iryi9m.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379470/180518_STX_HD_052_jzip9j.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379466/180518_STX_HD_046_pahy6l.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379458/180516_FMGC_HD_034_gjnxty.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379454/180516_FMGC_HD_028_uwr7a3.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379452/131003_058_c9tamo.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379456/180516_FMGC_HD_030_deullu.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379467/180516_FMGC_HD_027_chb7nr.jpg
 ---
 # 2018 - Carte blanche confiée par l'UIMM Loire Atlantique
 
