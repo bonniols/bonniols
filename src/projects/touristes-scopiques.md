@@ -1,7 +1,7 @@
 ---
 title: TOURISTES SCOPIQUES
 order: 9
-show_in_nav: true
+show_in_nav: false
 background_color: "#c2f3ff"
 invert_text_color: false
 use_background_color_in_slider: false
