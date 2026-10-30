@@ -34,7 +34,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379480/180516_Idra_HD_025_cppmom.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379460/180514_Selva_HD_006_cgybmb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379456/180514_Halgand_HD_010_anhhoa.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792069570/180514_Selva_HD_008_qjdylq.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793384899/180514008_wvvnt0.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379468/180518_STX_HD_048_iryi9m.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379470/180518_STX_HD_052_jzip9j.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379466/180518_STX_HD_046_pahy6l.jpg
