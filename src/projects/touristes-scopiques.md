@@ -16,7 +16,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265658/e%CC%81quipe%CC%81e_06_kyvb1o.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265659/maniements_1_jemkxm.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793276468/ronchamp_001_mru0gq.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793276470/ronchamp020__onkrkl.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793384284/ronchamp020_jj5vdf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265652/012_wlkogv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793278986/F1000035_iqelf2.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793383896/F10000311_hfyxsc.jpg
