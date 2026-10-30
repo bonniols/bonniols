@@ -23,7 +23,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273540/chambord003_nbuh96.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265651/002_iwuqqv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265650/001_dqo39t.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265659/F1010007.1_phd5ck.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793383984/F10100071_mxnfmi.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793274302/F1020010_d1cplb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265649/008_ihg9k4.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265659/011_ogww41.jpg
