@@ -19,7 +19,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793276470/ronchamp020__onkrkl.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265652/012_wlkogv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793278986/F1000035_iqelf2.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793278985/F1000031.1_ccprtr.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793383896/F10000311_hfyxsc.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273540/chambord003_nbuh96.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265651/002_iwuqqv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265650/001_dqo39t.jpg
