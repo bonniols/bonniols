@@ -21,6 +21,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379472/180522_RT_Defense_HD_005_dsc0ai.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379475/180523_Bouhyer_HD_008_cvmprw.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379474/180523_Bouhyer_HD_007_ecepxb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793380736/180523_Bouhyer_HD_005_ky99h6.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379473/180523_Bouhyer_HD_006_wcxeiv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379472/180522_Naval_HD_007_ip7ztd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379472/180522_Naval_HD_006_hb9fh7.jpg
@@ -37,11 +38,10 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379468/180518_STX_HD_048_iryi9m.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379470/180518_STX_HD_052_jzip9j.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379466/180518_STX_HD_046_pahy6l.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379456/180516_FMGC_HD_030_deullu.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379458/180516_FMGC_HD_034_gjnxty.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379454/180516_FMGC_HD_028_uwr7a3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379467/180516_FMGC_HD_027_chb7nr.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793380736/180523_Bouhyer_HD_005_ky99h6.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379456/180516_FMGC_HD_030_deullu.jpg
 ---
 # 2018 - Carte blanche confiée par l'UIMM Loire Atlantique
 
