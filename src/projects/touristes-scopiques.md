@@ -1,6 +1,6 @@
 ---
 title: TOURISTES SCOPIQUES
-order: 0
+order: 9
 show_in_nav: true
 background_color: "#c2f3ff"
 invert_text_color: false
