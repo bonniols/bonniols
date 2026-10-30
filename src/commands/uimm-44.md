@@ -38,6 +38,26 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069568/180516_FMGC_HD_030_ordqlq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_034_rdo6km.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792069571/180516_FMGC_HD_027_q2mklz.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379485/180525_esapce_HD_009_dnhyhk.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379472/180522_RT_Defense_HD_005_dsc0ai.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379484/180523_Toyota_007_vhu9c4.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379484/180525_esapce_HD_008_khv2sr.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379484/180525_man_HD_007_jsidji.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379484/180525_man_HD_005_nutlh2.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379482/180525_esapce_HD_007_csek19.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379481/180523_Toyota_002_o5um9o.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379481/180523_Toyota_011_nqrlzs.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379480/180524_Crown_HD_001_fieres.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379480/180516_Idra_HD_025_cppmom.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379478/180523_Toyota_001_fqc6z6.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379475/180523_Bouhyer_HD_008_cvmprw.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379474/180523_Bouhyer_HD_007_ecepxb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379473/180522_FRAMATOME_HD_001_j3a60x.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379473/180523_Bouhyer_HD_006_wcxeiv.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379472/180522_Naval_HD_007_ip7ztd.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379472/180522_Naval_HD_006_hb9fh7.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379471/180522_FRAMATOME_HD_011_ljk7by.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1793379470/180518_STX_HD_052_jzip9j.jpg
 ---
 # 2018 - Carte blanche confiée par l'UIMM Loire Atlantique
 
