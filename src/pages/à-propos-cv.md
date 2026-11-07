@@ -16,7 +16,7 @@ D'abord passionné d'architecture et des lieux de productions de tout type, il s
 
 Plus récemment, il développe des projets en résidences ainsi que des cartes blanches collaboratives où il s'intéresse à la question du paysage comme lieu d'interaction. En convoquant villes et campagnes, *humains et autres qu’humains <sup>1</sup>,* il s'attache de façon sensible à observer ces contextes comme des écosystèmes *robustes <sup>2</sup>* où l'homme est un maillon parmi les autres.
 
-Ainsi, le travail de Sylvain Bonniol se déploie dans une double perspective économique et poétique, documentaire et artistique, prenant forme dans l'édition autant que dans des expositions institutionnelles et privées.
+Ainsi, le travail de Sylvain Bonniol se déploie dans une double perspective partique et poétique, documentaire et artistique, prenant forme dans l'édition autant que dans des expositions institutionnelles et privées.
 
 <br/>
 
