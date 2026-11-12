@@ -1,21 +1,30 @@
-<div class="gallery-grid hidden md:grid md:grid-cols-4 md:gap-4">
-    {% for item in galleryItems %}
-        <button
-            type="button"
-            class="relative cursor-pointer text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400"
-            data-gallery-open="{{ forloop.index0 }}"
-            aria-label="{% if item.caption != '' %}{{ item.caption }}{% else %}Ouvrir l'image {{ forloop.index }} dans la galerie{% endif %}"
-        >
-            <figure class="relative">
-                <img
-                    src="{{ item.thumbSrc }}"
-                    srcset="{{ item.thumbSrcset }}"
-                    sizes="(min-width: 768px) 25vw, 0px"
-                    alt="{{ item.alt | default: item.caption | default: '' }}"
-                    loading="lazy"
-                    class="h-auto w-full"
+{% assign columns = galleryItems | masonry_columns: 4 %}
+<div class="gallery-grid hidden md:flex md:items-start md:gap-4">
+    {% for column in columns %}
+        <div class="flex min-w-0 flex-1 flex-col gap-4">
+            {% for item in column %}
+                <button
+                    type="button"
+                    class="relative cursor-pointer text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-neutral-400"
+                    data-gallery-open="{{ item.index }}"
+                    aria-label="{% if item.caption != '' %}{{ item.caption }}{% else %}Ouvrir l'image {{ item.index | plus: 1 }} dans la galerie{% endif %}"
                 >
-            </figure>
-        </button>
+                    <figure class="relative">
+                        <img
+                            src="{{ item.thumbSrc }}"
+                            srcset="{{ item.thumbSrcset }}"
+                            sizes="(min-width: 1024px) 240px, (min-width: 768px) 25vw, 0px"
+                            {% if item.width and item.height %}
+                                width="{{ item.width }}"
+                                height="{{ item.height }}"
+                            {% endif %}
+                            alt="{{ item.alt | default: item.caption | default: '' }}"
+                            loading="lazy"
+                            class="block h-auto w-full"
+                        >
+                    </figure>
+                </button>
+            {% endfor %}
+        </div>
     {% endfor %}
 </div>

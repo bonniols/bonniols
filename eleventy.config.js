@@ -7,6 +7,7 @@ import postcss from 'postcss';
 import tailwindcss from '@tailwindcss/postcss';
 import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
 import { createMarkdownRenderer } from './lib/markdown-setup.js';
+import { distributeColumns } from './lib/cloudinary-gallery.js';
 
 const md = createMarkdownRenderer();
 
@@ -30,6 +31,10 @@ export default function (eleventyConfig) {
         if (!content) return '';
         return md.render(content);
     });
+
+    eleventyConfig.addFilter('masonry_columns', (items, count = 4) =>
+        distributeColumns(items, Number(count)),
+    );
 
     eleventyConfig.setLibrary('md', md);
 
