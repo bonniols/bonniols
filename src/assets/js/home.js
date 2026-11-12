@@ -88,6 +88,12 @@
         showItem(item);
     }
 
+    // Clicking the image shows another random one (unless the hero is a link).
+    if (hero.tagName !== 'A') {
+        img.classList.add('cursor-pointer');
+        img.addEventListener('click', pickHero);
+    }
+
     window.addEventListener('resize', debounce(pickHero, 500));
     pickHero();
 })();
