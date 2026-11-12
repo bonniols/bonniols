@@ -39,8 +39,6 @@ gallery:
 
 :::right
 
-:
-
 > *Voir le dedans des murs*
 >
 > *Ne nous est pas donné.*
@@ -57,11 +55,11 @@ gallery:
 >
 > *Apaiserait.*
 
+<br/>
+
+> *Eugène Guillevic – Exécutoire, 1947*
+
 :::small
-
-*Eugène Guillevic – Exécutoire, 1947*
-
-:::
 
 <br/>
 
@@ -92,8 +90,6 @@ gallery:
 > Scénographie : Dany Cartron
 >
 > Textes : Christophe Boucher
->
-> <br/>
 >
 > **Production** (CAUE 44) :
 >
