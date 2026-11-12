@@ -3,13 +3,23 @@
 {% else %}
     {% assign galleryTheme = 'gallery-swiper--default' %}
 {% endif %}
+{% comment %}
+    Desktop lightbox controls follow the slider background, not the page:
+    the default slider background is dark grey, so controls must be light.
+{% endcomment %}
 {% if use_background_color_in_slider %}
     {% assign sliderBg = background_color | default: '#3a3836' %}
+    {% if invert_text_color or background_color == blank %}
+        {% assign sliderTheme = 'gallery-swiper--slider-dark' %}
+    {% else %}
+        {% assign sliderTheme = 'gallery-swiper--slider-light' %}
+    {% endif %}
 {% else %}
     {% assign sliderBg = '#3a3836' %}
+    {% assign sliderTheme = 'gallery-swiper--slider-dark' %}
 {% endif %}
 <div
-    class="gallery-swiper {{ galleryTheme }} block md:absolute md:inset-0 md:z-50 md:hidden md:h-dvh md:w-dvw md:items-center md:p-6"
+    class="gallery-swiper {{ galleryTheme }} {{ sliderTheme }} block md:absolute md:inset-0 md:z-50 md:hidden md:h-dvh md:w-dvw md:items-center md:p-6"
     style="--gallery-swiper-bg: {{ sliderBg }}"
     data-gallery-swiper
     role="dialog"

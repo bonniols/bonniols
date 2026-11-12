@@ -145,29 +145,29 @@
             background-color: var(--gallery-swiper-bg);
         }
 
-        .gallery-swiper--default .gallery-swiper__close,
-        .gallery-swiper--default .gallery-swiper__fullscreen {
-            @apply text-dark bg-light/65 focus-visible:ring-neutral-400;
+        .gallery-swiper--slider-light .gallery-swiper__close,
+        .gallery-swiper--slider-light .gallery-swiper__fullscreen {
+            @apply text-dark focus-visible:ring-neutral-400;
         }
 
-        .gallery-swiper--default .swiper-button-prev,
-        .gallery-swiper--default .swiper-button-next {
-            @apply bg-light/65 focus-visible:ring-neutral-400;
+        .gallery-swiper--slider-light .swiper-button-prev,
+        .gallery-swiper--slider-light .swiper-button-next {
+            @apply focus-visible:ring-neutral-400;
         }
 
-        .gallery-swiper--inverted {
+        .gallery-swiper--slider-dark {
             --swiper-navigation-color: var(--color-light);
             --swiper-theme-color: var(--color-light);
         }
 
-        .gallery-swiper--inverted .gallery-swiper__close,
-        .gallery-swiper--inverted .gallery-swiper__fullscreen {
-            @apply text-light bg-dark/65 focus-visible:ring-neutral-400;
+        .gallery-swiper--slider-dark .gallery-swiper__close,
+        .gallery-swiper--slider-dark .gallery-swiper__fullscreen {
+            @apply text-light focus-visible:ring-neutral-400;
         }
 
-        .gallery-swiper--inverted .swiper-button-prev,
-        .gallery-swiper--inverted .swiper-button-next {
-            @apply bg-dark/65 focus-visible:ring-neutral-400;
+        .gallery-swiper--slider-dark .swiper-button-prev,
+        .gallery-swiper--slider-dark .swiper-button-next {
+            @apply focus-visible:ring-neutral-400;
         }
 
         .gallery-swiper--native-fullscreen .gallery-swiper__close {
