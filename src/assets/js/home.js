@@ -83,9 +83,18 @@
         img.src = item.src;
     }
 
+    let currentPreference = null;
+
     function pickHero() {
-        const item = pickRandomItem(poolForPreference(viewportPreference()));
+        currentPreference = viewportPreference();
+        const item = pickRandomItem(poolForPreference(currentPreference));
         showItem(item);
+    }
+
+    // Only re-pick when the viewport flips between portrait/landscape/square, so
+    // minor resizes (e.g. the mobile address bar showing/hiding) keep the image.
+    function onResize() {
+        if (viewportPreference() !== currentPreference) pickHero();
     }
 
     // Clicking the image shows another random one (unless the hero is a link).
@@ -94,6 +103,6 @@
         img.addEventListener('click', pickHero);
     }
 
-    window.addEventListener('resize', debounce(pickHero, 500));
+    window.addEventListener('resize', debounce(onResize, 500));
     pickHero();
 })();
