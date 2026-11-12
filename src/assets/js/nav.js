@@ -46,15 +46,25 @@
         link.addEventListener('click', closeDrawer);
     });
 
-    drawer?.querySelectorAll('[data-nav-accordion]').forEach((button) => {
-        button.addEventListener('click', () => {
-            const expanded = button.getAttribute('aria-expanded') === 'true';
-            const panel = button.nextElementSibling;
-            const icon = button.querySelector('[data-nav-accordion-icon]');
+    function setAccordion(button, expanded) {
+        const panel = button.nextElementSibling;
+        const icon = button.querySelector('[data-nav-accordion-icon]');
 
-            button.setAttribute('aria-expanded', String(!expanded));
-            panel?.classList.toggle('hidden', expanded);
-            icon?.classList.toggle('rotate-90', !expanded);
+        button.setAttribute('aria-expanded', String(expanded));
+        panel?.classList.toggle('hidden', !expanded);
+        icon?.classList.toggle('rotate-90', expanded);
+    }
+
+    drawer?.querySelectorAll('[data-nav-accordion]').forEach((button) => {
+        // Root sections start collapsed unless they contain the current page.
+        if (button.dataset.navDepth === '0') {
+            const containsCurrent =
+                button.nextElementSibling?.querySelector('[aria-current="page"]');
+            setAccordion(button, Boolean(containsCurrent));
+        }
+
+        button.addEventListener('click', () => {
+            setAccordion(button, button.getAttribute('aria-expanded') !== 'true');
         });
     });
 
