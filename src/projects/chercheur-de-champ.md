@@ -33,9 +33,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500586/20240711_071215-01-01-01_dpl6fq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790500593/20250103_185646_002_yi9et0.jpg
 ---
-# Projet en cours depuis 2021
-
-<br/>
+### Projet en cours depuis 2021
 
 <br/>
 
@@ -48,8 +46,6 @@ gallery:
 
 *Edwardo Kohn <sup>1</sup>*
 :::
-
-<br/>
 
 <br/>
 
