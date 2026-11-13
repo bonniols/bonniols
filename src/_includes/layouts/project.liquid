@@ -4,15 +4,24 @@ layout: layouts/base.liquid
 <article class="grow">
     <header class="container-wide flex flex-col items-start gap-1 py-8 md:flex-row md:items-center md:justify-between md:gap-4 md:py-12">
         <h1>{{ title }}</h1>
-        {% if text_labels.project_infos_label != blank %}
-            <a href="#infos" class="project-infos-link text-base md:text-xl">
-                {{- text_labels.project_infos_label -}}
-            </a>
-        {% endif %}
+        <div class="flex w-full items-baseline justify-between gap-4 md:w-auto">
+            {% if text_labels.project_infos_label != blank %}
+                <a href="#infos" class="project-infos-link text-base md:text-xl">
+                    {{- text_labels.project_infos_label -}}
+                </a>
+            {% endif %}
+            {% if galleryItems and galleryItems.size > 0 %}
+                {% comment %} Mobile-only slider pagination, wired up in gallery.js {% endcomment %}
+                <div
+                    class="swiper-pagination relative! inset-auto! ml-auto w-auto! text-sm! opacity-65 md:hidden"
+                    data-gallery-pagination
+                ></div>
+            {% endif %}
+        </div>
     </header>
     {% if galleryItems and galleryItems.size > 0 %}
         <section
-            class="gallery container-wide mb-8"
+            class="gallery container-wide"
             aria-label="Galerie photos"
             data-gallery
             data-slide-count="{{ galleryItems.size }}"

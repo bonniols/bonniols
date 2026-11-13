@@ -12,8 +12,9 @@
 
     const desktop = window.matchMedia('(min-width: 768px)');
 
+    // No autoHeight: the slider keeps the height of its tallest slide, so the
+    // content below doesn't jump around on mobile when swiping.
     const swiper = new Swiper(swiperEl, {
-        autoHeight: true,
         observer: true,
         observeParents: true,
         slidesPerView: 1,
@@ -26,13 +27,12 @@
         },
         pagination: {
             enabled: true,
-            el: swiperEl.querySelector('.swiper-pagination'),
+            el: document.querySelector('[data-gallery-pagination]'), // lives in the project header
             type: 'fraction',
         },
         keyboard: { enabled: true, onlyInViewport: true },
         breakpoints: {
             768: {
-                autoHeight: false,
                 spaceBetween: 0,
                 navigation: {
                     enabled: true,
