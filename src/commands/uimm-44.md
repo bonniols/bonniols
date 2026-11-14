@@ -43,7 +43,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379467/180516_FMGC_HD_027_chb7nr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793379456/180516_FMGC_HD_030_deullu.jpg
 ---
-# 2018 - Carte blanche confiée par l'UIMM Loire Atlantique
+### 2018 - Carte blanche confiée par l'UIMM Loire Atlantique
 
 <br/>
 
