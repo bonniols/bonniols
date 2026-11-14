@@ -31,34 +31,9 @@ gallery:
 ---
 ### 2018 - 2021
 
-### Chantier de réhabilitation des anciennes Halles Alstom.
+#### Chantier de réhabilitation des anciennes Halles Alstom.
 
-### Carte blanche en collaboration avec Benjamin Avignon Architecte.
-
-<br/>
-
-<br/>
-
-:::right
-
-:::small
-
-Conception architecturale : Benjamin Avignon\
-Maitre d'ouvrage : Quartus Résidentiel
-
-96 m x 23 m x 14 m\
-6051m2
-
-RDC + 3 niveaux\
-1 rue intérieure\
-2 moteurs\
-3 atriums
-
-44 bureaux\
-1 hôtel d'entreprises\
-2 incubateurs
-
-:::
+#### Carte blanche en collaboration avec Benjamin Avignon Architecte.
 
 <br/>
 
@@ -88,3 +63,26 @@ RDC + 3 niveaux\
 > Photographie : Sylvain Bonniol\
 > Juin 2021 - 96 pages - Format : 160 x 220 mm\
 > Edition NG + BB + SB
+
+<br/>
+
+:::small
+
+:::right
+
+Conception architecturale : Benjamin Avignon\
+Maitre d'ouvrage : Quartus Résidentiel
+
+96 m x 23 m x 14 m\
+6051m2
+
+RDC + 3 niveaux\
+1 rue intérieure\
+2 moteurs\
+3 atriums
+
+44 bureaux\
+1 hôtel d'entreprises\
+2 incubateurs
+
+:::
