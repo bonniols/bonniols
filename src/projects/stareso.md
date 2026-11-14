@@ -6,21 +6,20 @@ background_color: "#282c16"
 invert_text_color: true
 use_background_color_in_slider: true
 gallery:
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350327/2019_STARESO_HD_001_hboha6.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790273680/2019_STARESO_HD_025_zrc3ie.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273677/2019_STARESO_HD_009_1_gwluji.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350344/19062019-_D5A2713-Panorama_b8bfaz.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790273676/2019_STARESO_HD_016_imoxpt.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790350327/2019_STARESO_HD_001_hboha6.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273676/2019_STARESO_HD_007_u0kpbu.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790273676/2019_STARESO_HD_016_imoxpt.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350330/2019_STARESO_HD_011_cgm0ru.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273681/2019_STARESO_HD_034_lkizsk.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350338/2019_STARESO_HD_012_sknwmb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350332/2019_STARESO_HD_042_nhbraj.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350336/2019_STARESO_HD_015_n10aah.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790273680/2019_STARESO_HD_025_zrc3ie.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273676/2019_STARESO_HD_017_bhghu0.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350340/2019_STARESO_HD_021_g6kouk.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273679/2019_STARESO_HD_039_iqb191.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790273677/2019_STARESO_HD_022_b8cauy.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350342/18062019-_D5A2588_xah84f.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350345/20062019-_D5A3135-Panorama_ljtzkt.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790350331/2019_STARESO_HD_035_dfsens.jpg
