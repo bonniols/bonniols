@@ -37,6 +37,8 @@ gallery:
 
 :::right
 
+:::small
+
 > *Voir le dedans des murs*
 >
 > *Ne nous est pas donné.*
@@ -57,9 +59,7 @@ gallery:
 
 > *Eugène Guillevic – Exécutoire, 1947*
 
-:::small
-
-<br/>
+:::
 
 <br/>
 
@@ -70,8 +70,6 @@ gallery:
 *Au delà de la qualité de l’oeuvre photographique, et du souhait de donner à voir ce qui n’est pas habituellement visible, il s’agit de participer à la réflexion sur la mutation des usages des édifices anciens préalable indispensable à leur réinvention architecturale et urbaine, et donc à leur préservation.»*
 
 :::small
-
-:::right
 
 *Christophe Boucher*
 
