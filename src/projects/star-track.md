@@ -36,7 +36,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792171484/vlt1_timipr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/_DSC7117_cryj83.jpg
 ---
-# 2010
+### 2010
 
 <br/>\
 \
@@ -60,8 +60,6 @@ gallery:
 <br/>
 
 :::small
-
-
 
 > <sup>1</sup> *Very Large Telescope*. Mont Paranal, 2400m d'altitude, Chili.
 >
