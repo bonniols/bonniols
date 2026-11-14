@@ -29,9 +29,9 @@ gallery:
 ---
 ### **2014 - 2016**
 
-### **Résidence et campagne photographique à Saint-Lupien, Rezé**
+#### **Résidence et campagne photographique à Saint-Lupien, Rezé**
 
-### <br/>
+<br/>
 
 *"À Saint-Lupien aussi, Sylvain Bonniol a pris position, et choisi de poser son appareil sous les gradins de terre, ou au milieu de l’herbe et des échafaudages, ou en surplomb de la ville et de l’eau.
 Chacune de ses images est devenue une mise en relation, un récit composé de matières, de lumières, de géométries, de présences humaines, de repères lointains ou de signes ténus, d’indices, de « presque riens » essentiels. Au-delà de l’anecdote, les acteurs des chantiers nous rappellent ici, comme les petits personnages de certaines peintures de Poussin, qu’il faut l’activité des hommes pour produire un paysage, une ville, une architecture."* 
