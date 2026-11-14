@@ -29,7 +29,7 @@ gallery:
 ---
 ### **2014 - 2016**
 
-#### **Résidence et campagne photographique à Saint-Lupien, Rezé**
+**Résidence et campagne photographique à Saint-Lupien, Rezé**
 
 <br/>
 
