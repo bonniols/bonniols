@@ -31,7 +31,7 @@ gallery:
 ---
 ### 2018 - 2021
 
-### Documentation du chantier
+### Documentation du chantier / carte blanche.
 
 <br/>
 
