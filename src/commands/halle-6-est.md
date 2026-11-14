@@ -31,7 +31,9 @@ gallery:
 ---
 ### 2018 - 2021
 
-### Documentation du chantier / carte blanche.
+### Chantier de réhabilitation des anciennes Halles Alstom.
+
+### Carte blanche en collaboration avec Benjamin Avignon Architecte.
 
 <br/>
 
