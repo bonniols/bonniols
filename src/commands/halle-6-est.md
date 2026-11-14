@@ -31,9 +31,9 @@ gallery:
 ---
 ### 2018 - 2021
 
-**Chantier de réhabilitation des anciennes Halles Alstom.**
+### Chantier de réhabilitation des anciennes Halles Alstom.
 
-**Carte blanche en collaboration avec Benjamin Avignon Architecte.**
+### Carte blanche en collaboration avec Benjamin Avignon Architecte.
 
 <br/>
 
