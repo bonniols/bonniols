@@ -1,7 +1,7 @@
 ---
 title: I N F O S
 slug: infos
-background_color: "#c2e0f7"
+background_color: "#d1c2f7"
 invert_text_color: false
 ---
 <br/>
