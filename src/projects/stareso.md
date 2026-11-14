@@ -35,13 +35,9 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273682/2019_STARESO_HD_056_fsvcs2.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790273683/2019_STARESO_HD_060_mu0cxi.jpg
 ---
-# 2019 - Résidence à la Station de Recherches Sous-marines et Océanographiques de Calvi, Corse. 
-
-
+### 2019 - Résidence à la Station de Recherches Sous-marines et Océanographiques de Calvi, Corse.
 
 Université de Lèges, architecte Claude Strebelle (1972)
-
-
 
 <br/>
 
