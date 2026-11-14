@@ -17,7 +17,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080970/2015_lagedelair_008_ahjtcs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790080970/2015_lagedelair_010_rmu99n.jpg
 ---
-# 2010 - 2015
+### 2010 - 2015
 
 <br/>
 
@@ -44,8 +44,6 @@ gallery:
 > 2o17, *10e Biennale du design* de Saint Etienne (collective)
 >
 > 2o15, *L'âge de l'air*, festival USIMAGES /  Pôle photographique en Hauts-de-France (solo)
->
-> <br/>
 >
 > **Production :**
 >
