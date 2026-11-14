@@ -9,7 +9,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792057097/260429_JardinExtraordinaire_HD_028_usps4p.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792055268/260429_JardinExtraordinaire_HD_027_vft9v1.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792057094/260429_JardinExtraordinaire_HD_025_z8szyt.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792055268/260429_JardinExtraordinaire_HD_032_ypuk16.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792055259/260324_JardinExtraordinaire_HD_020_zq9lzq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792055246/260128_JardinExtraordinaire_HD_003_kut4al.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792055249/260128_JardinExtraordinaire_HD_004_axjtyj.jpg
