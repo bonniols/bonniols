@@ -38,8 +38,8 @@ gallery:
 ---
 ### 2010
 
-<br/>\
-\
+<br/>
+
 *Le chantier des antennes géantes d'ALMA<sup>1</sup> en attente d'un ordre de marche.*\
 *Paraboles, ondes, balises.*
 
