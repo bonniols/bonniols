@@ -26,9 +26,9 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075503/VCN_008_vtdeqa.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075453/VCN_020_tycyms.jpg
 ---
-# 2015 - 2018
+### 2015 - 2018
 
-## Carte blanche confiée par les Chantiers de l’Atlantique.
+### Carte blanche confiée par les Chantiers de l’Atlantique.
 
 <br/>
 
