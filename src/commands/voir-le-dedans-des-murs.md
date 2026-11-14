@@ -6,12 +6,12 @@ background_color: "#ece4f2"
 invert_text_color: false
 use_background_color_in_slider: true
 gallery:
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790243692/bonniol_architecture_008_ipzgtt.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243694/Bonniol_photographie_005_gzhjql.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243691/bonniol_architecture_004_tv1muu.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243689/036_lfqr34.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/bonniol_architecture_010_oqwqoc.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243695/Bonniol_photographie_008_vhmler.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790243692/bonniol_architecture_008_ipzgtt.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243689/039_hluoes.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243689/1701_e7zrnw.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243694/Bonniol_photographie_007_wis3x2.jpg
