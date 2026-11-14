@@ -27,9 +27,9 @@ gallery:
 ---
 ### 2010 - 2012
 
-#### Chantier de réhabilitation de l’ancien Palais de Justice de Nantes.
+### Chantier de réhabilitation de l’ancien Palais de Justice de Nantes.
 
-#### Carte Blanche confiée par Altarea Cogedim.
+### Carte Blanche confiée par Altarea Cogedim.
 
 <br/>
 
