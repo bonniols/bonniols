@@ -21,9 +21,9 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244025/_DSC9775_hya6hs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244030/_MG_0118_snn20g.jpg
 ---
-# 2010 - 2018
+### 2010 - 2018
 
-## Edition de 16 cartes postales d'architecture moderne et brutaliste
+### Edition de 16 cartes postales d'architecture moderne et brutaliste
 
 <br/>
 
@@ -44,8 +44,6 @@ gallery:
 > 2018, *J’ai posé le monde sur la table,* Ecole Supérieure des Beaux-Arts TALM (collective)
 >
 > 2015, *Multiples #5*, Galerie RDV, Nantes (collective)
->
-> <br/>
 >
 > **Production :**
 >
