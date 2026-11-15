@@ -18,5 +18,11 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794763715/18062013-_MG_2901-Panorama_kwvy37.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794763694/18062013-_MG_2891-Panorama_wv5z3e.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794763694/18062013-_MG_2877-Panorama_a7xsuh.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794763676/18062013-_MG_2829-Panorama_q1ewfv.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794763657/18062013-_MG_2759-Panorama-2_o8xczb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794763673/18062013-_MG_2808-Panorama_xfjpux.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794763668/18062013-_MG_2805-Panorama_m9s8ug.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794763661/18062013-_MG_2784_pp7wxn.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794763658/18062013-_MG_2759-Panorama_uts9kg.jpg
 ---
 RUe aristitde
