@@ -35,5 +35,5 @@ gallery:
 ---
 ### 2004 - 2006
 
-*A l’époque de "L’idiot du voyage", le touriste rebaptisé par Jean-Didier Urbain, est-il encore possible de tisser un regard singulier et intime sur notre patrimoine naturel et culturel ?*\
-*De 2004 à 2006 j’ai observé ce tourisme scopique, dans quelques uns des sites remarquables du territoire français.*
+*A l’époque de "L’idiot du voyage", ce touriste rebaptisé par Jean-Didier Urbain, est-il encore possible de tisser un regard singulier et intime sur notre patrimoine naturel et culturel ?*\
+*Entre 2004 à 2006 j’ai observé ce tourisme "scopique", dans quelques uns des sites remarquables en France.*
