@@ -24,6 +24,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243694/367_tyyotr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44004_nsgqoz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790243696/caue44002_yy5yrg.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794739518/Bonniol_photographie_0061_d9qe5t.jpg
 ---
 ### 2010 - 2012
 
