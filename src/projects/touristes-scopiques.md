@@ -1,7 +1,7 @@
 ---
 title: TOURISTES SCOPIQUES
 order: 9
-show_in_nav: false
+show_in_nav: true
 background_color: "#c2f3ff"
 invert_text_color: false
 use_background_color_in_slider: false
@@ -34,3 +34,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265651/010_y3tclu.jpg
 ---
 ### 2004 - 2006
+
+*A l’époque de "L’idiot du voyage", le touriste rebaptisé par Jean-Didier Urbain, est-il encore possible de tisser un regard singulier et intime sur notre patrimoine naturel et culturel ?*\
+*De 2004 à 2006 j’ai observé ce tourisme scopique, dans quelques uns des sites remarquables du territoire français.*
