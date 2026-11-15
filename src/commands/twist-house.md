@@ -33,16 +33,33 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751273/_FSB5107-HDR2_psrrrj.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751277/_FSB5124-Panorama2_wrvo5y.jpg
 ---
-### 2020
+### 2021
 
-### Twist House
+*"Située dans le centre-ville de Nantes à deux pas de l’Erdre, le projet s’inscrit dans un tissu urbain hétéroclite. Sa volumétrie résulte de l’observation du bâti existant composé de maisons individuelles mitoyennes et de petits collectifs de tailles variables (jusqu’à R+6). Il est a noter que la parcelle est située à proximité d’un manoir classé petit patrimoine Nantais . Le mur de pierre existant sur la limite avec l’espace public devait être conservé.*
 
-Située dans le centre-ville de Nantes à deux pas de l’Erdre, le projet s’inscrit dans un tissu urbain hétéroclite. Sa volumétrie résulte de l’observation du bâti existant composé de maisons individuelles mitoyennes et de petits collectifs de tailles variables (jusqu’à R+6). Il est a noter que la parcelle est située à proximité d’un manoir classé petit patrimoine Nantais . Le mur de pierre existant sur la limite avec l’espace public devait être conservé.
+*Le terrain présente une forme allongée, étroit sur sa façade Rue (moins de 10m), et s’élargit dans sa profondeur (plus de 18m en fond de parcelle). Il est uniquement accessible par la rue principale Le site présente une forte déclivité (5m) . Seul le plateau haut permet l’implantation de la construction (12m de profondeur).*
 
-Le terrain présente une forme allongée, étroit sur sa façade Rue (moins de 10m), et s’élargit dans sa profondeur (plus de 18m en fond de parcelle). Il est uniquement accessible par la rue principale Le site présente une forte déclivité (5m) . Seul le plateau haut permet l’implantation de la construction (12m de profondeur).
+*Des arbres remarquables (espace boisé classé) ont fait l’objet d’un travail de conservation et de mise en valeur lors du projet paysager. La Twist house reprend dans son écriture architecturale les lignes de niveaux topographiques en continuité du jardin en « terrasse ». Elle poursuit par sa morphologie l’ascension du paysage .*
 
-Des arbres remarquables (espace boisé classé) ont fait l’objet d’un travail de conservation et de mise en valeur lors du projet paysager. La Twist house reprend dans son écriture architecturale les lignes de niveaux topographiques en continuité du jardin en « terrasse ». Elle poursuit par sa morphologie l’ascension du paysage .
+*Son déhanchement volumétrique issu d’une lecture approfondie du PLU , provoque pour chaque espace une position privilégiée et unique en lien étroit avec son environnement. La recherche de la lumière est un élément fort du projet. Cette verticalité (14.50m au faitage) offre des espaces de vie sur 4 niveaux distribués par un escalier « ruban ». D’aspect sculptural il se déploie le long d’un curieux pan incliné.*
 
-Son déhanchement volumétrique issu d’une lecture approfondie du PLU , provoque pour chaque espace une position privilégiée et unique en lien étroit avec son environnement. La recherche de la lumière est un élément fort du projet. Cette verticalité (14.50m au faitage) offre des espaces de vie sur 4 niveaux distribués par un escalier « ruban ». D’aspect sculptural il se déploie le long d’un curieux pan incliné.
+*La construction ossature béton est habillée d’un chic bardage laqué blanc posé à l’horizontal. Les niveaux sont faussés dans leur lecture par la position des châssis vitrés et du mur rideau sur jardin. La Twist house n’a rien des clichés de la maison individuelle et cultive le mystère de sa fonction. Cette maison s’inscrit dans son temps en dialoguant avec le patrimoine du passé et préfigure du patrimoine de demain."*
 
-La construction ossature béton est habillée d’un chic bardage laqué blanc posé à l’horizontal. Les niveaux sont faussés dans leur lecture par la position des châssis vitrés et du mur rideau sur jardin. La Twist house n’a rien des clichés de la maison individuelle et cultive le mystère de sa fonction. Cette maison s’inscrit dans son temps en dialoguant avec le patrimoine du passé et préfigure du patrimoine de demain.
+:::right
+
+:::small
+
+*Benjamin Avignon*
+
+:::
+
+:::right
+
+Maître d’ouvrage privé\
+Nantes (44)\
+SDP 192 m²\
+Réalisation en 2021\
+Budget de NC € ht\
+Conception architecturale : Benjamin Avignon
+
+:::
