@@ -1,5 +1,5 @@
 ---
-title: B E T O N   C U L T E
+title: BETON CULTE
 order: 0
 show_in_nav: true
 background_color: "#FFFFFF"
