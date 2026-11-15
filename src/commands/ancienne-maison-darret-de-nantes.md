@@ -25,4 +25,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794763673/18062013-_MG_2808-Panorama_xfjpux.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794763678/18062013-_MG_2860-Panorama_cuebzd.jpg
 ---
+### **2013**
+
 *"Construite en 1865 par l'architecte Joseph-Fleury Chenantais, sa fermeture définitive est survenue le 2 juin 2012. La maison d'arrêt a été construite au coeur du centre-ville de Nantes pour répondre à la logique de la société de l'époque. Un souterrain reliant la prison au palais de justice était emprunté par les détenus pour être jugés. La maison d'arrêt a remplacé l'ancienne prison La Fayette, reconnue « insalubre », implantée sur le site de l'actuel lycée Jules-Verne. Une prison, qui avait l'inconvénient majeur d'être inondée en permanence. À l'intérieur du mur d'enceinte, bâti en losange, s'alignent des bâtiments avec un rond-point central de surveillance. Prévue à l'origine pour 400 détenus en dortoirs, avec une moyenne de 300 occupants, elle s'avérera vite « inadaptée », puisqu'en 1875, on commence à créer des cellules individuelles."*
