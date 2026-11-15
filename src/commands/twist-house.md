@@ -45,8 +45,6 @@ gallery:
 
 *La construction ossature béton est habillée d’un chic bardage laqué blanc posé à l’horizontal. Les niveaux sont faussés dans leur lecture par la position des châssis vitrés et du mur rideau sur jardin. La Twist house n’a rien des clichés de la maison individuelle et cultive le mystère de sa fonction. Cette maison s’inscrit dans son temps en dialoguant avec le patrimoine du passé et préfigure du patrimoine de demain."*
 
-<br/>
-
 :::right
 
 :::small
