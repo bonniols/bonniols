@@ -1,6 +1,6 @@
 ---
 title: UIMM 44
-order: 2
+order: 3
 show_in_nav: true
 background_color: "#3e2532"
 invert_text_color: true
