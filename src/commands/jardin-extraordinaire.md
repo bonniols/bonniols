@@ -6,6 +6,7 @@ background_color: "#fdff8e"
 invert_text_color: false
 use_background_color_in_slider: true
 gallery:
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792054912/260601_JardinExtraordinaire_HD_063_kcib7d.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792057097/260429_JardinExtraordinaire_HD_028_usps4p.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792055268/260429_JardinExtraordinaire_HD_027_vft9v1.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792057094/260429_JardinExtraordinaire_HD_025_z8szyt.jpg
@@ -16,7 +17,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792054908/260601_JardinExtraordinaire_HD_042_iusdgx.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792054912/260601_JardinExtraordinaire_HD_056_anewp3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792054912/260601_JardinExtraordinaire_HD_053_nyqfcd.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792054912/260601_JardinExtraordinaire_HD_063_kcib7d.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792054912/260601_JardinExtraordinaire_HD_046_xmosmn.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792054915/260601_JardinExtraordinaire_HD_058_bpgfxy.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792055251/260324_JardinExtraordinaire_HD_013_qet96x.jpg
