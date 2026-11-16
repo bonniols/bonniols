@@ -35,7 +35,9 @@ gallery:
 ---
 ### 2004 - 2006
 
-*A l’époque de* L’idiot du voyage<sup>1</sup>*, ce touriste rebaptisé par Jean-Didier Urbain, est-il encore possible de tisser un regard singulier et intime sur notre patrimoine naturel et culturel ? Entre 2004 à 2006 j’ai observé ce tourisme "scopique", dans quelques uns des sites remarquables de France.*
+*A l’époque de* L’idiot du voyage<sup>1</sup>*, ce touriste rebaptisé par Jean-Didier Urbain, est-il encore possible de tisser un regard singulier et intime sur le patrimoine naturel et culturel français ? Entre 2004 à 2006 j’ai observé ce tourisme "scopique" dans quelques uns des sites remarquables de France.* 
+
+*Mont Saint-Michel, Tour Eiffel, Musée du Louvre, oeuvre architecturale du Corbusier (Chapelle Ronchamp, Cité Radieuse de Marseille,Couvent de la Tourette, Eglise de Firminy), Château de Chambord, Viaduc de Millau, Aiguille du Midi, Dune du Pilat.*
 
 :::right
 
