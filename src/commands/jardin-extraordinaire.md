@@ -51,12 +51,16 @@ gallery:
 
 :::
 
+:::right
+
 <br/>
 
-> **Maîtrise d'ouvrage :**\
-> Nantes métropole Aménagement
->
-> **Maîtrise d'oeuvre :**\
-> Mabire-Reich Architectes mandataires
->
-> NOVAM, BET TCE
+**Maîtrise d'ouvrage** \
+Nantes métropole Aménagement
+
+**Maîtrise d'oeuvre** \
+Mabire-Reich Architectes mandataires
+
+NOVAM, BET TCE
+
+:::
