@@ -2,13 +2,12 @@
 title: TWIST HOUSE
 order: 2
 show_in_nav: true
-background_color: "#FFFFFF"
-invert_text_color: false
+background_color: "#490404"
+invert_text_color: true
 use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751275/_FSB2118-Panorama_x8p08g.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751277/_FSB2235-Panorama_afe1d0.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1794751302/Panorama_sans_titre1234_hum0at.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751277/_FSB2244_oywbgp.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751271/_FSB2166_vpzts7.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751271/_FSB2126_1_vqrdlf.jpg
@@ -25,7 +24,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751269/_FSB1850_jzbfii.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751272/_FSB2231-Panorama_k2cefr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751300/_FSB5326_lxzruk.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1794751272/_FSB2167_1_ffrasg.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751302/_FSB5336-Panorama-3_yhj7si.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751305/_FSB5355_bo8nic.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751274/_FSB5144_u0h75z.jpg
