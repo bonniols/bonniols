@@ -2,8 +2,8 @@
 title: ANCIENNE MAISON D'ARRET DE NANTES
 order: 7
 show_in_nav: true
-background_color: "#FFFFFF"
-invert_text_color: false
+background_color: "#4b5585"
+invert_text_color: true
 use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794763727/18062013-_MG_2912-Panorama_ex6kfw.jpg
