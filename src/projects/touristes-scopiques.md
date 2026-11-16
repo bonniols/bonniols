@@ -45,6 +45,6 @@ gallery:
 
 :::small
 
-> *<sup>1</sup>"L'idiot du voyage", éditions Payot, 2002, Jean Didier Urbain*
+> <sup>1</sup>Jean Didier Urbain, "L'idiot du voyage". Editions Payot, Paris, 2002.
 
 :::
