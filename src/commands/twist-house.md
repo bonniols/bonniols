@@ -21,7 +21,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751271/_FSB2159_kioaqd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751270/_FSB2148_wo8gd8.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751269/_FSB1962_2_jqwg4h.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1794751269/_FSB1850_jzbfii.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751272/_FSB2231-Panorama_k2cefr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751300/_FSB5326_lxzruk.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794751302/_FSB5336-Panorama-3_yhj7si.jpg
