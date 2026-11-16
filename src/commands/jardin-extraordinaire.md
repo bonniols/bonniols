@@ -53,6 +53,8 @@ gallery:
 
 :::right
 
+:::small
+
 <br/>
 
 **Maîtrise d'ouvrage** \
