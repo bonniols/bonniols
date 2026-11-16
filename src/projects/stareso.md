@@ -37,8 +37,6 @@ gallery:
 
 ### Résidence à la Station de Recherches Sous-marines et Océanographiques de Calvi, Corse.
 
-<br/>
-
 Université de Lèges, architecte Claude Strebelle (1972)
 
 <br/>
