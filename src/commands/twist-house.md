@@ -2,7 +2,7 @@
 title: TWIST HOUSE
 order: 2
 show_in_nav: true
-background_color: "#490404"
+background_color: "#2c0303"
 invert_text_color: true
 use_background_color_in_slider: true
 gallery:
