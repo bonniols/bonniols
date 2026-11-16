@@ -54,6 +54,8 @@ gallery:
 
 :::right
 
+:::small
+
 Maître d’ouvrage privé\
 Nantes (44)\
 SDP 192 m²\
