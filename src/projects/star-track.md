@@ -9,16 +9,14 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791804605/30052010-_DSC6220_lbru7u.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791804605/29052010-_DSC6140_qfvh2n.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791811220/SBonniol_Bolivie_juin10_005_ievic1.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773676/SBonniol_Bolivie_juin10_027_2_p5pkzt.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773740/SBonniol_Bolivie_juin10_044_clooqf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799660/SBonniol_Bolivie_juin10_039_rbtdih.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773740/SBonniol_Bolivie_juin10_044_clooqf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/06062010-_DSC7789_wwobo4.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773603/Bonniol_Portfolio_046_qie5be.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773605/Bonniol_photographie_090_amogjo.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773604/Bonniol_photographie_089_bmph1y.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773603/Bonniol_Portfolio_045_lo9xwr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799648/ALMA_054_wh14hs.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773605/Bonniol_Portfolio_049_g8il2u.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799663/SBonniol_Bolivie_juin10_017_t34psb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773589/Bonniol_photographie_077_tlo02e.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773602/Bonniol_photographie_082_qibbhk.jpg
