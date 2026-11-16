@@ -9,9 +9,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793277499/003_adf1ut.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273387/MtStMich_ckjeoe.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273387/troca_u6gj60.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265659/009_rsb3jz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793273539/5264_lkfea2.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1793265653/004_hnzyc3.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265654/013_x7jj2m.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793384419/equipee_jfpwfh.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1793265659/maniements_1_jemkxm.jpg
