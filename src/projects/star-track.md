@@ -11,8 +11,8 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794917666/S.Bonniol_Bolivie_juin10_001_gu0zij.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/_DSC7117_cryj83.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791811220/SBonniol_Bolivie_juin10_005_ievic1.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1794917589/S.Bonniol_Bolivie_juin10_033_yf5mga.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799660/SBonniol_Bolivie_juin10_039_rbtdih.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794917589/S.Bonniol_Bolivie_juin10_033_yf5mga.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773740/SBonniol_Bolivie_juin10_044_clooqf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773603/Bonniol_Portfolio_045_lo9xwr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799648/ALMA_054_wh14hs.jpg
@@ -22,16 +22,16 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799663/SBonniol_Bolivie_juin10_017_t34psb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773589/Bonniol_photographie_077_tlo02e.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773602/Bonniol_photographie_082_qibbhk.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1792171485/16_xjcgzi.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773603/Bonniol_photographie_079_ewtx3g.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1792171485/16_xjcgzi.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_081_zhrx2s.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773606/Panorama_sans_titre100_exc3mr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773584/_DSC7162_x4bbam.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794917537/Bonniol_photographie_084_seusgq.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_083_pzn3sd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792171486/vly2_xtgm9w.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773607/Bonniol_photographie_085_olm9ds.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_083_pzn3sd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792171484/vlt1_timipr.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773607/Bonniol_photographie_085_olm9ds.jpg
 ---
 ### 2010
 
@@ -45,8 +45,6 @@ Paraboles, ondes, balises.\
 
 Optiques, nébuleuses, horizon.\
 *L'hôtel ESO déserté le soir : usage nocturne des miroirs du VLT <sup>2</sup>.*
-
-
 
 :::small
 
