@@ -26,12 +26,13 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773584/_DSC66623_lhpmsb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773606/Panorama_sans_titre100_exc3mr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773584/_DSC7162_x4bbam.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773595/Bonniol_photographie_084_sjrxjq.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_083_pzn3sd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792171486/vly2_xtgm9w.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773607/Bonniol_photographie_085_olm9ds.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792171484/vlt1_timipr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/_DSC7117_cryj83.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794916799/30052010-_DSC622_oqy3he.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790773589/06062010-_DSC7794_wd7ytj.jpg
 ---
 ### 2010
 
