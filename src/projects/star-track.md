@@ -37,14 +37,16 @@ gallery:
 
 <br/>
 
-*Le chantier des antennes géantes d'ALMA<sup>1</sup> en attente d'un ordre de marche.*\
-*Paraboles, ondes, balises.*
+Sable, sel, poussière.\
+*Voyage dans la cordillère des Andes, déserts d'Uyuni, du sud Lipez, de l'Atacama et sites d'observatoires astronomiques chiliens.*
 
-*L'hôtel ESO déserté le soir : usage nocturne des miroirs du VLT <sup>2</sup>.*\
-*Optiques, nébuleuses, horizon.*
+Paraboles, ondes, balises.\
+*Le chantier des antennes géantes d'ALMA<sup>1</sup> en attente d'un ordre de marche.*
 
-*"Star Track" est un voyage dans la cordillère des Andes, à travers les déserts d'Uyuni, du sud Lipez, de l'Atacama, et des sites d'observatoires astronomiques chiliens.*\
-*Sable, sel, poussière.*
+Optiques, nébuleuses, horizon.\
+*L'hôtel ESO déserté le soir : usage nocturne des miroirs du VLT <sup>2</sup>.*
+
+
 
 :::small
 
