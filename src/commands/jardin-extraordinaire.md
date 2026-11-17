@@ -32,8 +32,12 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792055259/260526_JardinExtraordinaire_HD_041_ryh0z0.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792055290/260915_JardinExtraordinaire_HD_090_g1tgfh.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792055329/260915_JardinExtraordinaire_HD_095_oubdlb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794915537/261014_JardinExtraordinaire_Basdef_100_rtwmyw.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794915538/261014_JardinExtraordinaire_Basdef_102_udaeoh.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794915540/261014_JardinExtraordinaire_Basdef_105_bfp48v.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1794915539/07112026-_DSF4679-Panorama__ynwf7m.jpg
 ---
-### 2026 - projet en cours 
+### 2026 - projet en cours
 
 **Suivi de végétalisation du local technique.**
 
