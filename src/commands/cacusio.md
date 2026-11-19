@@ -30,10 +30,15 @@ gallery:
 ---
 ### **2013**
 
-**Commande photographique de Baptiste Ymonet & Vincent Jousseaume pour l'[Atelier Polyhedre](https://www.polyhedre.com/)**\
+**Commande photographique pour la réalisation de Cacusio.**
+
+**[ATELIER POLYHEDRE](https://www.polyhedre.com/)**, Baptiste Ymonet & Vincent Jousseaume\
 \
 Faïence, chêne et cuivre.
 
 Oeuvre réalisée dans le cadre du 1% artistique pour la construction du Ceisam, institut de chimie moléculaire, Université de Nantes, par l’agence Forma 6.
 
 Avec le concours des entreprises [Ebénisterie Générale](https://www.ebenisterie-generale.com/fr/) et [Ze Plombier](https://www.zeplombier.fr/).
+
+> **Edition :**\
+> Dépliant au format A1 (84,1 X 59,4 cm) imprimé recto-verso chez Chiffoleau à Nantes.
