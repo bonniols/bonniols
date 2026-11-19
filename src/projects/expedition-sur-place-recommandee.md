@@ -6,30 +6,28 @@ background_color: "#fce2e1"
 invert_text_color: false
 use_background_color_in_slider: true
 gallery:
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244030/_MG_0118_snn20g.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082345/Donges_001_bdegtn.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082343/Meriadeck_002_efbs4q.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082342/Meriadeck_001_fbb3jn.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082344/Nantes_003_rogxye.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082360/Nantes_001_oo9d9e.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082338/Nantes_002_aspsgb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082357/Tunis_001_p24zjs.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082361/Tunis_002_ed3azi.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082360/Tours_001_uyc6l4.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082362/Tours_002_uotgzg.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082348/Rome_bjs1bt.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082363/Royan_002_l24yij.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082349/Royan_001_rk5xss.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082348/Pantin_001_gfcwoi.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082338/LeHavre_002_kiaicp.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082335/LeHavre_001_g6wqfv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244573/008_ipgwzo.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244572/007_dcjdh5.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244568/006_bgcjcb.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244567/005_m0nvgm.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244556/003_jzbzjz.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244564/004_f9vlnd.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244035/001_ohbxq9.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244294/002_ebksna.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244579/Multiples2015_RDV_55_nvwnmv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244576/141114_040_jhkkfb.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244581/Multiples2015_RDV_56_pzpcgh.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244024/_DSC9724_piekfn.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244025/_DSC9775_hya6hs.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244030/_MG_0118_snn20g.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082363/Royan_002_l24yij.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082345/Donges_001_bdegtn.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082362/Tours_002_uotgzg.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082361/Tunis_002_ed3azi.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082360/Nantes_001_oo9d9e.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082360/Tours_001_uyc6l4.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082357/Tunis_001_p24zjs.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082349/Royan_001_rk5xss.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082348/Rome_bjs1bt.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082348/Pantin_001_gfcwoi.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244024/_DSC9724_piekfn.jpg
 ---
 ### 2010 - 2018
 
