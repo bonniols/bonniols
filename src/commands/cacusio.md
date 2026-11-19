@@ -6,6 +6,7 @@ background_color: "#e8f9fc"
 invert_text_color: false
 use_background_color_in_slider: true
 gallery:
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795092513/140414_CACUSIO_023_hvvslw.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088283/140414_CACUSIO_022_qlqay7.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088291/140414_CACUSIO_029_vmdrfo.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088301/140414_CACUSIO_035_aqfnlu.jpg
