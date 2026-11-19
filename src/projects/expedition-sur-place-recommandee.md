@@ -23,11 +23,10 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795082348/Pantin_001_gfcwoi.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795082338/LeHavre_002_kiaicp.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795082335/LeHavre_001_g6wqfv.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244573/008_ipgwzo.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244579/Multiples2015_RDV_55_nvwnmv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244576/141114_040_jhkkfb.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244579/Multiples2015_RDV_55_nvwnmv.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244573/008_ipgwzo.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244025/_DSC9775_hya6hs.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244024/_DSC9724_piekfn.jpg
 ---
 ### 2010 - 2018
 
