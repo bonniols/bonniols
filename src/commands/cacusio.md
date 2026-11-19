@@ -28,4 +28,13 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795089733/140414_CACUSIO_001_prxvcz.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088305/atelier_polyhedre_ie69kf.jpg
 ---
-Atelier Polyhedre
+### **2013**
+
+**Commande photographique de l'Atelier Polyhedre**\
+**Baptiste Ymonet & Vincent Jousseaume**\
+\
+Faïence, chêne et cuivre.
+
+Oeuvre réalisée dans le cadre du 1% artistique pour la construction du Ceisam, institut de chimie moléculaire, Université de Nantes, par l’agence Forma 6.
+
+Avec le concours des entreprises Ebénisterie Générale et Ze Plombier.
