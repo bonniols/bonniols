@@ -20,6 +20,16 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244024/_DSC9724_piekfn.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244025/_DSC9775_hya6hs.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244030/_MG_0118_snn20g.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082363/Royan_002_l24yij.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082345/Donges_001_bdegtn.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082362/Tours_002_uotgzg.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082361/Tunis_002_ed3azi.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082360/Nantes_001_oo9d9e.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082360/Tours_001_uyc6l4.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082357/Tunis_001_p24zjs.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082349/Royan_001_rk5xss.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082348/Rome_bjs1bt.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795082348/Pantin_001_gfcwoi.jpg
 ---
 ### 2010 - 2018
 
