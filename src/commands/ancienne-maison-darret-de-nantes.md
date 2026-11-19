@@ -1,6 +1,6 @@
 ---
 title: ANCIENNE MAISON D'ARRET DE NANTES
-order: 7
+order: 10
 show_in_nav: true
 background_color: "#242632"
 invert_text_color: true
