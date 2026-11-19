@@ -40,5 +40,7 @@ Oeuvre réalisée dans le cadre du 1% artistique pour la construction du Ceisam,
 
 Avec le concours des entreprises [Ebénisterie Générale](https://www.ebenisterie-generale.com/fr/) et [Ze Plombier](https://www.zeplombier.fr/).
 
+<br/>
+
 > **Edition :**\
 > Dépliant au format A1 (84,1 X 59,4 cm) imprimé recto-verso chez Chiffoleau à Nantes.
