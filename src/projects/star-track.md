@@ -8,11 +8,9 @@ use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794918522/06062010-_DSC7794_2_qpc3fv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1794916799/30052010-_DSC622_oqy3he.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1794917666/S.Bonniol_Bolivie_juin10_001_gu0zij.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773587/_DSC7117_cryj83.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791811220/SBonniol_Bolivie_juin10_005_ievic1.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799660/SBonniol_Bolivie_juin10_039_rbtdih.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1794917589/S.Bonniol_Bolivie_juin10_033_yf5mga.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773740/SBonniol_Bolivie_juin10_044_clooqf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773603/Bonniol_Portfolio_045_lo9xwr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1791799648/ALMA_054_wh14hs.jpg
@@ -32,6 +30,9 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_083_pzn3sd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792171484/vlt1_timipr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773607/Bonniol_photographie_085_olm9ds.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795084685/SBonniol_Bolivie_juin10_033_vzweir.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795084685/SBonniol_Bolivie_juin10_001_viwiuu.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795084683/SBonniol_Bolivie_juin10_003_2_nwol3i.jpg
 ---
 ### 2010
 
