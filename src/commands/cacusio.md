@@ -1,8 +1,8 @@
 ---
 title: CACUSIO
 order: 9
-show_in_nav: false
-background_color: "#FFFFFF"
+show_in_nav: true
+background_color: "#e8f9fc"
 invert_text_color: false
 use_background_color_in_slider: true
 gallery:
