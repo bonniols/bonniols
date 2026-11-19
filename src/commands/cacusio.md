@@ -30,11 +30,10 @@ gallery:
 ---
 ### **2013**
 
-**Commande photographique de l'Atelier Polyhedre**\
-**Baptiste Ymonet & Vincent Jousseaume**\
+**Commande photographique de Baptiste Ymonet & Vincent Jousseaume pour l'[Atelier Polyhedre](https://www.polyhedre.com/)**\
 \
 Faïence, chêne et cuivre.
 
 Oeuvre réalisée dans le cadre du 1% artistique pour la construction du Ceisam, institut de chimie moléculaire, Université de Nantes, par l’agence Forma 6.
 
-Avec le concours des entreprises Ebénisterie Générale et Ze Plombier.
+Avec le concours des entreprises [Ebénisterie Générale](https://www.ebenisterie-generale.com/fr/) et [Ze Plombier](https://www.zeplombier.fr/).
