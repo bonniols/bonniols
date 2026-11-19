@@ -32,7 +32,6 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773594/Bonniol_photographie_083_pzn3sd.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1792171484/vlt1_timipr.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790773607/Bonniol_photographie_085_olm9ds.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795084683/SBonniol_Bolivie_juin10_003_2_nwol3i.jpg
 ---
 ### 2010
 
