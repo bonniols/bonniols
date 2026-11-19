@@ -25,6 +25,7 @@ gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795082335/LeHavre_001_g6wqfv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244576/141114_040_jhkkfb.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244579/Multiples2015_RDV_55_nvwnmv.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790244294/002_ebksna.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244573/008_ipgwzo.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790244025/_DSC9775_hya6hs.jpg
 ---
