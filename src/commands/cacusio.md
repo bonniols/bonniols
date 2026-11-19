@@ -8,12 +8,13 @@ use_background_color_in_slider: true
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088284/140414_CACUSIO_023.1_zvrbwx.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088283/140414_CACUSIO_022_qlqay7.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795088291/140414_CACUSIO_029_vmdrfo.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088301/140414_CACUSIO_035_aqfnlu.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088300/140414_CACUSIO_034_wypxij.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088293/140414_CACUSIO_031_iagzt1.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088292/140414_CACUSIO_030_h8buf7.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1795088291/140414_CACUSIO_029_vmdrfo.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795087390/140414_CACUSIO_020_gxagwv.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795088284/140414_CACUSIO_025_hetv7a.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088284/140414_CACUSIO_026_ozp5v6.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795088290/140414_CACUSIO_028_urfkda.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795087380/140414_CACUSIO_018_pywk8u.jpg
