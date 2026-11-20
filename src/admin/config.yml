@@ -6,7 +6,7 @@ locale: "fr"
 
 # Production site (no trailing slash). Needed for the editor preview iframe and
 # “view live” links on published entries. Use your Netlify URL or custom domain.
-site_url: https://bonniols.netlify.app
+site_url: https://www.bonniol-photo.com
 
 media_folder: src/assets/img
 public_folder: /assets/img
