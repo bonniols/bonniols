@@ -72,7 +72,7 @@ Smart-Appart, Saint-Nazaire\
 <https://www.smart-appart.fr/fr/hotels/saint-nazaire-smartappart-saint-nazaire>
 
 Galerie HAZY, Centre photographique Le Pouliguen\
-<https://galerierdv.com/>
+[https://www.hasy.fr/artistes/sylvain-bonniol](https://galerierdv.com/)
 
 Galerie RDV, Nantes\
 <https://galerierdv.com/>
