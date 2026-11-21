@@ -49,7 +49,7 @@ gallery:
 
 <br/>
 
-*Lorsque nous arrivons avec ma compagne au fond du vallon de l’Ilette en 2018 dans le but d’y installer un atelier de peinture et un studio photo, je ne prête aucune attention au terrain qui agrémente la parcelle. Le confinement sera pourtant propice à une exploration approfondie de cet espace. Il se présente comme une friche à la lisère d’un bosquet et d’une prairie humide, classée ZNIEFF <sup>2</sup>, le long d’un corridor ornithologique.*
+*Lorsque nous arrivons avec ma compagne au fond du vallon de l’Ilette en 2018 dans le but d’y installer un atelier de peinture et un studio photo, je prête peu d'attention au terrain qui agrémente la parcelle. Le confinement sera pourtant propice à une exploration approfondie de cet espace. Il se présente comme une friche à la lisère d’un bosquet et d’une prairie humide, classée ZNIEFF <sup>2</sup>, le long d’un corridor ornithologique.*
 
 *Dès 2019 je m’exile dehors, à ciel ouvert, attiré par le caractère touffu et inextricable de cet environnement. Je documente activement mes explorations jusqu’aux méandre de l’Ilette, mais aussi mes gestes d’apprentissage de jardinier. Au gré des saisons, un paysage prend forme au-delà des limites de parcelle, suggérant d’autres parcours, d’autres points de vue, d’autres champs.*
 

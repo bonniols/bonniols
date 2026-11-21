@@ -6,12 +6,12 @@ background_color: "#e8f7ff"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075452/VCN_001_uautpc.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790075510/VCN_005_stzlfe.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1790075502/VCN_002_r7nlov.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075504/VCN_003_auf6a1.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075513/VCN_004_bywqhf.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075510/VCN_006_hxkuoj.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790075502/VCN_002_r7nlov.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075554/VCN_017_xcijpk.jpg
+  - https://res.cloudinary.com/yxpagolc/image/upload/v1795178040/VCN_027_bz5bpe.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075554/VCN_016_hykwrl.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075536/VCN_014_v8pjnv.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075555/VCN_019_w6vg9g.jpg

@@ -39,9 +39,9 @@ gallery:
 
 *A première vue Simples sauvages est un projet photographique qui peut s’apparenter à un herbier. Il s’agit d’un corpus d’une centaine d’images élaborées au fil d’un processus d’herborisation des plantes sauvages que je prélève pour réaliser leur « portrait » photographique.*
 
-*C’est dans mon studio que le projet bifurque de l’herbier traditionnel vers une approche plus méditative. Là, dans cette "serre noire" du studio, je cherche à voir l’altérité silencieuse des plantes, où chaque espèce s’incarne dans une forme qui lui est propre.*
+*C’est dans mon studio que le projet bifurque de l’herbier traditionnel vers une approche plus contemplative. Là, dans cette "serre noire" du studio, je cherche à voir l’altérité silencieuse des plantes, où chaque espèce s’incarne dans une forme qui lui est propre.*
 
-*Les Simples sont des plantes « sauvages » cultivées de-puis des siècles dans les jardins des monastères et des couvents. Elles sont consommées pour leurs vertus médicinales et culinaires.*
+*Les Simples sont des plantes « sauvages » cultivées depuis des siècles dans les jardins des monastères et des couvents. Elles sont consommées pour leurs vertus médicinales et culinaires.*
 
 *« Simplicis herbae », littéralement les plantes qui soignent. Pratique largement oubliée par nos contemporains, la reconnaissance des plantes sauvages suscite pourtant un regain d’intérêt ces dernières années, sans doute motivé par l’urgence d’une conscience écologique.*
 
