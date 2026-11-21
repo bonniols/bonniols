@@ -278,3 +278,10 @@
         }
     }
 }
+
+/* Swiper sets `touch-action: pan-y` on horizontal sliders, which blocks pinch-zoom
+   whenever the gesture starts on the gallery. Unlayered so it beats Swiper's
+   (also unlayered) stylesheet. */
+.gallery-swiper .swiper-horizontal {
+    touch-action: pan-y pinch-zoom;
+}
