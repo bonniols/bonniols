@@ -6,7 +6,6 @@ background_color: "#e8f7ff"
 invert_text_color: false
 gallery:
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795430646/160412_HD_182_goj2tb.jpg
-  - https://res.cloudinary.com/yxpagolc/image/upload/v1790075554/VCN_017_xcijpk.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1795178040/VCN_027_bz5bpe.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075555/VCN_019_w6vg9g.jpg
   - https://res.cloudinary.com/yxpagolc/image/upload/v1790075536/VCN_014_v8pjnv.jpg
