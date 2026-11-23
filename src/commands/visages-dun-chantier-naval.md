@@ -36,8 +36,6 @@ gallery:
 
 <br/>
 
-<br/>
-
 *"Pendant deux années, investi dans sa mission, il a arpenté nos bureaux, nos cales et nos ateliers, identifiant les lieux et les gens, explorant chaque recoin, composant avec les espaces et leurs contraintes, avec le beau et le mauvais temps, avec l’intensité de l’activité qui laissait peu de disponibilité, avec l’humeur des modèles, mais au final convainquant même les plus résistants de venir livrer une partie d’eux-mêmes jamais révélée."*
 
 :::small
