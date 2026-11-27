@@ -137,9 +137,6 @@ Editions Shinkenchiku-sha\
 Editions Joca Seria\
 <https://www.jocaseria.fr/>
 
-Box Conseil Editions\
-<https://www.boxconseil.fr/>
-
 <br/>
 
 #### *Textes critiques / Citations*
