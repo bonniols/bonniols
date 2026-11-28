@@ -33,7 +33,7 @@ gallery:
 
 ### Chantier de réhabilitation des anciennes Halles Alstom.
 
-### Carte blanche en collaboration avec Benjamin Avignon Architecte.
+### Carte blanche confiée par Benjamin Avignon architecte.
 
 <br/>
 
