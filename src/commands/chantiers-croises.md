@@ -29,7 +29,7 @@ gallery:
 ---
 ### **2014 - 2016**
 
-**Résidence et campagne photographique à Saint-Lupien, Rezé**
+**Carte blanche confiée par le CIAP (Centre d'Interprétation de l'Architecture et du Patrimoine) de Rezé.**
 
 <br/>
 
